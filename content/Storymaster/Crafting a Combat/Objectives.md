@@ -1,0 +1,13 @@
+### Ideas
+- Skirmish: (Until Defeat)
+- Survival (can escape at any time, the longer you survive the greater the reward)
+- Escort
+- Rescue
+	- Get a person or object out of there. Make them difficult to get to.
+- Defence
+	- Stop enemies from getting past you for an amount of time
+	- Stop enemies from destroying something
+- Destroy
+	- Destroy an item or character on the field
+- Collection
+	- Things will spawn at the start of the round, you need to be the only one adjacent to it at the end of the round to claim it. Claim more than the enemy

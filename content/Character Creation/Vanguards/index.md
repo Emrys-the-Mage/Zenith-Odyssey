@@ -1,0 +1,33 @@
+---
+title: Vanguards
+aliases:
+  - Vanguards
+---
+**Vanguards** are frontliners who can take a lot of hits without worry, while dishing out large amounts of damage. If you want to protect your party and do the most single target damage, play a **Vanguard**.
+### Navigation
+- [[Vanguard Talents]]
+- [[Moves]]
+- [[Vanguard Weapons]]
+### Classes
+There are 4 Classes of **Vanguard**:
+- **[[Character Creation/Vanguards/Classes/Disciple/index|Disciple]]**, brawlers whose serenity grants them a clarity unseen to others. 
+- **[[Character Creation/Vanguards/Classes/Exemplar/index|Exemplar]]**, warriors who master technique and discipline to become unmatched in their consistency.
+- **[[Character Creation/Vanguards/Classes/Fury/index|Fury]]**, gladiators who shrug off damage thanks to their large health pool, while frequently hitting devastating critical hits.
+- **[[Character Creation/Vanguards/Classes/Knight/index|Knight]]**, heroes who through their strength, courage, and armour, will ensure their friends’ safety.
+### Adrenaline
+While in combat, **Vanguards** utilise a resource called **Adrenaline**. A **Vanguard** starts a fight with very little **Adrenaline**, but it builds up quickly over the course of a battle.  
+
+At the beginning of combat, you start with 1 || 2 || 3 **Adrenaline**. You gain **Adrenaline** in the following ways:
+- When you are targeted by a hostile action, such as an attack or are forced to make a save against an effect you did not create, gain **1 Adrenaline**.
+- Each time you hit an enemy with a _Basic Attack_, gain **1 Adrenaline**.  
+Depending on your Class, Talents, and Moves, there may be additional ways for you to generate **Adrenaline**.  
+
+Your **Adrenaline** can never exceed 5 || 7 || 9. If you would gain an amount of **Adrenaline** that exceeds this number, any excess **Adrenaline** is lost.  
+### Exploit Opening
+Once per round, when an enemy is within reach of your weapon and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.
+### Moves
+When it’s time to show off in battle, it’s time to use a **Move**. To use a **Move**, you must expend the listed amount of **Adrenaline**. If you don’t have enough **Adrenaline**, you will need to build up more before you can use the **Move**.  
+
+You learn **[[Moves]]** according to your Class. You can only use **Moves** that you have learned.  
+
+**Moves** are separated into three Tiers, corresponding to the Tier of your character. You can only learn a **Move** if you are of the corresponding Tier or higher.

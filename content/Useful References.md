@@ -1,0 +1,13 @@
+- [[Your Turn]], to find what you can do on your turn, including actions you can take.
+- [[Keywords]], to find the mechanics behind common tags and words.
+- [[Conditions & Statuses]], to discover how much trouble you're in when you've been given one.
+### Tips
+- Vanguards are best equipped to tank damage from enemies, help them keep the enemies' focus on them!
+- Adepts & Mages are most effective when they aren't spending resources to stay alive. Positioning and teamwork is essential.
+- Mages excel at dealing with Minions and Hordes.
+- Prophets are powerful but fragile, protect them so they can protect you!
+- Don't forget about the [[Your Turn#Grapple|Grapple]], [[Your Turn#Taunt|Taunt]], and [[Your Turn#Brace|Brace]] actions.
+- Anyone can rescue a fallen ally, just use the [[Your Turn#Aid|Aid]] Minor Action.
+- There are many synergies between abilities, build your characters together if you wish to optimise your effectiveness!
+- A Mage's main defence against damage is their [[Character Creation/Mages/index#Mana Shield|Mana Shield]], ensure to always keep spare Mana just in case.
+- Adepts are great at avoiding damage all together, but when they get hit its game over. Make sure to keep some Focus Points spare for your [[Character Creation/Adepts/index#Focus Dodge|Focus Dodge]]!

@@ -1,0 +1,51 @@
+#### Description
+###### Example Titles
+#### Features
+##### Elemental Infusion
+Your very essence is infused with an element of the world. Select an **Element** below, gaining its **Spells** and Feature. The Spell Tag you use for your Natural Sorcery feature is listed in your chosen Element.
+
+---
+**INCENDIARY MAGIC**  
+*Spell Tag: Fire*
+
+**Granted Spells.**  
+*Tier I: [[Spells#FIREWALL|Firewall]], [[Spells#SPONTANEOUS COMBUSTION|Spontaneous Combustion]]*  
+*Tier II:*  
+*Tier III:*  
+**Feature: SPREADING EMBERS**  
+When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a Weapon with the Fire tag, you may also **1 || 2 || 3** [[Keywords#Persistent Damage|Persistent Damage]] on a different target within Range 6.
+
+---
+**GLACIAL MAGIC**  
+*Spell Tag: Ice*
+
+**Granted Spells.**  
+*Tier I: [[Spells#FLASH FREEZE|Flash Freeze]], [[Spells#ICE SPEARS|Ice Spears]]*  
+*Tier II:*  
+*Tier III:*  
+**Feature: CRYSTAL DEFENCE**  
+When you cast a **Spell** with the Ice tag, you gain **3 || 6 || 9** [[Keywords#Shield|Shield]].
+
+---
+**SEISMIC MAGIC**  
+*Spell Tag: Stone*
+
+**Granted Spells.**  
+*Tier I: [[Spells#HURL BOULDER|Hurl Boulder]], [[Spells#STONEWALL|Stonewall]]*  
+*Tier II:*  
+*Tier III:*  
+**Feature: UNMOVABLE**  
+You are immune to all forms of involuntary movement and gain **1 || 2 || 3** [[Keywords#Armour|Armour]].
+
+---
+**TYPHONIC MAGIC**  
+*Spell Tag: Storm*
+
+**Granted Spells.**  
+*Tier I: [[Spells#ARCING CURRENT|Arcing Current]], [[Spells#INVOKE LIGHTNING|Invoke Lightning]]*  
+*Tier II:*  
+*Tier III:*  
+**Feature: WINDMASTER**  
+Whenever you spend **Mana**, you may fly yourself or another character within Range 3 up to 3 spaces. This movement doesn't trigger any Reactions. If the chosen character is unwilling, they must succeed on a **MIGHT** save to resist the effect.
+
+---
