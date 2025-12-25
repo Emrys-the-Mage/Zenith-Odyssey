@@ -9,7 +9,7 @@
 |   **Save Target**   |   9    |   14    |    19    |              |        |         |          |
 |      **Size**       |   1    |    1    |    1     |              |        |         |          |
 ##### Reflex
-When the **Skirmisher** takes damage, they may move up to 2 || 3 || 4 spaces as a Reaction. This movement does not trigger other Reactions. 
+When the **Skirmisher** takes damage, they may move up to **2 || 3 || 4** spaces as a Reaction. This movement does not trigger other Reactions. 
 
 ---
 ### Actions

@@ -135,7 +135,7 @@ You may spend **1 Strain** to pick up and carry all of your allies into an adjac
 Once per day, you divine what is within a Hex. Choose a Hex within 5 Hexes of you. You immediately learn of its **Terrain Type** and contents, as if you had **Searched** it.
 ##### Weather Ritual
 *Prerequisite: [[Character Creation/Prophets/Classes/Wilder/index|Wilder]]*  
-You may spend **2 Stress** to modify the weather for the day. When you do so, you may add or subtract 1 from the weather roll that day.
+You may spend **3 Stress** to modify the weather for the day. When you do so, you may add or subtract 1 from the weather roll that day.
 
 ### Ideas
 - Adept can declare they have found a shortcut, reducing cost to move into a Hex.
