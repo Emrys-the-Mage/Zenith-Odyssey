@@ -2,18 +2,16 @@
 draft: "true"
 ---
 # Priorities
-1. SPECIALTIES
-2. MORE ENEMIES
-3. MORE PROPHET TALENTS
-4. MORE ABILITIES
-5. MORE EQUIPMENT
+1. MORE ENEMIES
+2. MORE PROPHET TALENTS
+3. MORE ABILITIES
+4. MORE EQUIPMENT
 	1. MORE WEAPONS
 	2. MORE ARTEFACTS
 	3. MORE CONSUMABLES
-6. Finish writing out Combat/Narrative Rules
-7. Encounter Building System
-8. Guide to making Hex maps
-9. Downtime + Rest rules written out
+5. Finish writing out Combat/Narrative Rules
+6. Encounter Building System
+7. Guide to making Hex maps
 ### Order of Damage Receiving Modification
 1. Aegis, ignore following
 2. Adept's Dodge, Prophet's Divine Intervention
@@ -29,9 +27,6 @@ draft: "true"
 - Write down rules for having multiple weapons somewhere, i.e., that you may swap weapons as a free action at the start of your turn.
 - Tinkerer talent tree with companion to modify it, poop mines
 - Give something in Tier III a d100 damage
-- Artefacts can grant narrative bonuses, combat bonuses, or both.
-	- One that grants flight
-- Consider dropping Knight's Armour to 2.
 - Summonable weapon talent for all types. As a narrative talent?
 - Wilder, Beastheart. Let them turn into animals, and eventually turn into big animals! (Like whales)
 - Seer Talent that makes you blind, but buffed/granted sight another way. Maybe as a Narrative Talent
@@ -46,7 +41,6 @@ draft: "true"
 - Limit survivability talents per type, so you can't just make an immortal character by stacking them all.
 - Mana rework so that damages auto-scale with Tier, and Mana scales more slowly?
 - Tier III Move for Fury that lets you rip apart a grappled target
-- Maybe make purchasing consumables a cost equal to the normal cost + the crafting clock?
 - Add prerequisites/recipes for consumables. Add a Artisan Talent that lets you ignore prerequisites.
 - Wilder can use Divine Intervention on Bird
 - Adepts can use focus on companions
@@ -54,8 +48,6 @@ draft: "true"
 - Mount for Vanguards (sets SPEED to a value, other benefit)
 - Miracle that transfers damage from PC to another. Cannot be turned off until one PC is DEFEATED.
 - Hazard rules (move into this space or start your turn in it).
-- Up damage of enemies
-- Give priest a built in way to use favour other than Smite.
 - Make Vanguards Moves cooler? Things like Batter Up and Leg Swipe are kinda boring. They do greatly increase damage by granting additional attacks, but still. Maybe include more things that aren't additional attacks. 
 - Maybe change it to spend a Strain to heal to full. Consider how it affects Vanguards. Test in a campaign. If this affects Vanguards too much but you find it good, spend Stress to regain Mana/Divine Intervention/Focus?
 - Rules for walls/constructs/etc. Immune to psychic and other effects. 0 EVASION. Fails all saves except **MIGHT**.
@@ -68,15 +60,6 @@ draft: "true"
 - Attack that does something like "deals X damage n times"
 - Move/Trick called "Fake-Out", deal 1 damage, then deal X (lots) damage.
 - Come up with a systematic way to determine damage for weapons and abilities
-- Write rules on the Bag, Artefacts, and Consumables
-	- Bag: Can claim any item (within reason). May make certain rolls possible, grant a Boon on a check, or increase Reward on a check.
-	- Recommend the GM gives out one artefact per player per quest
-	- Weapon that makes you invisible on hit
-	- Consumables can be bought during downtime, crafted, or found on quests as loot.
-		- Temporarily upgraded weapons. Sharpened. Etc.
-		- Potions, poisons, etc
-		- Imbue things with temporary magic
-		- Bless things, make holy water, make remedies.
 - Change skeletal summons to happening automatically at the start of turns 1, 3, and 5.
 - Damage rounds down on halved
 - Give Queen of Bones a special Dash Action
@@ -90,17 +73,6 @@ draft: "true"
 	- Adepts & Mages who aren't being targeted become much more effective.
 	- One in three treasure chests is actually a mimic!
 # Mechanics
-##### Downtime
-- 2 Actions per Downtime
-- Crafting
-- Healing (Scars)
-- Odd jobs (for Coin)
-- Work on a Project
-- Find information
-- Research a crafting recipe
-- Add a "Montage" feel to it
-##### Crafting
-- Does crafting require ingredients? No, just Essence.
 # Storymaster
 ##### Combat Building
 - Need a budget system to build balanced combats. Use "Difficulty Points" but with a better name since DP is an unfortunate acronym
@@ -113,14 +85,6 @@ draft: "true"
 - Environmental Effects
 ##### Quest Building
 ##### Loot
-- Artefacts
-	- Provide stat increases as well as bonus effects.
-	- Weapon with expanded reach
-	- Invisible on hit
-- Consumables
-	- Add prices and clocks to make them.
-	- An expensive one that revives a recently deceased PC, coming back with all Scars.
-	- A (less expensive) one that removes Scars.
 ##### Generic Enemies 
 - Sentinel
 - Horde (gets weaker/smaller as it gets damaged)
