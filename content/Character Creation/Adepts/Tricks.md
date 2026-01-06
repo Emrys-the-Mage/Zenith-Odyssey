@@ -65,7 +65,7 @@ You attempt to push all creatures and loose objects within a Size 3 Square in Ra
 -----
 ##### Infected Shot
 *Minor Action, Alchemy*  
-You coat your weapon or ammunition in a poison. Make an attack with your weapon against a target.
+You coat your weapon or ammunition in a poison. Make an attack with your Weapon against a target. On a hit, the target suffers an additional effect according to the success level below.
 
 | **Success Level** | **Effect**                                                                                                                                       |
 | :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

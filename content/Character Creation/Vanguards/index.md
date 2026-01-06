@@ -19,7 +19,7 @@ While in combat, **Vanguards** utilise a resource called **Adrenaline**. A **Van
 
 At the beginning of combat, you start with 1 || 2 || 3 **Adrenaline**. You gain **Adrenaline** in the following ways:
 - When you are targeted by a hostile action, such as an attack or are forced to make a save against an effect you did not create, gain **1 Adrenaline**.
-- Each time you hit an enemy with a _Basic Attack_, gain **1 Adrenaline**.  
+- Each time you use your _Basic Attack_, gain **1 Adrenaline**.  
 Depending on your Class, Talents, and Moves, there may be additional ways for you to generate **Adrenaline**.  
 
 Your **Adrenaline** can never exceed 5 || 7 || 9. If you would gain an amount of **Adrenaline** that exceeds this number, any excess **Adrenaline** is lost.  

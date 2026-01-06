@@ -59,7 +59,6 @@ Break this runestone to release the energy stored within, drawing it into yourse
 ##### Serene Tea
 *Cost: 3 Essence, Craft: 5*  
 Drink this tea to regain **3 || 4 || 5** **Focus Points**.
-
-- More offensive *Splash* items
-- Talent for artisan to be goated at crafting
-- Something that makes you better at stealth, buffs Sneak checks
+##### Venom Dose
+*Cost: 4 Essence, Craft: 6*  
+You apply this venom to your weapon. Until the end of the scene, your weapon deals an additional **2 [[Keywords#Persistent Damage|Persistent Damage]]** on a hit.
