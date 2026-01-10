@@ -37,7 +37,7 @@ Thanks to your wings, you can fly short distances with ease.
 #### Angelkin
 *Description Here.*
 ###### Helping Hand
-When you spend **1 Stress** to help someone on a Skill Check and they Succeed or Critically Succeed, you clear **1 Stress**.
+When you help someone on a Skill Check, you may spend an additional **Stress** to grant an additional boon (granting them **+2 Boons** total).
 #### Demonkin
 *Description Here.*
 ###### Inherited Devilry
