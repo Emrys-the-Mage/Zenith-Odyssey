@@ -9,11 +9,11 @@
 |   **Save Target**   |   14   |   18    |    22    |              |        |         |          |
 |      **Size**       |   4    |    4    |    4     |              |        |         |          |
 ##### Nemesis
-**The Worm of Shattered Glass** can take a number of turns in a round equal to the number of PCs.
+**The Snake of Shattered Glass** can take a number of turns in a round equal to the number of PCs.
 ##### Glass Armour
-**The Worm of Shattered Glass** has **8 || 12 || 20 Armour**. Each time it takes damage through this Armour, reduce its Armour by 1 (tracked on a d8, d12, or d20).
+**The Snake of Shattered Glass** has **8 || 12 || 20 Armour**. Each time it takes damage through this Armour, reduce its Armour by 1 (tracked on a d8, d12, or d20).
 ##### Shattered
-For every **2 Armour** the Worm is missing, it gains an additional [[Conditions & Statuses#Strength|STRENGTH]].
+For every **2 Armour** the Snake is missing, it gains an additional [[Conditions & Statuses#Strength|STRENGTH]].
 
 ---
 ### Actions
@@ -30,7 +30,7 @@ Shards of glass fall on a Size 4 Circle within Range 8. All characters within mu
 Can be used as either a *Melee Attack* (Reach 3) or an AoE (Line 3, FINESSE Save). Does **2d6 || 4d6 || 6d6** damage.
 ##### Splinter (1/round)
 *Reaction*  
-When damage is dealt through its **Armour**, the **Worm of Shattered Glass** may use the following attack.
+When damage is dealt through its **Armour**, the **Snake of Shattered Glass** may use the following attack.
 
 **Splinter**  
 *Ranged Attack, Range 5*  
