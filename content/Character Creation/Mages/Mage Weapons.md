@@ -3,6 +3,10 @@ Mage weapons consist of Grimoires, staffs, orbs, wands and more. Select a weapon
 *Ranged Attack, Range 8*  
 *[[Keywords#Knockback|Knockback]] 2, Stone*  
 **Damage:** 1d6 || 2d6 || 3d6
+##### Elderblood Shard
+*Ranged Attack, Range 6*  
+**Damage:** 1d6 || 2d6 || 3d6  
+On a hit, you gain **+1 Boon** on your next attack or save.
 ##### Flamelick Wand
 *Ranged Attack, Range 8*  
 *Fire*  
@@ -13,6 +17,11 @@ On a hit, the target takes 1 || 2 || 3 [[Keywords#Persistent Damage|Persistent D
 *Ice*  
 **Damage:** 1d6 || 2d6 || 3d6  
 On a hit, the target is [[Conditions & Statuses#Slowed|SLOWED]].
+##### Psi Crystal
+*Ranged Attack, Range 6*  
+*[[Keywords#Accurate|Accurate]]*  
+**Damage:** 1d4 || 2d4 || 3d4  
+On a hit, the target becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of your next turn.
 ##### Tempest Grimoire
 *Ranged Attack, Range 12*  
 *Lightning*  

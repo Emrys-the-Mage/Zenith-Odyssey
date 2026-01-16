@@ -9,6 +9,3 @@ You sacrifice your blood in exchange for magical energy. Sacrifice any amount of
 #### Features
 ##### Vitality Extraction
 As a Minor Action, you may attempt to consume the vitality of a target within Range 6. The target must make a **MIGHT** save. On a failed save, the target loses **1d6 || 2d6 || 3d6** **HP** and you regain **1 || 2 || 3 HP**.
-
-- Debuffs
-- Persistent Damage

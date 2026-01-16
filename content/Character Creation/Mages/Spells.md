@@ -302,6 +302,11 @@ On a successful save, the target will take **1d4 || 2d4 || 3d4** damage.
 ---
 ## Tier III
 ---
+##### Doom
+*X Mana, Major Action*  
+- Summon a black hole 
+
+---
 ##### Eldritch Maw
 *Prerequisite: [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
 *0 Mana, Major Action*  

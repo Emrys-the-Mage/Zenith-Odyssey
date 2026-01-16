@@ -1,7 +1,20 @@
+##### Ball of Light
+*Ranged Attack, Range 6*  
+**Damage:** 1d6 || 2d6 || 3d6  
+On a hit, the target becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of your next turn.
+##### Carved Bones
+*Ranged Attack, Range 8*  
+**Damage:** 1d6 || 2d6 || 3d6  
+On a hit, the target becomes [[Conditions & Statuses#Weak|WEAK]] **1 || 2 || 3** until the end of their next turn.
+##### Divine Chains
+*Melee Attack, Reach 2*  
+*[[Keywords#Deadly|Deadly]]*  
+**Damage:** 1d8 || 2d8 || 3d8  
+On a **Critical Hit**, the target becomes [[Conditions & Statuses#Stunned|STUNNED]].
 ##### Empyrean Staff
 *Ranged Attack, Range 8*  
 **Damage:** 1d6 || 2d6 || 3d6  
-On a hit, the target is [[Conditions & Statuses#VULNERABLE|VULNERABLE]] 1 || 2 || 3 until the end of their next turn.
+On a hit, the target is [[Conditions & Statuses#VULNERABLE|VULNERABLE]] **1 || 2 || 3** until the end of their next turn.
 ##### Holy Amulet
 *Ranged Attack, Range 5*  
 *[[Keywords#Graze|Graze]]*  
@@ -16,5 +29,3 @@ On a hit, the target is [[Conditions & Statuses#MARKED|MARKED]].
 *Ranged Attack, Range 15*  
 *[[Keywords#Graze|Graze]]*  
 **Damage:** 1d6 || 2d6 || 3d6  
-
-

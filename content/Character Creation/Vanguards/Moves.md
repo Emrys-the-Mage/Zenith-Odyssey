@@ -12,7 +12,7 @@ You take this Reaction when you would take damage. You immediately gain the effe
 -----
 ##### Combo
 *2 Adrenaline, Free Action*  
-When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another an attack with your weapon against the same target. This move can trigger itself, if you spend the **Adrenaline** again.
+When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another attack with your weapon against the same target. This move can trigger itself, if you spend the **Adrenaline** again.
 
 -----
 ##### Leg Swipe
@@ -61,11 +61,6 @@ You flourish your weapon in a spiral around you. All characters adjacent to you 
 ## Tier III
 ---
 ##### Cosmic Uppercut
-
----
-##### Last Stand
-*1 Adrenaline, Free Action*  
-You may only use this **Move** as a Free Action at the beginning of your turn. Immediately set your current **HP** to 1 and gain **9 Adrenaline**. You cannot regain **HP** in any way until the end of your next turn.
 
 ---
 ##### One Serious Punch

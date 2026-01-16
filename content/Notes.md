@@ -6,9 +6,8 @@ draft: "true"
 2. MORE PROPHET TALENTS
 3. MORE ABILITIES
 4. MORE EQUIPMENT
-	1. MORE WEAPONS
-	2. MORE ARTEFACTS
-	3. MORE CONSUMABLES
+	1. MORE ARTEFACTS
+	2. MORE CONSUMABLES
 5. Finish writing out Combat/Narrative Rules
 6. Encounter Building System
 7. Guide to making Hex maps
