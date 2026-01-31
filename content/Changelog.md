@@ -1,13 +1,18 @@
 ---
 draft: "true"
 ---
-### Version 1.02 // In Progress
+### Version 1.02 // Ancestry Rebalance, Mage Rework & Other Tweaks
 *Date: DD/MM/YYYY*  
 **Ancestry Rebalance**  
 Some of the Ancestries with worse features stood out as less desirable picks, and so their features have been buffed.
 - Humans buffed, and now gain a Boon on making a check in which they have a 0.
 - Buffed Goblin, who now treats all Dangerous Skill Checks as Risky.
 - Changed Angelkin so that they are more reliably useful when helping
+
+**Mage Rework**  
+A Mage's effectiveness in battle was too easily diminished upon taking damage, especially if that damage was taken early in combat. So instead of spending Mana directly to block damage, a Mage now has a **Hex Barrier**.
+
+The **Hex Barrier** acts as a buffer before damage eats into their Mana, which allows the Mage to more freely spend their Mana on spells.\
 
 **Other Changes**  
 - New generic Minor Action: **Dodge**
