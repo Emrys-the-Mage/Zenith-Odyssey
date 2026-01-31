@@ -14,7 +14,7 @@ On a **Critical Hit**, the target becomes [[Conditions & Statuses#Stunned|STUNNE
 ##### Empyrean Staff
 *Ranged Attack, Range 8*  
 **Damage:** 1d6 || 2d6 || 3d6  
-On a hit, the target is [[Conditions & Statuses#VULNERABLE|VULNERABLE]] **1 || 2 || 3** until the end of their next turn.
+On a hit, the target is [[Conditions & Statuses#VULNERABLE|VULNERABLE]] **1 || 2 || 3** until the end of your next turn.
 ##### Holy Amulet
 *Ranged Attack, Range 5*  
 *[[Keywords#Graze|Graze]]*  

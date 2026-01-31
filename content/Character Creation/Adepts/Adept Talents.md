@@ -30,7 +30,7 @@ Increase your HP by 2.
 ##### Hipfire
 You no longer suffer consequences from attacking with a Ranged weapon while adjacent to an enemy.
 ##### In the Groove
-When you score a **Critical Hit**, you regain **1 Focus Point**.
+When you score a **Critical Hit**, you regain **4 Focus Dice**.
 ##### Focused Attack
 When making an attack roll with one or more **Boons**, you may trade one of the **Boons** to lower your **Crit Threshold** by 2 for that attack.
 ##### More Up My Sleeve
@@ -60,11 +60,11 @@ When using a **Trick** with the chosen tag, you can roll an additional d6 when d
 *Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
 You may *Shove* a target within Range 5 as a Minor Action. When you do so, you may choose to move them directly towards you or directly away from you.
 ##### Watch Out!
-When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Points** to help them avoid the damage, as if you were spending them to avoid damage for yourself.
+When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Dice** to help them avoid the damage, as if you were spending them to avoid damage for yourself using your **Focus Dodge** feature.
 ### Tier II
 ##### Automation
 *Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index|Artisan]]*  
-Select a **Trick** you know. You are able to use this **Trick** without spending any **Focus**, rolling 1d6 for the **Trick** when you do so.
+Select a **Trick** you know. You are able to use this **Trick** without spending any **Focus Dice**, rolling **1d6** for the **Trick** when you do so.
 ##### Behold, My Glorious Creation
 *Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index|Artisan]], [[Adept Talents#Behold, My Creation|Behold, My Creation]]*  
 You further modify your weapon, using an additional 2 Modifications from those listed below or those listed in [[Adept Talents#Behold, My Creation|Behold, My Creation]].
@@ -79,10 +79,10 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | Poisoned         | On a hit, the target takes an additional 1 \|\| 2 \|\| 3 [[Keywords#Persistent Damage\|Persistent Damage]]. |
 ##### Psychic Regeneration
 *Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-When you would gain **1 Focus Point** at the start of each of your turns, you may choose to regain **1 HP** instead.
+When you would gain **2 Focus Dice** at the start of each of your turns, you may choose to regain **1 HP** instead.
 ##### Shadow Jump II
 *Prerequisite: [[Adept Talents#Shadow Jump|Shadow Jump]]*  
-You may spend **1 Focus Point** to use your Shadow Jump additional times during a combat.
+You may spend **2 Focus Dice** to use your Shadow Jump additional times during a combat.
 ##### Umbral Shroud
 *Prerequisite: [[Character Creation/Adepts/Classes/Shade/index|Shade]]*  
 You may use a Minor Action to turn yourself [[Conditions & Statuses#Invisible|INVISIBLE]].

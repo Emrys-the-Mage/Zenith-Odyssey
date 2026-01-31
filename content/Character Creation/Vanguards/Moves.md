@@ -12,7 +12,9 @@ You take this Reaction when you would take damage. You immediately gain the effe
 -----
 ##### Combo
 *2 Adrenaline, Free Action*  
-When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another attack with your weapon against the same target. This move can trigger itself, if you spend the **Adrenaline** again.
+When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another attack with your weapon against the same target. This Move can trigger itself, if you spend the **Adrenaline** again.
+
+When you use this Move, you make the attack with **+1 Bane**. If you then trigger this Move with itself, you gain an additional **+1 Bane** on each successive attack (**+1 Bane** on the first, **+2 Banes** on the second, **+3 Banes** on the third, and so on). 
 
 -----
 ##### Leg Swipe

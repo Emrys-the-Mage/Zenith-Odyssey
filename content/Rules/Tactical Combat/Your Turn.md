@@ -15,6 +15,8 @@ You reach out to a fallen ally, bringing them back into the fray. Select a [[Con
 You use your *Basic Attack* granted by your weapon.
 ##### Dash
 You move up to your **SPEED**.
+##### Dodge
+You impose **+1 Bane** on all attacks against you until the start of your next turn.
 ##### Grapple
 To Grapple, choose an adjacent character and make an attack against them. On a hit, the following are in effect until the Grapple ends:
 - Neither character can Dash or take Reactions

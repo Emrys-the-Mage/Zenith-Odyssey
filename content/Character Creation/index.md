@@ -99,7 +99,7 @@ To quickly build a Level 1 character, you will need to:
 - Choose a **Class** and **Specialty**, noting the Core Statistics and Features.
 - Choose your **Ancestry**, noting its feature.
 - Choose a **Weapon**.
-- Choose 1 **Combat Talents** and 1 **Narrative Talent**.
+- Choose 1 **Combat Talent** and 1 **Narrative Talent**.
 - Choose your **Moves**, **Tricks**, **Spells**, or **Miracles**.
 - Set three of your **Skills** to 2, four of your Skills to 1, and leave the rest as 0. Then, calculate your **Saves**.
 - Choose your character's **Name**, **Pronouns**, **Title**, and **Theme**.

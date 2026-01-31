@@ -11,3 +11,4 @@
 - There are many synergies between abilities, build your characters together if you wish to optimise your effectiveness!
 - A Mage's main defence against damage is their [[Character Creation/Mages/index#Mana Shield|Mana Shield]], ensure to always keep spare Mana just in case.
 - Adepts are great at avoiding damage all together, but when they get hit its game over. Make sure to keep some Focus Points spare for your [[Character Creation/Adepts/index#Focus Dodge|Focus Dodge]]!
+- If an ally takes a consequence in Narrative Play, you may attempt to take it in their stead!

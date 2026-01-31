@@ -22,7 +22,7 @@ A **Psychic** uses their psionic power to fuel their abilities. Uniquely, they m
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
 #### Features
 ##### Limit Push
-You can push your powers past their natural limit, to the detriment of your own health. You may expend your **HP** as **Focus Points** when using **Tricks**.
+You can push your powers past their natural limit, to the detriment of your own health. At any point, you may trade any amount of **HP** in exchange for twice as many **Focus Dice** which must be spent immediately. These **Focus Dice** do not count toward the maximum amount of **Focus Dice** you can have at a time.
 #### Specialty
 When creating a Psychic, you may select a branch of psionics that you specialise in. Choose one of the following:
 - [[Perception]]

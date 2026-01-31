@@ -24,7 +24,7 @@ You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick*
 ##### Prepared Creations
 You gain **2 || 3 || 4** **Preparation Points**. Outside of combat, you may spend these points to prepare some of your **Tricks**. When you do so, allocate your **Preparation Points** to your chosen **Prepared Tricks**. You may prepare a given **Trick** multiple times, allocating **Preparation Points** to each instance separately.
 
-During combat, you may expend a **Prepared Trick** to use the **Trick** without spending any **Focus Points**, rolling **2d6** for each **Preparation Point** you allocated for the **Trick**.
+During combat, you may expend a **Prepared Trick** to use the **Trick** without spending any **Focus Dice**, rolling **2d6** for each **Preparation Point** you allocated for the **Trick**.
 #### Specialty
 You are an expert in your field. Choose a specialisation below.
 - [[Alchemist]]

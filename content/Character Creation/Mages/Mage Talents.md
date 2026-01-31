@@ -67,13 +67,15 @@ Your **Spells** with the Summons tag gain the following Augment.
 *Spirit Form. 4 Mana*  
 The characters you summon in this **Spell** are [[Conditions & Statuses#Invisible|INVISIBLE]].
 ### Tier II
-##### Battlemage
-Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
 ##### Burning Blood
 *Prerequisite: [[Primordial]] (Incendiary Magic) or [[Devil Magicks]]*  
 You become immune to [[Keywords#Persistent Damage|Persistent Damage]].
+##### Calculated Risk
+As a Free Action at the end of your turn, you may sacrifice any amount of your **Hex Barrier** to regain the same amount of **Mana**.
 ##### Chain Reaction
 When a **Spell** you cast requires you to make attack rolls against multiple targets or requires that multiple targets make a save against the **Spell**, you regain **1 Mana** for each target that is hit or fails its save after the first.
+##### Defensive Magicks
+Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
 ##### Efficient Exchange
 *Prerequisite: [[Sanguimancy]]*  
 When you use your Scarlet Secrets Forbidden Deal, you gain **3 Mana** for each **HP** sacrificed, instead of 2.
@@ -86,6 +88,8 @@ You gain a special type of [[Keywords#Armour|Armour]] (**1 || 3 || 5**) that onl
 ##### Siphon
 When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ### Tier III
+##### Battlemage
+When using your Hex Barrier to defend against a Melee Attack, you may instead reduce the damage by 2 for each point spent.
 ##### Independence
 *Prerequisite: [[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]*  
 Once on each of your turns, you may direct one of your summons as a Free Action as if you had spent a Minor Action to do so.
