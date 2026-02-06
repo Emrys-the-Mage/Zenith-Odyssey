@@ -2,7 +2,7 @@
 
 | **Core Statistics** | Tier I | Tier II | Tier III |  **Saves**   | Tier I | Tier II | Tier III |
 | :-----------------: | :----: | :-----: | :------: | :----------: | :----: | :-----: | :------: |
-|       **HP**        |   50   |   100   |   150    |  **MIGHT**   |   +3   |   +7    |   +11    |
+|       **HP**        |   40   |   80    |   120    |  **MIGHT**   |   +3   |   +7    |   +11    |
 |       **HIT**       |   +1   |   +5    |    +9    | **FINESSE**  |   -1   |   +3    |    +7    |
 |     **EVASION**     |   6    |   10    |    14    |   **WIT**    |   +0   |   +4    |    +8    |
 |      **SPEED**      |   3    |    3    |    3     | **PRESENCE** |   +0   |   +4    |    +8    |
@@ -13,10 +13,10 @@ The Size of the **Horde** varies with the amount of **HP** it has left, accordin
 
 | **Remaining HP** | **Size** |
 | :--------------: | :------: |
-|   101 or over    |    5     |
-|      51-100      |    4     |
-|      26-50       |    3     |
-|   25 or under    |    2     |
+|    81 or over    |    5     |
+|      41-80       |    4     |
+|      21-40       |    3     |
+|   20 or under    |    2     |
 ##### Many Folk
 The **Horde** takes double damage from effects acting on multiple spaces the **Horde** occupies.
 
@@ -35,7 +35,9 @@ If the target of this attack is enveloped (as above), the attack is made with **
 
 ---
 ### Amplifiers
-##### Amplifier 1
+##### Conjoin
+When a **Horde** moves into another **Horde**'s space, the two merge. The resultant **Horde** has all Conditions, Statuses, and Amplifiers that were applied to the two original **Hordes**, and it's **HP** is the sum of the two original's current **HP**.
+
 
 ---
 ### Loot

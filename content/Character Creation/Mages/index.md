@@ -5,7 +5,8 @@ aliases:
 ---
 **Mages** are individuals with the capability to use magic to produce wondrous effects. If you want to cast flashy spells and shape the battlefield, play a **Mage**.
 ### Navigation
-- [[Mage Talents]]
+- [[Mage Narrative Talents]]
+- [[Mage Combat Talents]]
 - [[Spells]]
 - [[Mage Weapons]]
 ### Classes

@@ -26,7 +26,7 @@ Damage on hit: **3 || 6 || 9**.
 ---
 ### Amplifiers
 ##### Exploding
-When the Minion is [[Conditions & Statuses#Defeated|DEFEATED]], they explode in a Size 2 Circle. All characters within the explosion must pass a **FINESSE** save or take **1d6 || 2d6 || 3d6** damage, taking half as much on a success.
+When the Minion is [[Conditions & Statuses#Defeated|DEFEATED]], they explode in a Size 2 Circle. All characters within the explosion must pass a **FINESSE** save or take **1d6 || 2d6 || 3d6** damage.
 
 ---
 ### Loot

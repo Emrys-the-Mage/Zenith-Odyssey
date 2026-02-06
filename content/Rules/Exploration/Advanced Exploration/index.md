@@ -29,7 +29,7 @@ At the start of each day, roll on the table below to determine the **Weather**. 
 | You gain **1 Stress** at the start of the day. You cannot clear **Stress** in any way. |
 | You cannot see into Hexes you are not within.                                          |
 | The players must mark twice as many **Supplies** at the end of the day.                |
-| All Hexes take +1 hour to enter                                                        |
+| All Hexes take +1 hour to enter.                                                       |
 ### Travel
 ##### Hex Terrain Types
 
@@ -116,26 +116,4 @@ Roll an appropriate Skill Check and advance a clock for the project. The amount 
 - Foraging Clock. 6-clock.
 - Hours (day by day). Can use a 8-clock.
 ## Talents for Advanced Exploration
-If you're using Advanced Exploration, you may present the following to the Players and allow them to pick one per Tier of their character, in addition to their normal Talents.
-##### Climber
-*Prerequisite: [[Character Creation/Adepts/index|Adept]]*  
-Once per day, you may claim you have found the perfect thing to climb. You may then climb the object you had found, and gain the ability to see into Hexes up to 2 spaces away.
-##### Gate
-*Prerequisite: [[Character Creation/Mages/index|Mage]]*  
-You may spend **1 Strain** to teleport yourself and your allies to a Hex you have been to before.
-##### Insomniac
-During each day, you may take an additional **Rest Action**. However, you reduce your **Stress Cap** by 1.
-##### Lucky
-When you roll on a Search table, you may roll an additional d20 and choose which to use for the result. Only one instance of Lucky can be used on a given Search roll.
-##### Onwards!
-*Prerequisite: [[Character Creation/Vanguards/index|Vanguard]]*  
-You may spend **1 Strain** to pick up and carry all of your allies into an adjacent Hex, ignoring the time cost of entering the Hex.
-##### Visions
-*Prerequisite: [[Character Creation/Prophets/index|Prophet]]*  
-Once per day, you divine what is within a Hex. Choose a Hex within 5 Hexes of you. You immediately learn of its **Terrain Type** and contents, as if you had **Searched** it.
-##### Weather Ritual
-*Prerequisite: [[Character Creation/Prophets/Classes/Wilder/index|Wilder]]*  
-You may spend **3 Stress** to modify the weather for the day. When you do so, you may add or subtract 1 from the weather roll that day.
-
-### Ideas
-- Adept can declare they have found a shortcut, reducing cost to move into a Hex.
+If you're using Advanced Exploration, you may present the [[Exploration Talents]] to the players. Each player may select one talent for their character,

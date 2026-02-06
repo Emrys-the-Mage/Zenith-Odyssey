@@ -23,9 +23,9 @@ When a character becomes WEAK, a value for the WEAK condition is specified. All 
 ## Statuses
 
 ##### Defeated
-A DEFEATED character cannot voluntarily move or take any actions (including Free Actions and Reactions).
+A DEFEATED character cannot voluntarily move or take any actions (including Free Actions and Reactions). If a DEFEATED character would take damage, they take a **Scar**.
 
-**Final Act.** At any time during combat, a DEFEATED player character may claim their Final Act. They immediately interrupt the current turn with a Minor or Major Action of their choice. The player may choose the result of any dice rolls associated with this action, including dice rolls made by others (for example, saves). 
+**Final Act.** At any time during combat, a DEFEATED player character may claim their Final Act. They immediately interrupt the current turn with a Minor Action, Major Action, or Reaction of their choice. The player may choose the result of any dice rolls associated with this action, including dice rolls made by others (for example, saves). 
 
 After taking this action, roll a d20. This d20 is unaffected by boons, banes, bonuses, or any other effect in the game. If the result is anything other than a 20, the character immediately dies. If the result is a 20, the character clears DEFEATED and returns to 1 HP.
 ##### Hidden

@@ -30,7 +30,7 @@ You choose an ally within Range 8, who may perform a *Basic Attack* as a Reactio
 **REPOSITION! (4+)**  
 You choose an ally within Range 8, who may immediately move up to their **SPEED** as a Reaction. This movement does not trigger any other Reactions.
 ##### Leadership
-You gain the [[Adept Talents#Watch Out!|Watch Out!]] talent for free, without it counting towards the number of Talents you know.
+You gain the [[Adept Combat Talents#Watch Out!|Watch Out!]] talent for free, without it counting towards the number of Talents you know.
 #### Specialty
 When making a Luminary, you decide on a style of leadership. Choose one from the list below.
 - [[Beacon]], for those who lead with compassion.

@@ -5,7 +5,7 @@ aliases:
 ---
 **Vanguards** are frontliners who can take a lot of hits without worry, while dishing out large amounts of damage. If you want to protect your party and do the most single target damage, play a **Vanguard**.
 ### Navigation
-- [[Vanguard Talents]]
+- [[Vanguard Combat Talents]]
 - [[Moves]]
 - [[Vanguard Weapons]]
 ### Classes

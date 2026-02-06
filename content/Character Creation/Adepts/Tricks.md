@@ -1,15 +1,27 @@
 ## Tier I
 -----
+##### Analysis
+*Minor Action*  
+You take a moment to inspect the physiology of your opponents. If you use this **Trick** multiple times, you benefit from the highest effect.
+
+| **Success Level** | **Effect**                                                      |
+| :---------------- | --------------------------------------------------------------- |
+| Critical Success  | Reduce your **Crit Threshold** by 3 until the end of the scene. |
+| Success           | Reduce your **Crit Threshold** by 2 until the end of the scene. |
+| Partial Success   | Reduce your **Crit Threshold** by 1 until the end of the scene. |
+| Failure           | No effect.                                                      |
+
+---
 ##### Bear Trap
 *Minor Action, Gadget*  
 You place down a Size 2 bear trap within Range 3. When a character walks over the bear trap, they must make a **WIT** save or trigger the trap, suffering an effect. The trap remains until triggered.
 
-| **Success Level** | **Effect**                                                                                                                                                                                                                                                                                                     |
-| :---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | On a failed save, the target takes 3d6 \|\| 6d6 \|\| 9d6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them. After being released, the target remains [[Conditions & Statuses#SLOWED\|SLOWED]] for the rest of the scene. |
-| Success           | On a failed save, the target takes 2d6 \|\| 4d6 \|\| 6d6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
-| Partial Success   | On a failed save, the target takes 1d6 \|\| 2d6 \|\| 3d6 damage and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
-| Failure           | On a failed save, the target takes 1d6 \|\| 2d6 \|\| 3d6 damage and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn.                                                                                                                                                                   |
+| **Success Level** | **Effect**                                                                                                                                                                                                                                                                                                         |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Critical Success  | On a failed save, the target takes **3d6 \|\| 6d6 \|\| 9d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them. After being released, the target remains [[Conditions & Statuses#SLOWED\|SLOWED]] for the rest of the scene. |
+| Success           | On a failed save, the target takes **2d6 \|\| 4d6 \|\| 6d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
+| Partial Success   | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
+| Failure           | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn.                                                                                                                                                                   |
 
 -----
 ##### Caltrops
@@ -101,7 +113,7 @@ You throw a grenade filled with colourful paint and dust to a space within Range
 -----
 ##### Parkour
 *Minor Action, Movement*  
-You move a number of spaces, detailed in the effect column in the table below. This movement ignores Reactions and any environmental hazards or traps. You may take actions in the middle of this movement.
+You move a number of spaces, detailed in the effect column in the table below. This movement ignores Reactions, **Hazards**, **Slowing Terrain**, and allows you to move through enemies' spaces (though you cannot end in an enemy's space). You may take actions in the middle of this movement.
 
 | **Success Level** | **Effect**                                     |
 | :---------------- | ---------------------------------------------- |
@@ -163,6 +175,29 @@ You throw down a smoke bomb and attempt to disappear.
 -----
 ## Tier II
 -----
+##### Flashbang
+*Minor Action, Sacrifice 1, Gadget*  
+You throw a device that explodes in blinding light to a space within Range 6. Centre a Size 2 Circle on this space. All characters within this Circle must succeed on a **WIT** save or suffer an effect.
+
+| **Success Level** | **Effect**                                                                                                                                  |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Stunned\|STUNNED]] until the end of their next turn.     |
+| Success           | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] until the end of their next turn. |
+| Partial Success   | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] until the end of their next turn.                                                    |
+| Failure           | Targets gain **+1 Bane** on their next attack.                                                                                              |
+
+---
+##### Whispers of the Winds
+*Prerequisite: Melee Weapon*  
+*Major Action, Movement*  
+Your movements blur with incredibly speed. You may make an attack with your Weapon against a number of targets within Range 8 as determined by the success level of the Trick. You then **teleport** to a space of your choice adjacent to your last target.
+
+| **Success Level** | **Effect** |
+| :---------------- | ---------- |
+| Critical Success  | 5 targets. |
+| Success           | 4 targets. |
+| Partial Success   | 2 targets. |
+| Failure           | 1 target.  |
 
 -----
 ## Tier III

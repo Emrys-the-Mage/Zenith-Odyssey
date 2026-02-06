@@ -18,7 +18,7 @@
 *Minor Action*  
 The **Support** chooses a target within Range 8. They become [[Conditions & Statuses#Marked|MARKED]] and [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of the their next turn.
 ##### Embolden
-*Minor Action*  
+*Major Action*  
 The **Support** targets an ally within Range 10. The target gains [[Conditions & Statuses#Strength|STRENGTH]] 2 || 4 || 6 and [[Conditions & Statuses#Resistant|RESISTANT]] 2 || 4 || 6 until the end of their next turn.
 ##### Heal
 *Minor Action*  

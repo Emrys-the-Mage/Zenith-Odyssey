@@ -1,22 +1,3 @@
-## Combat Talents
-### Tier I
-##### Attention Seeker
-When you *Taunt* a target, they gain **+1 Bane** on their save to resist the taunt.
-##### Resilient
-When you are reduced to **0 HP** and become [[Conditions & Statuses#Defeated|DEFEATED]], you gain **2 Strain** in place of a **Scar**.
-##### Swift
-Increase your **SPEED** by **1 || 2 ||** 3.
-##### Undead
-When you would become [[Conditions & Statuses#Defeated|DEFEATED]], roll a **d6**. On a **5+**, you do not become [[Conditions & Statuses#Defeated|DEFEATED]] and return to **1 HP**.
-##### Unnatural Force
-When you take the *Shove* action, you are able to knock back the target up to **3** spaces.
-##### Well Guided
-When you expend [[Conditions & Statuses#Marked|MARKED]] on an enemy, you may reduce your **Crit Threshold** by **2** for that attack.
-### Tier II
-
-### Tier III
-
-## Narrative Talents
 ### Tier I
 ##### Curse of Vampirism
 You have been cursed to live your life with an unholy lust for blood, becoming an undead known as a vampire.
@@ -36,10 +17,14 @@ Regardless of your choice, the emotional trauma of losing control inflicts a **S
 Your ***Bloodlust*** clock is reset to 0 in between Quests.
 ##### "I Won't Let You Down"
 You are driven to ensure you are seen as reliable. When another player spends **Stress** to help you on a **Skill Check** you are making, a result of a 2 or a 3 counts as a Partial Success.
+##### Researcher
+When you make a Skill Check to progress a clock to learn a recipe, you may fill in an additional segment of the clock.
 ##### Small Friend
 You have a small pet that you bring with you on your adventures, providing moral support. You may increase your **Stress Cap** by 1.
+##### Summon Weapon
+Your Weapons are magically bound to you. You may summon them to your hand or dismiss them to a pocket dimension at any time.
 ##### Supernatural Charm
-*Prerequisite: [[Generic Talents#Curse of Vampirism|Curse of Vampirism]] or [[Ancestry#Faeblood|Faeblood]]*  
+*Prerequisite: [[Generic Combat Talents#Curse of Vampirism|Curse of Vampirism]] or [[Ancestry#Faeblood|Faeblood]]*  
 You may spend **2 Stress** to magically enhance your charm. For the rest of the scene, you gain **+1 Boon** on all Command, Sway, and Perform checks.
 ### Tier II
 ##### Skill Mastery
@@ -47,5 +32,5 @@ You may spend **2 Stress** to magically enhance your charm. For the rest of the 
 When increasing your Skills' values, you may do so to a maximum of 4, rather than 3. When you take this Talent, increase one of your Skills by one.
 ### Tier III
 ##### Supernatural Skillset
-*Prerequisite: Tier III, [[Generic Talents#Skill Mastery|Skill Mastery]]*
+*Prerequisite: Tier III, [[Generic Combat Talents#Skill Mastery|Skill Mastery]]*
 When increasing your Skills' values, you may do so to a maximum of 5, rather than 4. When you take this Talent, increase one of your Skills by one.

@@ -17,7 +17,7 @@ On a successful save, a target takes **2 || 4 || 6** damage anyway.
 -----
 ##### Call Minions
 *Prerequisite: [[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]*  
-*3 Mana, Major Action, Summons*  
+*4 Mana, Major Action, Summons*  
 You summon two [[Minion|Minions]] within Range 5. You may only have up to **2 || 4 || 6** **Minions** active at a time.
 
 You may immediately and as a Minor Action on your subsequent turns direct two of your **Minions** to take a turn, dictating their actions. If not directed, your **Minions** will not act, simply waiting around for you to tell them what to do.
@@ -31,7 +31,7 @@ Each **Minion** you summon gains the [[Minion#Exploding|Exploding]] amplifier.
 *Floating. 2 Mana*  
 Each **Minion** you summon gains the [[Generic Amplifiers#Floating|Floating]] amplifier.
 
-*Horde. 3+ Mana*  
+*Horde. 4+ Mana*  
 You summon an additional two [[Minion|Minions]] for every **3 Mana** spent.
 
 ---
@@ -163,17 +163,17 @@ The range of the spell becomes 3, but is *Amplified* as if you had spent **2 Man
 ---
 ##### Lantern
 *2 Mana, Minor Action, Light*  
-You summon a lantern within Range 6. All sources of **soft cover** within Range 2 of the lantern are dissipated. The lantern then disappears.
+You summon a lantern within Range 6. All characters you choose within Range 2 of the lantern must make a **PRESENCE** save or take **2d4 || 4d4 || 6d4** damage.
 
 **Augments**  
-*Held. 1 Mana*  
+*Dispelling. 2 Mana*  
+All sources of **soft cover** within Range 2 of the lantern are dissipated.
+
+*Held. 3 Mana*  
 You instead summon the lantern within your hand. When you summon the lantern and on each of your subsequent turns as a Minor Action you may invoke the effects of the lantern. If you take a turn in which you do not use this Minor Action, the lantern disappears.  
 
 *Revealing. 3 Mana*  
 All characters within Range 2 of the lantern are no longer [[Conditions & Statuses#Invisible|INVISIBLE]] or [[Conditions & Statuses#HIDDEN|HIDDEN]].
-
-*Scorching. 2 Mana*  
-All characters within Range 2 of the lantern must make a **PRESENCE** save or take **2d4 || 4d4 || 6d4** damage.
 
 ---
 ##### Photonic Ray
@@ -300,11 +300,26 @@ On a successful save, the target will take **1d4 || 2d4 || 3d4** damage.
 -----
 ## Tier II
 ---
+
+---
 ## Tier III
 ---
 ##### Doom
-*X Mana, Major Action*  
-- Summon a black hole 
+*20 Mana, Major Action*  
+You summon a Size 5 Circle within Range 10, at the centre of which is a Singularity. All walls, **Slowing Terrain**, **Hazards**, and other ongoing effects in this area are dissipated.
+
+Characters within this area are [[Conditions & Statuses#Slowed|SLOWED]]. If a character starts their turn in the area or enters it on their turn, they must make a **MIGHT** save. If the character is on the Singularity, they take **6d12 damage** on a failure. If they are one space away from the Singularity, they take **5d12** **damage**, two spaces away: 4d12, and so on. On a success, they take half as much damage.
+
+If a character ends their turn in this area, they are pulled 2 spaces towards the Singularity.
+
+When you cast this spell, set aside a d4 with the 1 facing up. At the end of each of your turns (other than this one), increase the value on this d4 by 1. When the die reaches 4, the Spell dissipates.
+
+**Augments**  
+*Extended. 5 Mana*  
+The **Spell** lasts until the d4 would reach a 5, instead of 4.
+
+*Shredding. 5 Mana*    
+The damage dealt by this **Spell** ignores [[Keywords#Armour|Armour]].
 
 ---
 ##### Eldritch Maw

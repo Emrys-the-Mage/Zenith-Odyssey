@@ -91,6 +91,16 @@ Choose a target within Range 8. They must succeed on a **PRESENCE** save or you 
 **Divine Effect:**  
 As Standard Effect, but you learn all the options presented, instead of choosing 2.
 
+---
+##### Rebuke
+*Fate Target: 5*  
+*Reaction*  
+**Standard Effect:**  
+You take this Reaction when an enemy within Range 5 hits an ally of yours with an attack. The enemy must make a **PRESENCE** save or take **1d4 || 2d4 || 3d4 damage**.
+
+**Divine Effect:**  
+As Standard Effect, but the target also becomes [[Conditions & Statuses#Marked|MARKED]] on a failed save.
+
 -----
 ##### Revitalise
 *Fate Target: 8*  
@@ -101,15 +111,25 @@ You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. The
 **Divine Effect:**  
 You bless a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Range 5. They regain all HP and clear the [[Conditions & Statuses#DEFEATED|DEFEATED]] status.
 
+---
+##### Searing Light
+*Fate Target: 7*  
+*Minor Action*  
+**Standard Effect:**  
+You target a [[Conditions & Statuses#Marked|MARKED]] character within Range 6. You expend the [[Conditions & Statuses#Marked|MARKED]] and inflict **1d4 || 2d4 || 3d4** [[Keywords#Persistent Damage|Persistent Damage]] to them.
+
+**Divine Effect:**  
+As Standard Effect, but the target also becomes [[Conditions & Statuses#Marked|MARKED]].
+
 -----
 ##### Starlight
 *Fate Target: 6*  
 *Minor Action*  
 **Standard Effect:**  
-You illuminate a size 1 Circle within Range 8. All characters within the circle are [[Conditions & Statuses#MARKED|MARKED]].  
+You illuminate a Size 1 Circle within Range 8. All characters within the circle are [[Conditions & Statuses#MARKED|MARKED]].  
 
 **Divine Effect:**  
-As Standard Effect, but the Circle grows to size 2.
+As Standard Effect, but the Circle grows to Size 2.
 
 ---
 ##### Summon Roots
@@ -156,6 +176,15 @@ You and all allies have their **Crit Threshold** reduced by 2 until the end of t
 
 -----
 ## Tier II
+---
+##### Forbid
+*Fate Target: 6*  
+*Minor Action*  
+**Standard Effect:**  
+Choose a character within Range 8 and an action you have seen them take during this combat. The target must make a **PRESENCE** save, or be forbidden from taking that action again until after the end of their next turn.
+
+**Divine Effect:**  
+As Standard Effect, but the target automatically fails their save.
 
 -----
 ##### Manipulate Fate

@@ -1,8 +1,26 @@
 ---
 draft: "true"
 ---
-### Version 1.02 // Ancestry Rebalance, Mage Rework & Other Tweaks
+### Version 1.03 // WIP
 *Date: DD/MM/YYYY*  
+- Glimpses of Fate reworked to be more impactful
+- New Moves: Get Over Here & Super Jump
+- New Miracle: Rebuke
+- New Trick: Analysis
+- The Move Suplex now ends the grapple after taking effect.
+- Upper Mana Cost of Call Minions to 4
+- Riftcaller: Necromancer's recycle undeath gives less Mana for Minions
+- New Prophet Combat Talent: Perfect Fate
+- New Vanguard Narrative Talent: Natural Healing
+- New Forager & Navigator Exploration Talents
+- New Researcher Generic Narrative Talent
+- If a character would take damage while DEFEATED, they take an additional **Scar**.
+- Added **Focus Dice Sacrificing** mechanic. More powerful Tricks may require you to expend extra Focus Dice just to use them.
+- **Parkour** Trick allows you to move through enemy spaces and ignore slowing terrain.
+- **Lantern** Spell slightly reworked, now the Augment that deals the damaging effect is the default effect of the spell, and the removal of soft cover is an Augment.
+- Various Tier II & III powers and talents are now present, but unimportant at the moment.
+### Version 1.02 // Ancestry Rebalance, Mage Rework & Other Tweaks
+*Date: 31/01/2026*  
 **Ancestry Rebalance**  
 Some of the Ancestries with worse features stood out as less desirable picks, and so their features have been buffed.
 - Humans buffed, and now gain a Boon on making a check in which they have a 0.
@@ -12,7 +30,7 @@ Some of the Ancestries with worse features stood out as less desirable picks, an
 **Mage Rework**  
 A Mage's effectiveness in battle was too easily diminished upon taking damage, especially if that damage was taken early in combat. So instead of spending Mana directly to block damage, a Mage now has a **Hex Barrier**.
 
-The **Hex Barrier** acts as a buffer before damage eats into their Mana, which allows the Mage to more freely spend their Mana on spells.\
+The **Hex Barrier** acts as a buffer before damage eats into their Mana, which allows the Mage to more freely spend their Mana on spells.
 
 **Other Changes**  
 - New generic Minor Action: **Dodge**
@@ -26,7 +44,7 @@ The **Hex Barrier** acts as a buffer before damage eats into their Mana, which a
 - Vanguard Move: **Combo Nerf**
   *Combo was easily the best Move, but feels really cool to use. So we're adding a slight nerf to its effectiveness by imposing a cumulative +1 Bane on the attack for each successive use.*
 ### Version 1.01 // Weapon Update
-*Date: 16/01/25*  
+*Date: 16/01/2026*  
 I wanted to get an equal number of Weapon options for each type. Vanguard currently has 7, so we're bringing everyone else up to that. If you want to swap weapons, you can straight away (we'll just retcon).
 
 **Adept Weapons**  

@@ -5,7 +5,8 @@ aliases:
 ---
 **Adepts** are heroes that shine through practical knowledge and evasiveness. If you want to avoid getting hit and aid your party through your area of expertise, play an **Adept**.
 ### Navigation
-- [[Adept Talents]]
+- [[Adept Combat Talents]]
+- [[Adept Narrative Talents]]
 - [[Tricks]]
 - [[Adept Weapons]]
 ### Classes
@@ -34,6 +35,8 @@ When it’s time to put your knowledge to use, it’s time to use a **Trick**. T
 - On a 4-5, the **Trick** partially succeeds.
 - On a 6, the **Trick** succeeds.
 - If you roll multiple 6’s, the **Trick** is a critical success.
+
+Some **Tricks** require more of your attention, and thus require you to **Sacrifice Focus Dice** in order to use them. For example, when a **Trick** is labelled with *Sacrifice 2*, you must expend **2 Focus Dice** *without rolling them when determining the success level of the Trick*. Any other **Focus Dice** expended will be rolled.  
 
 You learn **[[Tricks]]** according to your Class. You can only use a **Trick** that you have learned.
 

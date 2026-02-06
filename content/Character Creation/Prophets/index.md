@@ -5,7 +5,8 @@ aliases:
 ---
 **Prophets** are heroes that call upon divine forces to support their allies. If you want to help your friends do their best and wield great power at the risk of not receiving it when you need it most, play a **Prophet**.
 ### Navigation
-- [[Prophet Talents]]
+- [[Prophet Combat Talents]]
+- [[Prophet Narrative Talents]]
 - [[Miracles]]
 - [[Prophet Weapons]]
 ### Classes

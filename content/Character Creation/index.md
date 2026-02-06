@@ -13,22 +13,32 @@ There are several parts to your character that makes them unique. A quick overvi
 - Your **Ancestry** represents your heritage, the bloodline that led to you.
 - Your **Level** represents how powerful you are, and how many abilities you have.
 - Levels are grouped into **Tiers**, which show substantial power jumps.
+- Your character will gain a few **Talents**, which are abilities you choose to really make your character your own.
+- Your character will learn special powers called **Moves**, **Tricks**, **Spells**, or **Miracles** depending on their **Type**.
+- Your character will wield a **Weapon** they take into battle.
 - **Saves** represent your characters ability to react to certain types of situations.
 - Each Save has three **Skills** that represent your character's specific competencies.
 - Your character has a few different **Statistics**, used during combat.
-- Your character will gain a few **Talents**, which are abilities you choose to really make your character your own.
 ### Hero Types
 When building your character, the most important decision you will make is *"What **Type** of hero do I want to play?"* In ***Zenith Odyssey***, there are four Hero Types to choose from. Although not a requirement, it is recommended that a party has one character of each Type.
 - [[Character Creation/Vanguards/index|Vanguards]] are frontliners who take the hits so their party doesn't have to.
 - [[Character Creation/Adepts/index|Adepts]] are mobile experts whose knowledge can turn the tide of battle.
 - [[Character Creation/Mages/index|Mages]] are masters of magic, casting spells to control areas of the battlefield.
 - [[Character Creation/Prophets/index|Prophets]] support their allies to be their best by channelling divine forces.
-### Classes
+### Classes & Specialties
 Each Hero Type is broken down into **Classes**, each of which is listed on the corresponding Type's page. Your character will be one of these Classes, so choose wisely. These Classes are listed under the page for each Hero Type.
 
 Your Class provides features for your character, in addition to their Core Statistics.
 
 Each Class has three **Specialties**, which provide more features for your character. As with your Class, you will only have one Specialty.
+### Ancestries
+Each character has an [[Ancestry]], a community to call their kin. When building your character you may select one **Ancestry**. Each **Ancestry** grants a narrative feature for your character.
+### Weapons
+There are various **Weapons** you may take into battle. When building your character, you may select a **Weapon** from your Types's Weapon list. This Weapon is used for your *Basic Attack* and some other features or abilities.
+
+As you adventure, you may want to swap out your Weapon, or maybe you'll gain more! During Downtime, you may swap a Weapon you selected from your Type's Weapon list for another Weapon from that list.
+
+If at any point you have multiple Weapons (either from loot you have claimed, Talents you have selected, etc), you may choose which Weapon to wield at the start of each of your turns as a Free Action. Otherwise, switching Weapons takes a Minor Action.
 ### Saves & Skills
 There are four **Saves** that define your character, **MIGHT**, **FINESSE**, **WIT**, and **PRESENCE**. These are used to avoid certain consequences during Tactical Combat.
 
@@ -70,15 +80,29 @@ There are a few additional statistics, most of which are provided by your **Clas
 Additionally, there is your **Crit Threshold**. This is the number you need to roll on the d20 for an attack roll to be a **Critical Hit**. By default this is set to 20, but can be reduced by certain features.
 ### Talents
 Talents are special features you choose for your character. They are separated into **Combat Talents** and **Narrative Talents**, and into each of the three Tiers. You cannot take a Talent of a higher Tier than your character.
-
-When selecting your Talents, you may choose from the [[Generic Talents]] or from your Hero Type's Talent list:
-- [[Vanguard Talents]]
-- [[Adept Talents]]
-- [[Mage Talents]]
-- [[Prophet Talents]]
+##### Combat Talents
+When selecting your Combat Talents, you may choose from the [[Generic Combat Talents]] or from your Hero Type's Talent list:
+- [[Vanguard Combat Talents]]
+- [[Adept Combat Talents]]
+- [[Mage Combat Talents]]
+- [[Prophet Combat Talents]]
+##### Narrative Talents
+When selecting your Narrative Talents, you may choose from the [[Generic Narrative Talents]] or from your Hero Type's Talent list:
+- [[Vanguard Narrative Talents]]
+- [[Adept Narrative Talents]]
+- [[Mage Narrative Talents]]
+- [[Prophet Narrative Talents]]
 ### Title & Theme
-Player characters in ***Zenith Odyssey*** are incredible and renowned individuals, even at Level 1. As such, each are adorned a **Title** that represents who they are and what they are capable of. When making your character, you may choose to give them any **Title** you like! Additionally, you may change your character's **Title** at any point throughout the game if you feel it no longer represents them. **Titles** have no effect mechanically on the game, they are simply there to add to the narrative of who your character is. Example **Titles** are listed in your **Specialty**.
+##### Titles
+Player characters in ***Zenith Odyssey*** are incredible and renowned individuals, even at Level 1. As such, each are adorned a **Title** that represents who they are and what they are capable of. Titles may include details on your character's profession, affiliation to organisations, general vibe, or something else entirely! Example **Titles** are listed in your **Specialty**, but here are a few so you get the idea:
+- She Who is Lost in Time
+- Obsessed Transmuter
+- Master of the Demon Forge
+- Cultist of Sah
+- Gish of the Silver Order
 
+You may also change your character's **Title** at any point throughout the game if you feel it no longer represents them. **Titles** have no effect mechanically on the game, they are simply there to add to the narrative of who your character is. 
+##### Themes
 While being competent and fantastical people, player characters are not without their own problems and challenges. As such, we give our characters a **Theme**. A **Theme** is a single word used to represent the central struggle a character faces in their lives. As with your **Title**, **Themes** bare no mechanical weight and you may choose anything you like, even changing it later on should the character develop so. Some example **Themes** are listed below.
 
 |           | **Themes** |           |
