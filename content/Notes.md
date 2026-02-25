@@ -18,7 +18,40 @@ draft: "true"
 4. Mage Block
 5. Armour
 6. Shield
+### Narrative Rework
+Consider modifying the Narrative System, like skill checks and everything lmao.
+
+For Skill Checks, could do 1d6 (+boons/banes) for:
+1. No, and...
+2. No
+3. No, but...
+4. Yes, but...
+5. Yes
+6. Yes, and...
+Main differences:
+- Crits are easier to attain
+- Could move downtime/rest action clock advancement to 
+	- 1/2: 1 segment
+	- 3/4: 2 segments
+	- 5/6: 3 segments
+	- Which makes advancing clocks easier
+### Narrative vs Combat
+At the moment, completely disjoint. 
+
+An option to merge them would to do something akin to Daggerheart. Resources spent (Stress) are spent in and out of combat. Could spend stress to refill Mana, HP, etc.
+
+But then all narrative abilities need to work in combat (if it makes sense) and vice versa. This blurs the lines, and would give an argument to join the talent options from both types of play. But then everyone is choosing combat talents.
+
+### Narrative vs Combat: Option 2
+If you have a capability thanks to a combat power, cool! You can use that in narrative, just roll an appropriate skill check!
+
+Then, rework all Narrative Talents so that they won't really be useful in combat anyway.
 # To Do
+- Tier III Spell: **Hell**. Persistent Damage Hazards Everywhere
+- Counterattack Move, maybe one that reduces incoming damage, and allows *Basic Attack* on Reaction?
+- Adept Talent or Consumable that gives passive Focus Regen
+- Vanguard Talent that gives passive Adrenaline regen
+- Tier II/III chronomancer talent: once per combat, take an additional Minor Action on your turn
 - Talent called rhythm, perfection, something like that. Each time you hit with an attack, it goes up, When you miss, it drops to 0 again.
 - How does ICON handle combat abilities outside of combat?
 - Tinkerer talent tree with companion to modify it, poop mines

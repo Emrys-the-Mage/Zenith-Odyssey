@@ -31,7 +31,7 @@ You no longer suffer consequences from attacking with a Ranged weapon while adja
 ##### In the Groove
 When you score a **Critical Hit**, you regain **4 Focus Dice**.
 ##### Focused Attack
-When making an attack roll with one or more **Boons**, you may trade one of the **Boons** to lower your **Crit Threshold** by 2 for that attack.
+When making an attack roll with one or more **Boons**, you may trade one of the **Boons** to lower your **Crit Threshold** by 1 for that attack.
 ##### More Up My Sleeve
 You learn two additional **Tricks** of your choice.
 ##### Quick Thinking
@@ -52,7 +52,7 @@ Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery
 When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Specialist
-Select one of the following tags: Alchemy, Gadget, Movement.  
+Select one of the following tags: Alchemy, Gadget, Movement, Trap.  
 
 When using a **Trick** with the chosen tag, you can roll an additional d6 when determining the success level of the **Trick**.
 ##### Telekinetic Shove
@@ -76,6 +76,8 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | Scatter Shot     | Your Weapon gains the [[Keywords#Graze\|Graze]] tag, if it didn't have it already.                          |
 | Spiked           | Your Weapon gains the [[Keywords#Deadly\|Deadly]] tag, if it didn't have it already.                        |
 | Poisoned         | On a hit, the target takes an additional 1 \|\| 2 \|\| 3 [[Keywords#Persistent Damage\|Persistent Damage]]. |
+##### Calming Actions
+When you make *Aid, Set-Up, Shove, or Taunt*, you regain **1 Focus Die**.
 ##### Psychic Regeneration
 *Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
 When you would gain **2 Focus Dice** at the start of each of your turns, you may choose to regain **1 HP** instead.

@@ -1,12 +1,6 @@
 ### Tier I
-- Narrative Artefacts
-- Combat Artefacts
-- Some provide stat increases
-- Weapon that makes you invisible on hit
-- Expanded reach
 ##### Blade of Sol (Melee Weapon)
 *Melee Attack, Reach 1*  
-*Keywords*  
 **Damage:** 1d12 || 2d12 || 3d12
 On a hit, this blade also deals **2 || 4 || 6** [[Keywords#Persistent Damage|Persistent Damage]] and the target becomes [[Conditions & Statuses#Marked|MARKED]].
 ##### Cape of Feathers
@@ -32,3 +26,7 @@ The wearer of this Amulet may increase their **Stress Cap** by 1.
 Afix this sandglass to your garments, and once per combat it will grant you the ability to take an additional Minor Action on your turn.
 
 ### Tier III
+##### Echo Blade
+*Melee Weapon, Reach 1*  
+**Damage: 1d10 || 2d10 || 3d10**  
+A ghostly duplicate of this sword follows its every move. On a hit, the target is hit by this Weapon once more.

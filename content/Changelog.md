@@ -1,14 +1,33 @@
 ---
 draft: "true"
 ---
-### Version 1.03 // WIP
+### Version 1.04 // WIP
 *Date: DD/MM/YYYY*  
+**Crit Thresholds**  
+*By stacking multiple effects, you could get your crit threshold a little too low too easily. However I want to keep this synergy, but reduce its effectiveness. So no single effect will reduce your Crit Threshold by more than 1. Effects that previously did this have been reworked to accommodate this change.*
+- Focused Attack (Adept Combat Talent)
+- Analysis (Adept Trick). Still works as before, but only lasts until end of your next turn.
+- Runestone of Precision (Consumable)
+- Well Guided (Generic Combat Talent)
+- Whispers of Truth (Prophet Miracle)
+
+**Other**  
+- **Angelkin** reworked again to be more broadly useful.
+- **Lantern** spell nerfed to a Size 2 Circle, instead of a Size 5 Square.
+- **Downtime & Rest Actions** that progress a clock add +1 Segment to all success levels. Thus, Failure is still progress (1 Segment).
+- Mage Talent: **Arcane Theorem of Geometry**. Modified the conversion from Squares to Circles and Vice Versa, since Circles are much better than Squares of equal Size.
+- Mage Talent: **Last Resort** buffed to use more Mana.
+- Mage Talent: **Mana Sink** buffed to occur at higher Mana threshold
+- New Move: **Riposte**
+- Prophet Talent: **Condemn** changed to activate on divine effects, rather than as a free action every turn. In return, the range was buffed from 5 to 8.
+### Version 1.03 // Honestly a bunch of small things
+*Date: 06/02/2026*  
 - Glimpses of Fate reworked to be more impactful
 - New Moves: Get Over Here & Super Jump
 - New Miracle: Rebuke
 - New Trick: Analysis
 - The Move Suplex now ends the grapple after taking effect.
-- Upper Mana Cost of Call Minions to 4
+- Increased Mana Cost of Call Minions to 4
 - Riftcaller: Necromancer's recycle undeath gives less Mana for Minions
 - New Prophet Combat Talent: Perfect Fate
 - New Vanguard Narrative Talent: Natural Healing

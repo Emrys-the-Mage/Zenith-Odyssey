@@ -9,10 +9,11 @@ You spend time crafting an item. If you are beginning to craft a new item, spend
 
 | **Success Level** | **Clock Segments** |
 | :---------------- | :----------------: |
-| Critical Success  |         3          |
-| Success           |         2          |
-| Partial Success   |         1          |
-| Failure           |         0          |
+| Critical Success  |         4          |
+| Success           |         3          |
+| Partial Success   |         2          |
+| Failure           |         1          |
+
 **FIND INFORMATION**  
 You attempt to seek out the answer to a question you have. Describe what you are trying to find out, and how you intend to do so. Roll an appropriate skill, and the Storymaster will describe the outcome.
 
@@ -25,6 +26,7 @@ You find work at your current settlement. Describe the work that you find, and r
 | Success           | **2 \|\| 3 \|\| 4** |
 | Partial Success   | **1 \|\| 2 \|\| 3** |
 | Failure           |        **0**        |
+
 **RELAX**  
 You spend time looking after yourself. You may reduce your current **Strain** by **1d4**.
 
@@ -33,10 +35,11 @@ You seek aid in treating a **Scar** of yours. Describe an NPC you find to help y
 
 |  **Result**  | **Clock Segments** |
 | :----------: | :----------------: |
-| Multiple 6's |         3          |
-|      6       |         2          |
-|     4-5      |         1          |
-|     1-3      |         0          |
+| Multiple 6's |         4          |
+|      6       |         3          |
+|     4-5      |         2          |
+|     1-3      |         1          |
+
 **SHOP**  
 You search around for a specific item you wish to buy. This item may not be an artefact.
 
@@ -47,7 +50,7 @@ Roll an appropriate Skill Check and advance a clock for the project. The amount 
 
 | **Success Level** | **Clock Segments** |
 | :---------------- | :----------------: |
-| Critical Success  |         3          |
-| Success           |         2          |
-| Partial Success   |         1          |
-| Failure           |         0          |
+| Critical Success  |         4          |
+| Success           |         3          |
+| Partial Success   |         2          |
+| Failure           |         1          |

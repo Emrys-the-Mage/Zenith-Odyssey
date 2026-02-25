@@ -4,16 +4,16 @@
 *Minor Action*  
 You take a moment to inspect the physiology of your opponents. If you use this **Trick** multiple times, you benefit from the highest effect.
 
-| **Success Level** | **Effect**                                                      |
-| :---------------- | --------------------------------------------------------------- |
-| Critical Success  | Reduce your **Crit Threshold** by 3 until the end of the scene. |
-| Success           | Reduce your **Crit Threshold** by 2 until the end of the scene. |
-| Partial Success   | Reduce your **Crit Threshold** by 1 until the end of the scene. |
-| Failure           | No effect.                                                      |
+| **Success Level** | **Effect**                                                                                                    |
+| :---------------- | ------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | Reduce your **Crit Threshold** by 2 and gain **+1 Boon** on all attack rolls until the end of your next turn. |
+| Success           | Reduce your **Crit Threshold** by 2 until the end of your next turn.                                          |
+| Partial Success   | Reduce your **Crit Threshold** by 1 until the end of your next turn.                                          |
+| Failure           | No effect.                                                                                                    |
 
 ---
 ##### Bear Trap
-*Minor Action, Gadget*  
+*Minor Action, Trap*  
 You place down a Size 2 bear trap within Range 3. When a character walks over the bear trap, they must make a **WIT** save or trigger the trap, suffering an effect. The trap remains until triggered.
 
 | **Success Level** | **Effect**                                                                                                                                                                                                                                                                                                         |

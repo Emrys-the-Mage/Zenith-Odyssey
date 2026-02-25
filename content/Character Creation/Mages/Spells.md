@@ -131,7 +131,7 @@ If a character fails their save against the boulder, they are knocked back a num
 *3 Mana, Minor Action, Ice*  
 You summon 3 spears of ice floating around you. When you cast this **Spell** and as a Minor Action on your turn you may throw one of these spears.   
 
-When you do so, make an attack against a character within Range 8. On a hit, the target takes **1d10 || 2d10 || 3d10** damage and is slowed. Regardless if you hit or miss, the spear shatters.  
+When you do so, make an attack against a character within Range 8. On a hit, the target takes **1d10 || 2d10 || 3d10** damage and is [[Conditions & Statuses#Slowed|SLOWED]] until the end of their next turn. Regardless if you hit or miss, the spear shatters.  
 
 **Augments**  
 *Freezing. 2 Mana*  
@@ -163,17 +163,17 @@ The range of the spell becomes 3, but is *Amplified* as if you had spent **2 Man
 ---
 ##### Lantern
 *2 Mana, Minor Action, Light*  
-You summon a lantern within Range 6. All characters you choose within Range 2 of the lantern must make a **PRESENCE** save or take **2d4 || 4d4 || 6d4** damage.
+You summon a lantern within Range 6. This lantern becomes the centre of a Size 2 Circle. Each character you choose within this circle must make a **PRESENCE** save or take **2d4 || 4d4 || 6d4 damage.**
 
 **Augments**  
 *Dispelling. 2 Mana*  
-All sources of **soft cover** within Range 2 of the lantern are dissipated.
+All sources of **soft cover** within the lantern's circle are dissipated.
 
 *Held. 3 Mana*  
 You instead summon the lantern within your hand. When you summon the lantern and on each of your subsequent turns as a Minor Action you may invoke the effects of the lantern. If you take a turn in which you do not use this Minor Action, the lantern disappears.  
 
 *Revealing. 3 Mana*  
-All characters within Range 2 of the lantern are no longer [[Conditions & Statuses#Invisible|INVISIBLE]] or [[Conditions & Statuses#HIDDEN|HIDDEN]].
+All characters within the lantern's circle are no longer [[Conditions & Statuses#Invisible|INVISIBLE]] or [[Conditions & Statuses#HIDDEN|HIDDEN]].
 
 ---
 ##### Photonic Ray

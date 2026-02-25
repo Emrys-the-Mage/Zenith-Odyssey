@@ -44,6 +44,9 @@ When you drink this elixir, you regain an amount of **HP** depending on its qual
 | Bitter      |   10   |    3     |     5     |
 | Sweet       |   20   |    6     |     6     |
 | Superb      |   30   |    12    |     7     |
+##### Instant Aegis
+*Cost: 4 Essence, Craft: 6*  
+When you drink this potion, you gain [[Keywords#Aegis|Aegis]].
 ##### Potion of Stress Relief
 *Cost: 3 Essence, Craft: 4*  
 When you drink this potion, you may clear **1d6 Stress**.
@@ -52,7 +55,7 @@ When you drink this potion, you may clear **1d6 Stress**.
 Break this runestone to release the energy stored within, drawing it into yourself. For the rest of the scene, you gain a **+2 bonus** to your **Save Target**.
 ##### Runestone of Precision
 *Cost: 4 Essence, Craft: 6*  
-Break this runestone to release the energy stored within, drawing it into your weapon. For the rest of the scene, your weapon gains a **+1 bonus** on **HIT** and it reduces your **Crit Threshold** by 2.
+Break this runestone to release the energy stored within, drawing it into your weapon. For the rest of the scene, your weapon gains a **+1 bonus** on **HIT** and it reduces your **Crit Threshold** by 1.
 ##### Runestone of Swiftness
 *Cost: 3 Essence, Craft: 5*  
 Break this runestone to release the energy stored within, drawing it into yourself. For the rest of the scene, you gain a **+2 bonus** to your **SPEED** and a **+1 bonus** to your **EVASION**.

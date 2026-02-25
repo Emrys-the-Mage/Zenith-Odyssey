@@ -82,20 +82,20 @@ You spend time crafting an item. If you are beginning to craft a new item, spend
 
 | **Success Level** | **Clock Segments** |
 | :---------------- | :----------------: |
-| Critical Success  |         3          |
-| Success           |         2          |
-| Partial Success   |         1          |
-| Failure           |         0          |
+| Critical Success  |         4          |
+| Success           |         3          |
+| Partial Success   |         2          |
+| Failure           |         1          |
 
 **FORAGE**
 You look around for more Supplies. Roll an appropriate Skill Check and advance the party's Foraging Clock per the success level. The party's Foraging Clock is a 6-segment clock.
 
 | **Success Level** | **Clock Segments** |
 | :---------------- | :----------------: |
-| Critical Success  |         3          |
-| Success           |         2          |
-| Partial Success   |         1          |
-| Failure           |         0          |
+| Critical Success  |         4          |
+| Success           |         3          |
+| Partial Success   |         2          |
+| Failure           |         1          |
 
 **TAKE IT EASY**
 You may clear **1d4 Stress**.
@@ -107,10 +107,11 @@ Roll an appropriate Skill Check and advance a clock for the project. The amount 
 
 | **Success Level** | **Clock Segments** |
 | :---------------- | :----------------: |
-| Critical Success  |         3          |
-| Success           |         2          |
-| Partial Success   |         1          |
-| Failure           |         0          |
+| Critical Success  |         4          |
+| Success           |         3          |
+| Partial Success   |         2          |
+| Failure           |         1          |
+
 ### Party Tracker
 - Supplies
 - Foraging Clock. 6-clock.

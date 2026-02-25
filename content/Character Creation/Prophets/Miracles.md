@@ -166,13 +166,13 @@ As Standard Effect, but the target also gains [[Conditions & Statuses#Resistant|
 
 -----
 ##### Whispers of Truth
-*Fate Target: 8*  
+*Fate Target: 7*  
 *Minor Action*  
 **Standard Effect:**  
-Choose an ally within Range 3. Their **Crit Threshold** is reduced by 2 until the end of their next turn. Whispers of Truth cannot stack with itself.  
+Choose an ally within Range 3. Until the end of their next turn, their **Crit Threshold** is reduced by 1 and they deal an additional **1d4 || 2d4 || 3d4 damage** on a hit. A character cannot benefit from more than once instance of Whispers of Truth.
 
 **Divine Effect:**  
-You and all allies have their **Crit Threshold** reduced by 2 until the end of the scene. Whispers of Truth cannot stack with itself.
+As Standard Effect, but the effect persists until the end of the scene.
 
 -----
 ## Tier II

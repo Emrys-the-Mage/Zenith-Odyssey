@@ -5,12 +5,12 @@
 When using your Peak Into the Future feature, after rolling your Fate Die you may choose to abandon the timelines you have viewed. When you do so, you do not use the **Miracle** and may instead take a different course of action. You cannot use the chosen **Miracle** for the rest of the turn.
 ##### All Seeing
 *Prerequisite: [[Character Creation/Prophets/Classes/Seer/index|Seer]]*  
-You ignore [[Conditions & Statuses#Invisible|INVISIBLE]] on characters you target.
+You ignore [[Conditions & Statuses#Invisible|INVISIBLE]] on characters you target, and your **EVASION** increases by 1.
 ##### Amplified
 *Prerequisite: [[Character Creation/Prophets/Classes/Virtuoso/index|Virtuoso]]*  
 The Range on all your Active Themes increases by 1 || 2 || 3.
 ##### Condemn
-Once per turn as a Free Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 5.
+When you gain the **Divine Effect** on one of your **Miracles**, you may inflict [[Conditions & Statuses#Marked|MARKED]] on a target within Range 8.
 ##### Divine Protection
 When you use a **Miracle** on an ally and gain the Divine Effect, both you and the target gain **3 || 6 || 9** [[Keywords#Shield|Shield]].
 ##### Favourite Miracle

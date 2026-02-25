@@ -17,7 +17,6 @@ A **Spellcaster** knows the following **Spells**: [[Spells#Teleport|Teleport]]
 
 ---
 ### Actions
-
 ##### Action 1
 
 ##### Action 2

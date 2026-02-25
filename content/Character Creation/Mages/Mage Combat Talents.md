@@ -19,7 +19,7 @@ You learn to modify the shape of your **Spells**.
 
 When you cast a **Spell** that creates a **Line**, you may spend **2 Mana** to convert it into an **Arc** of the same length.
 
-When you cast a **Spell** that creates a **Circle** or a **Square**, you may spend **2 Mana** to convert it into the other shape of the same size.
+When you cast a **Spell** that creates a **Circle** or a **Square**, you may spend **2 Mana** to convert it into the other shape. When you convert a Square to a Circle, the Circle will be two Sizes less than the Size of the Square. When you convert a Circle to a Square, it will be two Sizes greater.
 ##### Arcane Theorem of Nullity
 *Prerequisite: [[Character Creation/Mages/Classes/Savant/index|Savant]]*  
 You learn to modify your **Spells** to ensure they do not harm you or your allies.
@@ -41,7 +41,7 @@ Choose a **Spell** you know. Reduce its **Mana** cost by 1, to a minimum of 1.
 You learn two additional **Spells** of your choice.
 ##### Last Resort
 *Prerequisite: [[Character Creation/Mages/Classes/Conduit/index|Conduit]] or [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
-You may choose to gain a **Scar** to cast a **Spell** as if you had spent **5 || 10 || 15** **Mana** on it.
+You may choose to gain a **Scar** to cast a **Spell** as if you had spent **10 || 15 || 20** **Mana** on it.
 ##### Levitation
 When in combat, your body floats just above the ground. You become immune to any slowing or hazardous terrain that would require you to step on it to take effect (e.g. spikes along the ground, a puddle of acid, etc.).
 
@@ -49,11 +49,11 @@ Additionally, you may increase your **EVASION** by 1.
 ##### Mana Refund
 When you cast a **Spell** that fails to have any effect due to a missed attack roll or a successful save, you regain **Mana** equal to your **Tier** or the amount of **Mana** spent, whichever amount is smaller.
 ##### Mana Sink
-While you have less than **3 || 6 || 9** **Mana**, your *Basic Attack* deals an additional **1d6 || 2d6 || 3d6 damage** on a hit.
+While you have less than **5 || 10 || 15** **Mana**, your *Basic Attack* deals an additional **1d6 || 2d6 || 3d6 damage** on a hit.
 ##### Mote of Magnetism
 As a Minor Action, you may imbue a target within Range 6 with magnetic magicks. The target becomes [[Conditions & Statuses#Marked|MARKED]], and [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of your next turn. 
 ##### Panic Shield
-After spending **Mana** to reduce incoming damage, roll a d6. On a 4+ you gain [[Keywords#Aegis|Aegis]] until the start of your next turn.
+When your **Hex Barrier** is reduced to 0, roll a **d6**. On a **4+**, you gain [[Keywords#Aegis|Aegis]].
 ##### Precise Spellcasting
 All **Spells** you know that require you to make an attack gain the [[Keywords#Deadly|Deadly]] tag.
 ##### Shepherd the Horde
@@ -68,7 +68,7 @@ The characters you summon in this **Spell** are [[Conditions & Statuses#Invisibl
 ### Tier II
 ##### Burning Blood
 *Prerequisite: [[Primordial]] (Incendiary Magic) or [[Devil Magicks]]*  
-You become immune to [[Keywords#Persistent Damage|Persistent Damage]].
+You become immune to [[Keywords#Persistent Damage|Persistent Damage]] and gain a **+1 Bonus** to **MIGHT** Saves.
 ##### Calculated Risk
 As a Free Action at the end of your turn, you may sacrifice any amount of your **Hex Barrier** to regain the same amount of **Mana**.
 ##### Chain Reaction
@@ -77,7 +77,7 @@ When a **Spell** you cast requires you to make attack rolls against multiple tar
 Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] equal to the **Mana** spent.
 ##### Efficient Exchange
 *Prerequisite: [[Sanguimancy]]*  
-When you use your Scarlet Secrets Forbidden Deal, you gain **3 Mana** for each **HP** sacrificed, instead of 2.
+When you use your Scarlet Secrets Forbidden Deal, you gain **3 Blood Points** for each **HP** sacrificed, instead of 2.
 ##### Elemental Duality
 *Prerequisite: [[Primordial]]*  
 Select an additional **Element** from your Elemental Infusion feature, gaining its **Spells**, Feature, and Spell Tag.

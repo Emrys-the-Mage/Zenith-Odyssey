@@ -2,7 +2,7 @@
 -----
 ##### Batter Up
 *2 Adrenaline, Minor Action*  
-Make an attack with your weapon against a character within Reach. On a hit, the target is knocked back 5 || 10 || 15 spaces.
+Make an attack with your weapon against a character within Reach. On a hit, the target is knocked back **5 || 10 || 15** spaces.
 
 -----
 ##### Block
@@ -31,12 +31,17 @@ Make an attack with your weapon against a character within Reach. On a hit, the 
 -----
 ##### Protector
 *2 Adrenaline, Reaction*  
-Once per round, when an ally within your **SPEED** is hit by an attack, you may use your Reaction to run to a space adjacent to your ally. When you do so, you become the target of the attack in place of your ally and the attack automatically hits.
+When an ally within your **SPEED** is hit by an attack, you may use your Reaction to run to a space adjacent to your ally. When you do so, you become the target of the attack in place of your ally and the attack automatically hits.
+
+---
+##### Riposte
+*4 Adrenaline, Reaction*  
+When you are hit by an attack, you may reduce the damage by **1d4 || 2d4 || 3d4** and the immediately make a *Basic Attack* against the character who attacked you.
 
 -----
 ##### Steel Slash
 *2 Adrenaline, Minor Action*  
-Make an attack with your weapon against a character within Reach. On a hit, the target takes an additional 2 || 4 || 6 [[Keywords#Persistent Damage|Persistent Damage]].
+Make an attack with your weapon against a character within Reach. On a hit, the target takes an additional **2 || 4 || 6** [[Keywords#Persistent Damage|Persistent Damage]].
 
 ---
 ##### Super Jump
@@ -51,9 +56,9 @@ You suplex a character you are grappling. They must succeed a **MIGHT** save or 
 -----
 ##### Throw
 *3 Adrenaline, Minor Action*  
-Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to 5 || 7 || 9. 
+Make an attack against a character of your size or smaller within Reach 1. On a hit, you throw the target a number of spaces away from you equal to **5 || 7 || 9**. 
 
-If this causes the target to collide with a wall, they take 1d6 damage for every space they were unable to move.
+If this causes the target to collide with a wall, they take **1d6 damage** for every space they were unable to move.
 
 If this causes the target to collide with another character, they both take 1d6 damage for every space remaining. Then, the character that was not thrown must make a **MIGHT** save, moving the remaining number of spaces on a failure.
 

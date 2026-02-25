@@ -12,3 +12,4 @@
 - A Mage's main defence against damage is their [[Character Creation/Mages/index#Hex Barrier|Hex Barrier]], ensure to always keep spare **Mana** to replenish it just in case.
 - Adepts are great at avoiding damage all together, but when they get hit its game over. Make sure to keep some Focus Dice spare for your [[Character Creation/Adepts/index#Focus Dodge|Focus Dodge]]!
 - If an ally takes a consequence in Narrative Play, you may attempt to take it in their stead!
+- Someone who is Grappled or Grappling cannot [[Your Turn#Dash|Dash]], but they can [[Your Turn#Step|Step]] if they need just one square of movement!
