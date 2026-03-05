@@ -12,7 +12,7 @@
 ##### Exploit Opening
 Once per round, when a character is within reach of **The Ol' One-Two** and attempts to voluntarily move, the **Bruiser** may spend a Reaction to immediately use **The Ol' One-Two** against that character.
 ##### Rage
-When the **Bruiser** falls below **20 || 40 || 60 HP**, they gain [[Conditions & Statuses#Strength|STRENGTH]] **2 || 4 || 6**.
+While the **Bruiser** has less than **20 || 40 || 60 HP**, they gain [[Conditions & Statuses#Strength|STRENGTH]] **2 || 4 || 6**.
 
 ---
 ### Actions
@@ -20,7 +20,7 @@ When the **Bruiser** falls below **20 || 40 || 60 HP**, they gain [[Conditions &
 *Major Action, Melee Attack, Reach 2*  
 The **Bruiser** can only take this action while **Wound-Up**.
 
-On a hit, the target takes **4d6 || 8d6 || 12d6 damage** and the target becomes [[Conditions & Statuses#Stunned|STUNNED]], and [[Conditions & Statuses#Slowed|SLOWED]] until the end of their next turn.
+On a hit, the target takes **4d6 || 8d6 || 12d6 damage** and the target becomes [[Conditions & Statuses#Stunned|STUNNED]], and [[Conditions & Statuses#Slowed|SLOWED]].
 ##### The Ol' One-Two
 *Minor Action, Melee Attack, Reach 1*  
 On a hit, the target takes **1d4 || 2d4 || 3d4 damage** twice.

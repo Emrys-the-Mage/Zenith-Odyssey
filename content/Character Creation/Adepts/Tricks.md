@@ -12,6 +12,43 @@ You take a moment to inspect the physiology of your opponents. If you use this *
 | Failure           | No effect.                                                                                                    |
 
 ---
+##### Backstab
+*Prerequisite: Melee Weapon*  
+*Minor Action*  
+You exploit an opening in your target's defences. Make an attack with your Weapon against a character who is [[Conditions & Statuses#Off-Guard|OFF-GUARD]]. On a hit, the target clears [[Conditions & Statuses#Off-Guard|OFF-GUARD]] and suffers an additional effect based on the success level of the **Trick**.
+
+| **Success Level** | **Effect**                                                                                                                                                         |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Critical Success  | As Success, but the attack is also treated as a **Critical Hit**.                                                                                                  |
+| Success           | The target becomes [[Conditions & Statuses#Vulnerable\|VULNERABLE]] **1 \|\| 2 \|\| 3** and [[Conditions & Statuses#Weak\|WEAK]] **1 \|\| 2 \|\| 3**.              |
+| Partial Success   | The target becomes [[Conditions & Statuses#Vulnerable\|VULNERABLE]] **1 \|\| 2 \|\| 3** or [[Conditions & Statuses#Weak\|WEAK]] **1 \|\| 2 \|\| 3** (your choice). |
+| Failure           | No additional effect.                                                                                                                                              |
+
+---
+##### Ball Bearings
+*Minor Action, Trap*  
+You throw out a large handful of ball bearings onto the battlefield. The bearings create a **Hazard** in an area determined by the success level of the **Trick**. Characters affected by the **Hazard** must make a **FINESSE** save or fall [[Conditions & Statuses#Prone|PRONE]].
+
+| **Success Level** | **Effect**                                                                            |
+| :---------------- | ------------------------------------------------------------------------------------- |
+| Critical Success  | Size 3 Circle, and characters gain **+1 Bane** on their saves against the **Hazard**. |
+| Success           | Size 3 Circle                                                                         |
+| Partial Success   | Size 2 Circle                                                                         |
+| Failure           | Size 1 Circle                                                                         |
+
+---
+##### Basic Bomb
+*Minor Action, Gadget*  
+You throw a device to a space within Range 5. The device then explodes. All characters caught within the explosion must succeed a **FINESSE** save or suffer an effect.
+
+| **Success Level** | **Effect**                                                                                                                                                                        |
+| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The device explodes in a Size 3 Square, dealing **2d4 \|\| 4d4 \|\| 6d4 damage** and inflicting [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] to characters who fail their save. |
+| Success           | The device explodes in a Size 3 Square, dealing **2d4 \|\| 4d4 \|\| 6d4 damage** to characters who fail their save.                                                               |
+| Partial Success   | The device explodes in a Size 3 Square, dealing **1d4 \|\| 2d4 \|\| 3d4 damage** to characters who fail their save.                                                               |
+| Failure           | The device explodes in a Size 1 Circle, dealing **1d4 \|\| 2d4 \|\| 3d4 damage** to characters who fail their save.                                                               |
+
+---
 ##### Bear Trap
 *Minor Action, Trap*  
 You place down a Size 2 bear trap within Range 3. When a character walks over the bear trap, they must make a **WIT** save or trigger the trap, suffering an effect. The trap remains until triggered.
@@ -21,19 +58,19 @@ You place down a Size 2 bear trap within Range 3. When a character walks over th
 | Critical Success  | On a failed save, the target takes **3d6 \|\| 6d6 \|\| 9d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them. After being released, the target remains [[Conditions & Statuses#SLOWED\|SLOWED]] for the rest of the scene. |
 | Success           | On a failed save, the target takes **2d6 \|\| 4d6 \|\| 6d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
 | Partial Success   | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
-| Failure           | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn.                                                                                                                                                                   |
+| Failure           | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#SLOWED\|SLOWED]].                                                                                                                                                                                               |
 
 -----
 ##### Caltrops
 *Minor Action, Trap*  
 You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A character who moves into a space within this circle must make a **FINESSE** save. On a failed save, the caltrops within that space disappear and the character suffers effects depending on the success level of the Trick. On a successful save, the character is unaffected by the caltrops for the rest of their current movement.
 
-| **Success Level** | **Effect**                                                                                                                              |
-| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The caltrops act as on a Success, however they are spread over a size 2 circle.                                                         |
-| Success           | On a failed save, a character takes 2 \|\| 4 \|\| 6 damage and is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their turn. |
-| Partial Success   | On a failed save, a character takes 1 \|\| 2 \|\| 3 damage.                                                                             |
-| Failure           | The caltrops act as on a Partial Success, however they are spread over a single space rather than a size 1 circle.                      |
+| **Success Level** | **Effect**                                                                                                         |
+| :---------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Critical Success  | The caltrops act as on a Success, however they are spread over a Size 2 Circle.                                    |
+| Success           | On a failed save, a character takes **2 \|\| 4 \|\| 6 damage** and is [[Conditions & Statuses#SLOWED\|SLOWED]].    |
+| Partial Success   | On a failed save, a character takes **1 \|\| 2 \|\| 3 damage**.                                                    |
+| Failure           | The caltrops act as on a Partial Success, however they are spread over a single space rather than a Size 1 Circle. |
 
 -----
 ##### Dash & Slash
@@ -41,12 +78,12 @@ You empty a bag of caltrops onto the ground in a size 1 circle within Range 3. A
 *Minor Action, Movement*  
 You dash forward, striking those in your path.
 
-| **Success Level** | **Effect**                                                                                                                                                                                                              |
-| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | You move in a straight line up to your SPEED, moving through characters. You may make an attack with your weapon against any character you move through.                                                                |
-| Success           | You move in a straight line up to your SPEED, moving through characters. You may make an attack with your weapon against any character you move through. Each attack you make after the first is made with **+1 Bane**. |
-| Partial Success   | You move in a straight line up to your SPEED, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                  |
-| Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                    |
+| **Success Level** | **Effect**                                                                                                                                                                                                                  |
+| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | You move in a straight line up to your **SPEED**, moving through characters. You may make an attack with your weapon against any character you move through.                                                                |
+| Success           | You move in a straight line up to your **SPEED**, moving through characters. You may make an attack with your weapon against any character you move through. Each attack you make after the first is made with **+1 Bane**. |
+| Partial Success   | You move in a straight line up to your **SPEED**, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                  |
+| Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                        |
 
 ---
 ##### Debilitate
@@ -54,12 +91,24 @@ You dash forward, striking those in your path.
 *Minor Action, Psionic*  
 You reach into the mind of a target within Range 10, attempting to limit certain parts of their brain. The target must succeed on a **PRESENCE** save or suffer an effect.
 
-| **Success Level** | **Effect**                                                                                                                                                                              |
-| :---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]], [[Conditions & Statuses#Immobilised\|IMMOBILISED]] and [[Conditions & Statuses#Stunned\|STUNNED]] until the end of turn. |
-| Success           | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Immobilised\|IMMOBILISED]] until the end of their next turn.                                  |
-| Partial Success   | The target becomes [[Conditions & Statuses#Immobilised\|IMMOBILISED]] until the end of their next turn.                                                                                 |
-| Failure           | The target becomes [[Conditions & Statuses#Slowed\|SLOWED]] until the end of their next turn.                                                                                           |
+| **Success Level** | **Effect**                                                                                                                                                        |
+| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]], [[Conditions & Statuses#Immobilised\|IMMOBILISED]] and [[Conditions & Statuses#Stunned\|STUNNED]]. |
+| Success           | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Immobilised\|IMMOBILISED]].                                             |
+| Partial Success   | The target becomes [[Conditions & Statuses#Immobilised\|IMMOBILISED]].                                                                                            |
+| Failure           | The target becomes [[Conditions & Statuses#Slowed\|SLOWED]].                                                                                                      |
+
+---
+##### Feint
+*Minor Action*  
+You goad your opponent into shifting their defence away from where it is needed. A target within Reach 1 must make a **WIT** save, suffering an effect on a failure until the end of their next turn, determined by the success level of the **Trick**.
+
+| **Success Level** | **Effect**                                                                                               |
+| :---------------- | -------------------------------------------------------------------------------------------------------- |
+| Critical Success  | As Success, but the target gains **+1 Bane** on their save.                                              |
+| Success           | The target becomes [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] and their **EVASION** is reduced by 2. |
+| Partial Success   | The target becomes [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] and their **EVASION** is reduced by 1. |
+| Failure           | The target's **EVASION** is reduced by 1.                                                                |
 
 ---
 ##### Force Push
@@ -96,19 +145,19 @@ You throw or launch a net at a target in Range 5. Make an attack against the tar
 | Critical Success  | The target is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] and [[Conditions & Statuses#STUNNED\|STUNNED]] until they or another character adjacent to them spend a Minor Action to remove the net. |
 | Success           | The target is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or another character adjacent to them spend a Minor Action to remove the net.                                                |
 | Partial Success   | The target is [[Conditions & Statuses#SLOWED\|SLOWED]] until they or another character adjacent to them spend a Minor Action to remove the net.                                                         |
-| Failure           | The target is [[Conditions & Statuses#SLOWED\|SLOWED]] until the end of their next turn.                                                                                                                |
+| Failure           | The target is [[Conditions & Statuses#SLOWED\|SLOWED]].                                                                                                                                                 |
 
 -----
 ##### Paint-Grenade
 *Minor Action, Gadget*  
 You throw a grenade filled with colourful paint and dust to a space within Range 5. The success level of the Trick determines the effect.
 
-| **Success Level** | **Effect**                                                                                                                                                                                                                 |
-| :---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The grenade paints all characters within a Size 2 circle. All characters in this area are [[Conditions & Statuses#MARKED\|MARKED]], and are [[Conditions & Statuses#BLINDED\|BLINDED]] until the start of their next turn. |
-| Success           | The grenade paints all characters within a Size 2 circle. All characters in this area are [[Conditions & Statuses#MARKED\|MARKED]].                                                                                        |
-| Partial Success   | The grenade paints all characters within a Size 1 circle. All characters in this area are [[Conditions & Statuses#MARKED\|MARKED]].                                                                                        |
-| Failure           | The grenade fails to go off.                                                                                                                                                                                               |
+| **Success Level** | **Effect**                                                                                                                                                                         |
+| :---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The grenade paints all characters within a Size 2 circle. All characters in this area are [[Conditions & Statuses#MARKED\|MARKED]] and [[Conditions & Statuses#BLINDED\|BLINDED]]. |
+| Success           | The grenade paints all characters within a Size 2 circle. All characters in this area are [[Conditions & Statuses#MARKED\|MARKED]].                                                |
+| Partial Success   | The grenade paints all characters within a Size 1 circle. All characters in this area are [[Conditions & Statuses#MARKED\|MARKED]].                                                |
+| Failure           | The grenade fails to go off.                                                                                                                                                       |
 
 -----
 ##### Parkour
@@ -127,12 +176,12 @@ You move a number of spaces, detailed in the effect column in the table below. T
 *Minor Action*  
 You reach into your pocket and throw sand towards the eyes of a target within Range 3.
 
-| **Success Level** | **Effect**                                                                                                           |
-| :---------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | As Success, but the target also becomes [[Conditions & Statuses#BLINDED\|BLINDED]] until the end of their next turn. |
-| Success           | The target makes all attacks with **+2 Banes** until the end of their next turn.                                     |
-| Partial Success   | The target makes all attacks with **+1 Bane** until the end of their next turn.                                      |
-| Failure           | The target is unaffected.                                                                                            |
+| **Success Level** | **Effect**                                                                          |
+| :---------------- | ----------------------------------------------------------------------------------- |
+| Critical Success  | As Success, but the target also becomes [[Conditions & Statuses#BLINDED\|BLINDED]]. |
+| Success           | The target makes all attacks with **+2 Banes** until the end of their next turn.    |
+| Partial Success   | The target makes all attacks with **+1 Bane** until the end of their next turn.     |
+| Failure           | The target is unaffected.                                                           |
 
 -----
 ##### Puppetmaster
@@ -179,12 +228,12 @@ You throw down a smoke bomb and attempt to disappear.
 *Minor Action, Sacrifice 1, Gadget*  
 You throw a device that explodes in blinding light to a space within Range 6. Centre a Size 2 Circle on this space. All characters within this Circle must succeed on a **WIT** save or suffer an effect.
 
-| **Success Level** | **Effect**                                                                                                                                  |
-| :---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Stunned\|STUNNED]] until the end of their next turn.     |
-| Success           | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] until the end of their next turn. |
-| Partial Success   | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] until the end of their next turn.                                                    |
-| Failure           | Targets gain **+1 Bane** on their next attack.                                                                                              |
+| **Success Level** | **Effect**                                                                                                 |
+| :---------------- | ---------------------------------------------------------------------------------------------------------- |
+| Critical Success  | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Stunned\|STUNNED]].     |
+| Success           | Targets are [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Off-Guard\|OFF-GUARD]]. |
+| Partial Success   | Targets are [[Conditions & Statuses#Blinded\|BLINDED]].                                                    |
+| Failure           | Targets gain **+1 Bane** on their next attack.                                                             |
 
 ---
 ##### Whispers of the Winds

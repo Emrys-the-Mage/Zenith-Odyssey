@@ -5,7 +5,7 @@ On a hit, the target becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until
 ##### Carved Bones
 *Ranged Attack, Range 8*  
 **Damage:** 1d6 || 2d6 || 3d6  
-On a hit, the target becomes [[Conditions & Statuses#Weak|WEAK]] **1 || 2 || 3** until the end of their next turn.
+On a hit, the target becomes [[Conditions & Statuses#Weak|WEAK]] **1 || 2 || 3**.
 ##### Divine Chains
 *Melee Attack, Reach 2*  
 *[[Keywords#Deadly|Deadly]]*  
@@ -19,7 +19,7 @@ On a hit, the target is [[Conditions & Statuses#VULNERABLE|VULNERABLE]] **1 || 2
 *Ranged Attack, Range 5*  
 *[[Keywords#Graze|Graze]]*  
 **Damage:** 1d8 || 2d8 || 3d8  
-On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn.
+On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]].
 ##### Runic Tokens
 *Ranged Attack, Range 8*  
 *[[Keywords#Accurate|Accurate]]*  

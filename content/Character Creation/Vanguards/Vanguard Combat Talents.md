@@ -8,40 +8,39 @@ While in your **Agile Stance**, you may move **1d6** spaces as a Free Action onc
 ##### Blood Rage
 *Prerequisite: [[Character Creation/Vanguards/Classes/Fury/index|Fury]]*  
 While your **HP** is less than half of its maximum, your **Crit Threshold** is reduced by 1 and you gain **2 || 4 || 6** [[Keywords#Shield|Shield]] at the start of each of your turns.
+##### Bulldoze
+When you *Dash*, you may move up to another **1d6** spaces. Additionally, you  become immune to **Slowing Terrain**.
 ##### Chainmaster
 You carry a chain that you may use to grapple others. You may Grapple a target within Range 3, instead of Reach 1. When you do so, they are pulled to a space adjacent to you.
 ##### Crushing Grip
 When a character ends their turn while grappled by you, they take **1 || 2 || 3 damage**. Additionally, you gain **+1 Boon** on **MIGHT** saves made to determine who counts as larger for grapples.
 ##### Dancing Weapon
 *Prerequisite: [[Vanguard Combat Talents#Versatile Training|Versatile Training]]*  
-You learn to telekinetically control your weapon, allowing it to attack all on its own. 
+You learn to telekinetically control your Weapon, allowing it to attack all on its own. 
 
-As a Minor Action you may imbue one of your melee Weapons with this power. When you do so, you may move it up to 3 spaces away from you.
+As a Minor Action you may imbue one of your melee Weapons with this power. When you do so, you may move it up to 3 spaces away from you. The Weapon becomes a Size 1/2 character.
 
-Until you recall the Weapon as a Free Action, you are able to make a *Basic Attack* with the Weapon from it's current space as a Minor Action. This does not prevent you from also take the *Basic Attack* Minor Action yourself.
+Until you recall the Weapon as a Free Action, you are able to make an attack with the Weapon from it's current space as a Minor Action.
 
 On each of your turns you may move it again, up to 3 spaces. It must always remain at most 10 spaces away from you, otherwise it drops to the ground and requires another Minor Action when within 10 spaces to regain control.
 
-You cannot take Reactions from the weapon's space, and the Weapon cannot use any **Moves**.
+You cannot take Reactions from the weapon's space, and the Weapon cannot use any **Moves**. The Weapon is immune to all effects except involuntary movement and being grappled.
 ##### Elemental Weapon
 You learn to channel elemental magic into your Weapon. As a Minor Action, you may spend **2 Adrenaline** to imbue your Weapon. Until the end of this combat, your weapon deals an additional **1d4 || 2d4 || 3d4 damage** on a hit.
 ##### Favourite Move
-Select a **Move** you know. You may permanently reduce its Adrenaline cost by 1, to a minimum of 1.
+Select a **Move** you know. You may permanently reduce its Adrenaline cost by 1, to a minimum of 2.
 ##### Formidable I
 You count as one size larger for grapples. Additionally, you gain **+1 Boon** on attack rolls against a target you are grappling.
 ##### Further Training
 You learn two additional **Moves** of your choice.
 ##### Fury-Fuelled
 When you score a **Critical Hit**, you gain **2 Adrenaline**.
-##### Independent Weapon
-*Prerequisite: [[Vanguard Combat Talents#Dancing Weapon|Dancing Weapon]]*  
-Once per turn, you may spend **1 Adrenaline** to make a *Basic Attack* using your Dancing Weapon as a Free Action.
 ##### Overextended
 *Prerequisite: [[Character Creation/Vanguards/Classes/Exemplar/index|Exemplar]]*  
 While in your **Offensive Stance**, you gain [[Conditions & Statuses#Strength|STRENGTH]] **1 || 2 || 3** and your **Crit Threshold** is reduced by 1, however attacks made against you are made with **+1 Boon**.
 ##### Practised Weapon
 *Prerequisite: [[Vanguard Combat Talents#Dancing Weapon|Dancing Weapon]]*  
-You may use **Moves** as if you were in your Dancing Weapon's space.
+You may use **Moves** that require an attack with your Weapon from your Dancing Weapon's space.
 ##### Primal Warrior
 *Prerequisite: [[Character Creation/Vanguards/Classes/Fury/index|Fury]]*  
 Choose a Tier I [[Miracles|Miracle]] with the Totem tag. You are able to use this Miracle on yourself, gaining the **Standard Effect**.
@@ -82,6 +81,8 @@ You count as one size larger still for grapples. Targets gain **+1 Bane** on sav
 ##### Growing Rage
 *Prerequisite: [[Character Creation/Vanguards/Classes/Fury/index|Fury]]*  
 You gain [[Conditions & Statuses#Strength|STRENGTH]] equal to the round number.
+##### Push the Limits
+Increase the maximum amount of **Adrenaline** you can have by 1.
 ##### Read the Battle
 You have a knack for learning the attack patterns of your foes. At the end of each round, increase your **EVASION** by 1. Your **EVASION** returns to its usual value when the combat ends.
 ##### Runeblade
@@ -89,3 +90,6 @@ Choose a [[Mage Weapons|Mage Weapon]]. You imbue its properties into one of your
 ### Tier III
 ##### Advantageous Boon
 When you would make an attack roll with at least one **Boon**, you may forego all **Boons** to instead roll your d20 twice, choosing the result of one to use for the attack roll.
+##### Push the Limits II
+*Prerequisite: [[Vanguard Combat Talents#Push the Limits|Push the Limits]]*  
+Increase the maximum amount of **Adrenaline** you can have by 1.

@@ -26,7 +26,7 @@ The **Commander** instructs any number of their allies within Range 8 to move up
 ### Amplifiers
 ##### I'll Do It Myself
 *Minor Action, Melee Attack, Reach 1*  
-On a hit, the target takes **1d6 || 2d6 || 3d6 damage** and becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until the end of their next turn.
+On a hit, the target takes **1d6 || 2d6 || 3d6 damage** and becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]].
 ##### Summon
 *Major Action*  
 The **Commander** summons two [[Minion|Minions]] within Range 5.

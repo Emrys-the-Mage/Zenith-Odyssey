@@ -131,11 +131,11 @@ If a character fails their save against the boulder, they are knocked back a num
 *3 Mana, Minor Action, Ice*  
 You summon 3 spears of ice floating around you. When you cast this **Spell** and as a Minor Action on your turn you may throw one of these spears.   
 
-When you do so, make an attack against a character within Range 8. On a hit, the target takes **1d10 || 2d10 || 3d10** damage and is [[Conditions & Statuses#Slowed|SLOWED]] until the end of their next turn. Regardless if you hit or miss, the spear shatters.  
+When you do so, make an attack against a character within Range 8. On a hit, the target takes **1d10 || 2d10 || 3d10** damage and is [[Conditions & Statuses#Slowed|SLOWED]]. Regardless if you hit or miss, the spear shatters.  
 
 **Augments**  
 *Freezing. 2 Mana*  
-On a hit, the spear causes the target to become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] until the end of their next turn.  
+On a hit, the spear causes the target to become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]].  
 
 *Massive. 3+ Mana*  
 When you use this augment, you must spend an amount of **Mana** equal to the number of spears you create.  
@@ -182,7 +182,7 @@ Make a ranged attack against a target within Range 10. On a hit, the target take
 
 **Augments**  
 *Blinding. 2 Mana*  
-On a hit, the target is also [[Conditions & Statuses#Blinded|BLINDED]] until the end of their next turn.
+On a hit, the target is also [[Conditions & Statuses#Blinded|BLINDED]].
 
 *Perfected. 2 Mana*  
 The attack gains [[Keywords#Accurate|Accurate]] and [[Keywords#Graze|Graze]].
@@ -274,7 +274,7 @@ You channel tremors in the earth in a Size 4 Square within Range 8. All characte
 
 **Augments**  
 *Gaping. 2 Mana*  
-When a character enters the area for the first time within a turn or starts their turn there, they must make a **FINESSE** save or become [[Conditions & Statuses#Immobilised|IMMOBILISED]].
+When a character enters the area for the first time within a turn or starts their turn there, they must make a **FINESSE** save or become [[Conditions & Statuses#Immobilised|IMMOBILISED]] until the end of this turn.
 
 *Sharp Stones. 2 Mana*  
 The area also leaves a **hazard**, dealing **1 || 2 || 3** damage. A character can only be affected by one of these hazards in a given turn. 
@@ -292,14 +292,29 @@ All characters within Range 2 must succeed a **FINESSE** save or take **1d4 || 2
 The Range on the spell increases by 1 for every 2 **Mana** spent.
 
 *Lingering. 3 Mana*  
-The area effected leaves behind a [[Rules/Tactical Combat/index#Hazards|Hazard]], dealing 1 damage to those who fail a **FINESSE** save.
+The area effected leaves behind a [[Rules/Tactical Combat/index#Hazards|Hazard]], dealing **1 damage** to those who fail a **FINESSE** save.
 
 *Unavoidable. 3 Mana*  
-On a successful save, the target will take **1d4 || 2d4 || 3d4** damage.
+On a successful save, the target will take **1d4 || 2d4 || 3d4** **damage**.
 
 -----
 ## Tier II
 ---
+##### Bind
+*8 Mana, Major Action*  
+You attempt to encase a target within Range 5 with magical binds. The target must make a **MIGHT** save or become bound. While bound, the target is [[Conditions & Statuses#Stunned|STUNNED]], [[Conditions & Statuses#Immobilised|IMMOBILISED]], and gains **+1 Bane** on all attacks.
+
+On subsequent turns as a Minor Action, you may attempt to enforce the binds. When you do so, the target must make a **MIGHT** save, breaking free from the binds on a success. If you fail to take this action, the target automatically breaks free at the end of your turn.
+
+**Augments**  
+*Felling. 3 Mana*  
+The target also becomes [[Conditions & Statuses#Prone|PRONE]] while bound.
+
+*Heated. 3 Mana*  
+The binds are superheated, inflicting **4 || 8 || 12 damage** for each failed save.
+
+*Inhibiting. 2 Mana*  
+The target also becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] while bound.
 
 ---
 ## Tier III
@@ -308,7 +323,7 @@ On a successful save, the target will take **1d4 || 2d4 || 3d4** damage.
 *20 Mana, Major Action*  
 You summon a Size 5 Circle within Range 10, at the centre of which is a Singularity. All walls, **Slowing Terrain**, **Hazards**, and other ongoing effects in this area are dissipated.
 
-Characters within this area are [[Conditions & Statuses#Slowed|SLOWED]]. If a character starts their turn in the area or enters it on their turn, they must make a **MIGHT** save. If the character is on the Singularity, they take **6d12 damage** on a failure. If they are one space away from the Singularity, they take **5d12** **damage**, two spaces away: 4d12, and so on. On a success, they take half as much damage.
+Characters are [[Conditions & Statuses#Slowed|SLOWED]] while within this area. If a character starts their turn in the area or enters it on their turn, they must make a **MIGHT** save. If the character is on the Singularity, they take **6d12 damage** on a failure. If they are one space away from the Singularity, they take **5d12** **damage**, two spaces away: 4d12, and so on. On a success, they take half as much damage.
 
 If a character ends their turn in this area, they are pulled 2 spaces towards the Singularity.
 
@@ -326,6 +341,21 @@ The damage dealt by this **Spell** ignores [[Keywords#Armour|Armour]].
 *Prerequisite: [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
 *0 Mana, Major Action*  
 - Gain a **Scar** to summon the mouth of an eldritch entity. If the target has less than X HP, it is swallowed whole and is removed from this Realm. Otherwise, take FUCK TONNES of damage.
+
+---
+##### Hell
+*15 Mana, Major Action*  
+You summon hellish landscaped upon the battlefield. Place three Size 3 Circles within Range 10. These Circles become **Hazards** for the rest of the scene, dealing **5** [[Keywords#Persistent Damage|Persistent Damage]].
+
+**Augments**
+*Blank. X Mana*  
+Blank.
+
+*Blank. X Mana*  
+Blank.
+
+*Blank. X Mana*  
+Blank.
 
 ---
 ##### Riftdive

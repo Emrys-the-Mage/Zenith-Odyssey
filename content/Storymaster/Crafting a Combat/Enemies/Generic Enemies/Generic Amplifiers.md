@@ -3,7 +3,7 @@
 - Bonus Actions
 - More turns per round
 ##### Chilling
-When a character ends their turn adjacent to a character with Chilling, they gain [[Conditions & Statuses#Slowed|SLOWED]] until the end of their next turn.
+When a character ends their turn adjacent to a character with Chilling, they gain [[Conditions & Statuses#Slowed|SLOWED]].
 ##### Elite I
 A character with Elite I gains a **+1 Bonus** to their **HIT, EVASION, Save Target**, and saves.
 ##### Elite II

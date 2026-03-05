@@ -4,7 +4,7 @@
 ##### Explosive Strikes
 When you roll a 1 on a die used for calculating the damage you would deal, you immediately reduce your **HP** by 1 and add another die of the same size to your damage calculation.
 ##### Mishaps
-When you are hit with an attack, roll 1d6. The corresponding effect on the below table takes place.
+Once per round when you are hit with an attack, roll **1d6**. The corresponding effect on the below table takes place.
 
 | **1d6** | **Effect**                                                                                                                                                              |
 | :-----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

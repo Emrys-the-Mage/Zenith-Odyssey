@@ -1,8 +1,34 @@
 ---
 draft: "true"
 ---
-### Version 1.04 // WIP
+### Version 1.05 // WIP
 *Date: DD/MM/YYYY*  
+
+**Other**
+- **Conditions** now last until the end of the target's turn unless otherwise specified.
+- New Status: **PRONE**. 
+- **Shove** generic Minor Action now optionally inflicts **PRONE**.
+- The **BLINDED** Condition now also imposes **+1 Bane** on all attacks.
+- New Vanguard Combat Talent: **Bulldoze**.
+- New Adept Tricks: **Backstab, Basic Bomb, Ball Bearings, Feint**
+- New Adept Talent: **Hidden Traps**
+- Adept Talent: **Callouts** range reduced to 10, requires a WIT save, but also inflicts OFF-GUARD
+- Seer: **Astromancer**'s Alignment feature reworked
+- Seer: **Chronomancer**'s Foresee Danger slightly buffed
+- New Miracles: **Blood Barrier, Misty Form, Ward**
+- New Moves: **Guard, Parry**
+- Vanguard Talent: **Favourite Move** nerfed, new floor of 2 Adrenaline
+- Mage Talent: **Favourite Spell** nerfed, new floor of 2 Mana
+- **Medium's** Usher Toward Death damage nerfed d8 -> d6, and is now twice/round.
+- **Chaos Blades** Mishap's are once per round now
+- Priest: **Wise**'s Restraint now reduces Fate Target once for every 3 Grace, rather than 4
+- Vanguard Move: **Combo** reworked. The old combo has moved to Follow-Up, and seen some changes
+- Vanguard Talents: **Dancing Weapon Tree**
+	- **Dancing Weapon** reworded. Explicitly states its size, what it is and isn't affected by, and no longer can take *Basic Attacks* but instead normal attacks.
+	- **Independent Weapon** removed.
+	- **Practised Weapon** now only uses **Moves** that require an attack with a Weapon. 
+### Version 1.04 // Crits & Bits
+*Date: 25/02/2026*  
 **Crit Thresholds**  
 *By stacking multiple effects, you could get your crit threshold a little too low too easily. However I want to keep this synergy, but reduce its effectiveness. So no single effect will reduce your Crit Threshold by more than 1. Effects that previously did this have been reworked to accommodate this change.*
 - Focused Attack (Adept Combat Talent)

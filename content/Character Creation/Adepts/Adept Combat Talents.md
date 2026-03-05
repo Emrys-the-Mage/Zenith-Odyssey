@@ -15,7 +15,7 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 ##### Calculated
 Once per combat, you may foresee the outcome of a **Trick** before committing to it. On your turn before using a **Trick**, you may declare how many **Focus Points** you will spend and roll the corresponding amount of dice. After checking your result, you may choose whether or not you will indeed use the **Trick**. If you do, expend the **Focus Points** and use the result you had rolled for the **Trick**. If you choose not to use the **Trick**, you cannot use that **Trick** this turn.
 ##### Callouts
-As a Minor Action, you may inflict the [[Conditions & Statuses#Marked|MARKED]] condition on a target within Range 15.
+As a Minor Action, you may force a character within Range 10 to make a **WIT** save. On a failure, they are [[Conditions & Statuses#Marked|MARKED]] and [[Conditions & Statuses#OFF-GUARD|OFF-GUARD]].
 ##### Careful Aim
 At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
 ##### Combat Telepathy
@@ -26,6 +26,8 @@ You can sense the intent of those trying to harm you. Once per round when you ar
 You may select an additional gadget from your Gadgetry feature.
 ##### Durable
 Increase your HP by 2.
+##### Hidden Traps
+When using a **Trick** with the Trap tag, you may **Sacrifice 1 Focus Die** to hide the trap. Until the trap affects a target, others are unaware of its presence or location.
 ##### Hipfire
 You no longer suffer consequences from attacking with a Ranged weapon while adjacent to an enemy.
 ##### In the Groove
@@ -88,7 +90,7 @@ You may spend **2 Focus Dice** to use your Shadow Jump additional times during a
 Increase your **EVASION** by 2.
 ##### Umbral Shroud
 *Prerequisite: [[Character Creation/Adepts/Classes/Shade/index|Shade]]*  
-You may use a Minor Action to turn yourself [[Conditions & Statuses#Invisible|INVISIBLE]].
+You may use a Minor Action to turn yourself [[Conditions & Statuses#Invisible|INVISIBLE]]. You are no longer [[Conditions & Statuses#Invisible|INVISIBLE]] when you make an attack or force another character to make a save.
 ### Tier III
 ##### Behold, My Magnificent Creation
 *Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index|Artisan]], [[Adept Combat Talents#Behold, My Glorious Creation|Behold, My Glorious Creation]]*  
@@ -99,8 +101,10 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | **Modification**    | **Description**                                                                                                  |
 | :------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | Automatic Targeting | You gain a +2 bonus to your **HIT** when using this weapon.                                                      |
-| Netting             | On a hit, the target is [[Conditions & Statuses#Immobilised\|IMMOBILISED]] until the end of its next turn.       |
+| Netting             | On a hit, the target is [[Conditions & Statuses#Immobilised\|IMMOBILISED]].                                      |
 | Wound Opener        | On a hit, the target becomes [[Conditions & Statuses#Vulnerable\|VULNERABLE]] 3 until the end of your next turn. |
 ##### Magnum Opus
 *Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index|Artisan]]*  
-You have finally perfected your favourite creation. Select a **Trick** that you know. When you use this **Trick** (other than as part of your Automation feature), it is automatically treated as a Critical Success.
+You have finally perfected your favourite creation. Select a Tier I **Trick** that you know. When you use this **Trick** (other than as part of your Automation feature), it is automatically treated as a Critical Success.
+##### Meditative
+At the beginning of each of your turns, you regain an additional **Focus Die**.

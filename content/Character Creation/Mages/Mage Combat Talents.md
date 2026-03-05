@@ -36,7 +36,7 @@ As a Minor Action, you may reduce your HP by 1 and clear all Conditions and **Pe
 ##### Entrapping Magicks
 Whenever you hit a target with your *Basic Attack*, the target becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] until they fail a save.
 ##### Favourite Spell
-Choose a **Spell** you know. Reduce its **Mana** cost by 1, to a minimum of 1.
+Choose a **Spell** you know. Reduce its **Mana** cost by 1, to a minimum of 2.
 ##### Further Study
 You learn two additional **Spells** of your choice.
 ##### Last Resort
@@ -87,6 +87,8 @@ You gain a special type of [[Keywords#Armour|Armour]] (**1 || 3 || 5**) that onl
 ##### Forced Suffering
 *Prerequisite: [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
 As a Minor Action, you may choose a character within Range 8 who is currently afflicted with [[Keywords#Persistent Damage|Persistent Damage]]. The target then takes damage equal to the [[Keywords#Persistent Damage|Persistent Damage]] (ignoring **Armour**), then they may clear their [[Keywords#Persistent Damage|Persistent Damage]].
+##### Hex Regeneration
+At the start of each of your turns, you regenerate **1 Hex Barrier**.
 ##### Siphon
 When you hit with your *Basic Attack*, you regain 1 || 2 || 3 **Mana**.
 ### Tier III

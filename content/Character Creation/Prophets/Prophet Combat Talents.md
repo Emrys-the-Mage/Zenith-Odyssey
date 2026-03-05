@@ -1,4 +1,3 @@
-## Combat Talents
 ### Tier I
 ##### Abandon Timeline
 *Prerequisite: [[Chronomancer]]*  

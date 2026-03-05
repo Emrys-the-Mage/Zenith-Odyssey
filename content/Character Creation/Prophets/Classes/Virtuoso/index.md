@@ -31,7 +31,7 @@ All enemies gain [[Conditions & Statuses#WEAK|WEAK]] 1 || 2 || 3 while within Ra
 You and all allies within Range 3 gain a **+2 Bonus** to all saves.
 
 **VENGEANCE**  
-You and all allies within Range 3 gain [[Conditions & Statuses#Strength|STRENGTH]] 1 || 2 || 3.
+All allies (including yourself) gain [[Conditions & Statuses#Strength|STRENGTH]] **1 || 2 || 3** while within Range 3 of you.
 #### Specialty
 When building a Virtuoso, you select a medium for your art. Choose from one of the following options:
 - [[Dazzler]], for those who express their art through their body.

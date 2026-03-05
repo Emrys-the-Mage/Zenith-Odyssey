@@ -43,7 +43,9 @@ You also immediately lose [[Conditions & Statuses#HIDDEN|HIDDEN]] if your cover 
 ##### Set-Up
 You attempt to help an ally adjacent to you. They gain **+1 Boon** on their next attack roll or save before the end of their next turn.
 ##### Shove
-To shove, make an attack against a character in Reach 1. On a hit, they are knocked back 1 || 2 || 3 spaces.
+To shove, make an attack against a character your Size or smaller within Reach 1. On a hit, you may do one or both of:
+- The character is knocked back up to **1 || 2 || 3** spaces.
+- The character is knocked [[Conditions & Statuses#Prone|PRONE]].
 ##### Step
 You move 1 space without triggering any Reactions.
 ##### Taunt

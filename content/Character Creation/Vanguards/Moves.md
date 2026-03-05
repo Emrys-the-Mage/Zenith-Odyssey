@@ -12,9 +12,14 @@ You take this Reaction when you would take damage. You immediately gain the effe
 -----
 ##### Combo
 *2 Adrenaline, Free Action*  
-When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another attack with your weapon against the same target. This Move can trigger itself, if you spend the **Adrenaline** again.
+When you hit someone with your *Basic Attack*, you may use this **Move** to immediately deal an additional **2d4 || 4d4 || 6d4 damage** to the target.
 
-When you use this Move, you make the attack with **+1 Bane**. If you then trigger this Move with itself, you gain an additional **+1 Bane** on each successive attack (**+1 Bane** on the first, **+2 Banes** on the second, **+3 Banes** on the third, and so on). 
+If any of these **d4**'s roll a 4, you may add an additional **d4** to this damage. Additional **d4**'s also trigger this effect. 
+
+---
+##### Guard
+*2 Adrenaline, Minor Action*  
+You ready your guard against oncoming attacks. Until the start of your next turn, your [[Keywords#Armour|Armour]] increases by **1 || 2 || 3** and attacks made against you gain **+1 Bane**.
 
 ---
 ##### Get Over Here
@@ -26,7 +31,12 @@ If after using this **Move** the target is adjacent to you, you may choose to su
 -----
 ##### Leg Swipe
 *1 Adrenaline, Minor Action*  
-Make an attack with your weapon against a character within Reach. On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn.
+Make an attack with your weapon against a character within Reach. On a hit, the target is [[Conditions & Statuses#SLOWED|SLOWED]].
+
+-----
+##### Parry
+*2 Adrenaline, Reaction*  
+When you are targeted with an attack, you may immediately make an attack roll against the character who had targeted you with **+1 Bane**. On a hit, their attack automatically misses.
 
 -----
 ##### Protector
@@ -82,14 +92,26 @@ Make a melee attack against a character that is your Size or smaller within Reac
 ---
 ##### Fissure
 *5 Adrenaline, Major Action*  
-You carve into the earth beneath you. Create a Size 8 Line starting from a space adjacent to you. All characters must make a **FINESSE** save or take **3d6 || 6d6 || 9d6 damage** and become [[Conditions & Statuses#Off-Guard|OFF-GUARD]] and [[Conditions & Statuses#Immobilised|IMMOBILISED]] until the end of their next turn. Characters who succeed on their save may move to the closest space off of the line.
+You carve into the earth beneath you. Create a Size 8 Line starting from a space adjacent to you. All characters must make a **FINESSE** save or take **3d6 || 6d6 || 9d6 damage** and become [[Conditions & Statuses#Off-Guard|OFF-GUARD]] and [[Conditions & Statuses#Immobilised|IMMOBILISED]]. Characters who succeed on their save may move to the closest space off of the line.
 
 This line then creates a **Hazard**. Characters affected by this **Hazard** must make a **FINESSE** save or become [[Conditions & Statuses#Off-Guard|OFF-GUARD]] and [[Conditions & Statuses#Immobilised|IMMOBILISED]] until the start of their next turn.
 
 ---
+##### Follow-Up
+*4 Adrenaline, Free Action*  
+When you hit someone with your *Basic Attack*, you may use this **Move** to immediately make another *Basic Attack* against the same target. This Move can trigger itself, if you spend the **Adrenaline** again.
+
+When you use this Move, you make the attack with **+1 Bane**. If you then trigger this Move with itself, you gain an additional **+1 Bane** on each successive attack (**+1 Bane** on the first, **+2 Banes** on the second, **+3 Banes** on the third, and so on). 
+
+---
 ##### Ground Slam
 *4 Adrenaline, Major Action*  
-You strike the ground beneath you. Create a Size 3 Circle centred on yourself. All characters within this Circle other than yourself must make a **FINESSE** save. On a failure, they take **2d6 || 4d6 || 6d6 damage** and become [[Conditions & Statuses#Slowed|SLOWED]] until the end of their next turn. On a success, they take half damage. 
+You strike the ground beneath you. Create a Size 3 Circle centred on yourself. All characters within this Circle other than yourself must make a **FINESSE** save. On a failure, they take **2d6 || 4d6 || 6d6 damage** and become [[Conditions & Statuses#Slowed|SLOWED]]. On a success, they take half damage. 
+
+---
+##### Perfect Parry
+*3 Adrenaline, Reaction*  
+When you are targeted by an attack, you may immediately give yourself [[Keywords#Aegis|Aegis]]. This [[Keywords#Aegis|Aegis]] is removed after the attack resolves.
 
 ---
 ##### Shadow Strike
@@ -103,8 +125,12 @@ You teleport behind a character within Range 6. Then, you immediately make an at
 
 ---
 ##### One Serious Punch
-*9 Adrenaline, Major Action, Melee Attack, Reach 1*  
-On a hit, then they take ∞ damage.
+*9 Adrenaline, Minor Action*  
+You begin winding up a real serious punch. When you use this **Move**, you become [[Conditions & Statuses#Immobilised|IMMOBILISED]], you cannot take Reactions until the start of your next turn, and your turn immediately ends.
+
+On your next turn, you may use a Major Action to make a melee attack against a character within Reach 1. On a hit, the target takes **∞ damage**. If the target is a **Nemesis**, they instead take **100 damage**. You are then no longer [[Conditions & Statuses#Immobilised|IMMOBILISED]].
+
+Alternatively, you may instead abandon the punch at the start of your next turn as a Free Action. When you do so, you are no longer [[Conditions & Statuses#Immobilised|IMMOBILISED]].
 
 ---
 ##### Orbital Dropkick
@@ -112,5 +138,5 @@ On a hit, then they take ∞ damage.
 ---
 ##### Tear Apart
 *Prerequisite: [[Character Creation/Vanguards/Classes/Fury/index|Fury]]*  
-*7 Adrenaline, Major Action*  
-You attempt to tear apart a character you are grappling. The target must make a **MIGHT** save or take **10d6 damage**.
+*6 Adrenaline, Major Action*  
+You attempt to tear apart a character you are grappling. The target must make a **MIGHT** save or take **12d6 damage**, taking half as much on a success.

@@ -8,8 +8,6 @@ When you are reduced to **0 HP** and become [[Conditions & Statuses#Defeated|DEF
 Increase your **SPEED** by **1 || 2 ||** 3.
 ##### Undead
 When you would become [[Conditions & Statuses#Defeated|DEFEATED]], roll a **d6**. On a **5+**, you do not become [[Conditions & Statuses#Defeated|DEFEATED]] and return to **1 HP**.
-##### Unnatural Force
-When you take the *Shove* action, you are able to knock back the target up to **3** spaces.
 ##### Well Guided
 When you expend [[Conditions & Statuses#Marked|MARKED]] on an enemy, you may reduce your **Crit Threshold** by **1** and deal an additional **2 || 4 || 6 damage** for that attack.
 ### Tier II

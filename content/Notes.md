@@ -15,26 +15,24 @@ draft: "true"
 1. Aegis, ignore following
 2. Adept's Dodge, Prophet's Divine Intervention
 3. Vulnerable / Resistance
-4. Mage Block
-5. Armour
-6. Shield
-### Narrative Rework
-Consider modifying the Narrative System, like skill checks and everything lmao.
+4. Armour
+5. Brace
+6. Mage's Hex Barrier
+7. Shield
+### Narrative Talents Rework
+Types of Narrative Talents:
+- Auto success (lie detector)
+- Interact with resources
+- Increased Reward, or Reduced Risk
+- Reduced Consequences
+- Can do something as if a Tier higher. Like Power Jump, let's you do something as if you were the next tier 
 
-For Skill Checks, could do 1d6 (+boons/banes) for:
-1. No, and...
-2. No
-3. No, but...
-4. Yes, but...
-5. Yes
-6. Yes, and...
-Main differences:
-- Crits are easier to attain
-- Could move downtime/rest action clock advancement to 
-	- 1/2: 1 segment
-	- 3/4: 2 segments
-	- 5/6: 3 segments
-	- Which makes advancing clocks easier
+##### Ritualist (Mage Talent)
+You have a book of useful spells for every situation.
+
+When an ally plans to make a Skill Check, you may announce you have the perfect spell to help them out.
+
+If you can at least 10 minutes performing the required ritual, you may cast the spell to grant either +1 Boon to the check, or increase the Reward of the check.
 ### Narrative vs Combat
 At the moment, completely disjoint. 
 
@@ -47,13 +45,14 @@ If you have a capability thanks to a combat power, cool! You can use that in nar
 
 Then, rework all Narrative Talents so that they won't really be useful in combat anyway.
 # To Do
-- Tier III Spell: **Hell**. Persistent Damage Hazards Everywhere
-- Counterattack Move, maybe one that reduces incoming damage, and allows *Basic Attack* on Reaction?
+- More talents that utilise the tag system
+- Separate skirmisher into melee and ranged
+- Nemesis that has fuck tonnes of Aegis and like 50hp (they blow up in an AoE when you get through the Aegis)
+- More Alchemy Tricks
+- More AoE Spells that are squares/circles
 - Adept Talent or Consumable that gives passive Focus Regen
-- Vanguard Talent that gives passive Adrenaline regen
 - Tier II/III chronomancer talent: once per combat, take an additional Minor Action on your turn
 - Talent called rhythm, perfection, something like that. Each time you hit with an attack, it goes up, When you miss, it drops to 0 again.
-- How does ICON handle combat abilities outside of combat?
 - Tinkerer talent tree with companion to modify it, poop mines
 - Give something in Tier III a d100 damage
 - Wilder, Beastheart. Let them turn into animals, and eventually turn into big animals! (Like whales)
@@ -71,7 +70,6 @@ Then, rework all Narrative Talents so that they won't really be useful in combat
 - Trade boons for expanded crit range, bonus damage, and other effects.
 - Make an art inspiration board
 - Even out the weapons (make sure each Type has the same number of weapons, atm the Vanguard has the most at 7)
-- Nerf Ricochet
 - Attack that does something like "deals X damage n times"
 - Move/Trick called "Fake-Out", deal 1 damage, then deal X (lots) damage.
 - Come up with a systematic way to determine damage for weapons and abilities
@@ -80,13 +78,6 @@ Then, rework all Narrative Talents so that they won't really be useful in combat
 - Give Queen of Bones a special Dash Action
 - Set an EVASION for Totems of Hatred, and Saves
 - Find a way to delete the "Folder Contents" part of folder pages, or at least make it look nicer.
-- Write a "Strategy Tips" section
-	- Make sure your Vanguard is taking the hits, and support them in doing so and in staying alive.
-	- Make use of Taunts to sway the actions of enemies.
-	- Avoid having your Prophet take hits.
-	- As a Mage, always keep spare Mana to block damage.
-	- Adepts & Mages who aren't being targeted become much more effective.
-	- One in three treasure chests is actually a mimic!
 # Mechanics
 # Storymaster
 ##### Combat Building
@@ -154,18 +145,14 @@ Then, rework all Narrative Talents so that they won't really be useful in combat
 ##### Moves
 - Fear (Fight, Flight, Freeze?)
 - Steel wind Strike (Tier II)
-- Parry
-- Smite
 - Apply magic to weapon (fire for example)
 - (Tier II) Air Slash that damages everyone in a line and everyone adjacent to the line (basically 3-space wide line, rather than a cone).
 - (Tier III) summon absurdly large sword, smack everything on the map. Watch the Old Peace trailer, Naramon ult.
 ##### Tricks
 - The Ol' Switcheroo: Swap places with an ally within Range 10. Make it a Reaction that can interrupt anything?
-- Ball Bearings
 - More Traps
 - Flicker (Tier II) (Appear in 2 spaces at once, when hit or start of next turn or when you decide you can collapse your superposition and choose which space youre in)
 - Self Teleport + Leave behind shadow duplicate
-- Bomb
 - Turret
 - Glider?
 - Alchemy
@@ -173,7 +160,7 @@ Then, rework all Narrative Talents so that they won't really be useful in combat
 	- Splash Potions
 	- Healing Potions?
 ##### Rewind
-*Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index]]*  
+*Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index|Artisan]]*  
 You have created a device that grants you limited manipulation of time. Once per combat, you may activate this device at the start of your turn as a Free Action, marking your current location when you do so. At the end of your turn, you teleport back to this marked location.
 - Make this a Trick, when on a Failure it malfunctions. Maybe grant a SPEED boost when activated.
 ##### Spells
@@ -189,10 +176,8 @@ You have created a device that grants you limited manipulation of time. Once per
 - Guardian angel summons
 - Animals summons (Druid)
 # Talent Ideas
-- Sort Talents into groups for easier finding
 - Exploding Dice?
 - Trade Boons/Banes for other effects, such as
-	- When making an attack with at least one boon, you may exchange a boon to lower your Crit Threshold by 2 for this attack
 	- Exchange Boon for more damage
 ### General
 ##### Combat

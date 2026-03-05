@@ -9,6 +9,16 @@ You bless a Weapon of an ally within Range 5. Until the next time the weapon hit
 **Divine Effect:**  
 As Standard Effect, but the blessing lasts for until the Weapon has hit three times, rather than once.
 
+---
+##### Blood Barrier
+*Fate Target: 8*  
+*Minor Action*  
+**Standard Effect:**  
+You sacrifice some of your own vitality to protect an ally. Reduce your **HP** by 1, then grant an ally within Range 6 [[Keywords#Aegis|Aegis]].
+
+**Divine Effect:**  
+As Standard Effect, but you also gain [[Keywords#Aegis|Aegis]].
+
 -----
 ##### Cleanse
 *Fate Target: 5*  
@@ -73,6 +83,16 @@ You grant an ally within Range 8 **+2 Boons** on their next attack roll or save 
 
 **Divine Effect:**  
 You grant an ally within Range 8 **+2 Boons** on their next attack roll or save before the end of their next turn. Additionally, they may roll the d20 twice, selecting either die to use when calculating their result.
+
+---
+##### Misty Form
+*Fate Target: 5*  
+*Minor Action*  
+**Standard Effect:**  
+You grant an ally within Range 5 **soft cover** until the end of their next turn.
+
+**Divine Effect:**  
+The target also becomes [[Conditions & Statuses#Invisible|INVISIBLE]] until the end of their next turn.
 
 -----
 ##### Reading
@@ -165,6 +185,16 @@ Choose an ally within Reach 1. While empowered by the Totem, they grow one size 
 As Standard Effect, but the target also gains [[Conditions & Statuses#Resistant|RESISTANT]] 1 || 2 || 3.
 
 -----
+##### Ward
+*Fate Target: 7*  
+*Minor Action*  
+**Standard Effect:**  
+You command divine forces to watch over an ally within Range 6. They gain **+1 Boon** on all saves, and attacks made against them gain **+1 Bane** until the end of their next turn.
+
+**Divine Effect:**  
+You command divine forces to watch over an ally within Range 6. They gain **+2 Boon** on all saves, and attacks made against them gain **+2 Bane** until the end of their next turn.
+
+---
 ##### Whispers of Truth
 *Fate Target: 7*  
 *Minor Action*  
@@ -178,13 +208,28 @@ As Standard Effect, but the effect persists until the end of the scene.
 ## Tier II
 ---
 ##### Forbid
-*Fate Target: 6*  
+*Fate Target: 8*  
 *Minor Action*  
 **Standard Effect:**  
 Choose a character within Range 8 and an action you have seen them take during this combat. The target must make a **PRESENCE** save, or be forbidden from taking that action again until after the end of their next turn.
 
 **Divine Effect:**  
 As Standard Effect, but the target automatically fails their save.
+
+---
+##### Guardian Angel
+*Prerequisite: [[Character Creation/Prophets/Classes/Priest/index|Priest]]*  
+*Fate Target: 8*  
+*Major Action*  
+**Standard Effect:**  
+You summon a Size 2 Guardian Angel within Range 5. The Guardian Angel has **10 || 20 || 30 HP**, an **EVASION** of **9 || 13 || 17** and their saves match yours. The Guardian Angel is immune to all effects except damage and forced movement.
+
+The Guardian Angel does not take any turns, but 3 times per Round when an adjacent ally would take damage, the Guardian Angel can spend their Reaction to take the damage in their stead.
+
+When you use this **Miracle**, gain **2 Grace**.
+
+**Divine Effect:**  
+As Standard Effect, but the Guardian Angel instead has **20 || 40 || 60 HP**.
 
 -----
 ##### Manipulate Fate
