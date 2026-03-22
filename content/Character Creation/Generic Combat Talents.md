@@ -2,6 +2,9 @@
 ### Tier I
 ##### Attention Seeker
 When you *Taunt* a target, they gain **+1 Bane** on their save to resist the taunt.
+##### Exploit Opening
+*Prerequisite: Melee Weapon*  
+Once per round, when an enemy is within reach of your Weapon and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.
 ##### Resilient
 When you are reduced to **0 HP** and become [[Conditions & Statuses#Defeated|DEFEATED]], you gain **2 Strain** in place of the **Scar** you would obtain by becoming [[Conditions & Statuses#Defeated|DEFEATED]].
 ##### Swift

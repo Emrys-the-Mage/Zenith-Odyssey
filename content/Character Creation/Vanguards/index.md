@@ -24,7 +24,7 @@ Depending on your Class, Talents, and Moves, there may be additional ways for yo
 
 Your **Adrenaline** can never exceed 5 || 7 || 9. If you would gain an amount of **Adrenaline** that exceeds this number, any excess **Adrenaline** is lost.  
 ### Exploit Opening
-Once per round, when an enemy is within reach of your weapon and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.
+Once per round, when an enemy is within reach of your Weapon and attempts to voluntarily move, you may spend a Reaction to immediately make a *Basic Attack* against them.
 ### Moves
 When it’s time to show off in battle, it’s time to use a **Move**. To use a **Move**, you must expend the listed amount of **Adrenaline**. If you don’t have enough **Adrenaline**, you will need to build up more before you can use the **Move**.  
 

@@ -10,7 +10,7 @@ Your very essence is infused with an element of the world. Select an **Element**
 
 **Granted Spells.**  
 *Tier I: [[Spells#FIREWALL|Firewall]], [[Spells#SPONTANEOUS COMBUSTION|Spontaneous Combustion]]*  
-*Tier II:*  
+*Tier II: [[Spells#Fireball|Fireball]]*  
 *Tier III:*  
 **Feature: SPREADING EMBERS**  
 When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a Weapon with the Fire tag, you may also **1 || 2 || 3** [[Keywords#Persistent Damage|Persistent Damage]] on a different target within Range 6.

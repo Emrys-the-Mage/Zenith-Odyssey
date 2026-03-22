@@ -24,7 +24,7 @@ You learn 3 **Moves** of your choice. At every odd Level after the first, you le
 ##### Serenity
 At the start of each of your turns you gain [[Keywords#Aegis|Aegis]].
 ##### Counterattack
-Any time your [[Keywords#Aegis|Aegis]] protects you from damage against an attack, you may make a *Basic Attack* against the foe who had targeted you as a Reaction.
+Up to three times per round, any time your [[Keywords#Aegis|Aegis]] protects you from damage against an attack, you may make a *Basic Attack* against the foe who had targeted you as a Reaction.
 #### Specialty
 When creating a Disciple, you select a style of martial arts to study:
 - [[Brawler]]

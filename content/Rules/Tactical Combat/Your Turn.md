@@ -49,10 +49,6 @@ To shove, make an attack against a character your Size or smaller within Reach 1
 ##### Step
 You move 1 space without triggering any Reactions.
 ##### Taunt
-You attempt to goad a character within Range 5 into attacking you. The target must make a **PRESENCE** save. On a failure, they gain **+2 Bane** on all attacks that are not targeting you until the end of their next turn.
+You attempt to goad a character within Range 5 into attacking you. The target must make a **PRESENCE** save. On a failure, they gain **+2 Banes** on all attacks that are not targeting you until the end of their next turn.
 ### Reactions
 You can take up to a single Reaction per turn. You can take a given Reaction once per round, unless otherwise stated. In order to take a Reaction, the listed requirement must be met.
-
-Here is a list of Reactions all characters have access to. 
-##### Brace
-You may take this Reaction when you would take damage. You are [[Conditions & Statuses#STUNNED|STUNNED]] and you halve the amount of damage you would take (rounded down) until the start of your next turn (including the damage that triggered the Reaction).

@@ -89,7 +89,7 @@ You dash forward, striking those in your path.
 ##### Debilitate
 *Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
 *Minor Action, Psionic*  
-You reach into the mind of a target within Range 10, attempting to limit certain parts of their brain. The target must succeed on a **PRESENCE** save or suffer an effect.
+You reach into the mind of a target within Range 6, attempting to limit certain parts of their brain. The target must succeed on a **PRESENCE** save or suffer an effect.
 
 | **Success Level** | **Effect**                                                                                                                                                        |
 | :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,7 +114,7 @@ You goad your opponent into shifting their defence away from where it is needed.
 ##### Force Push
 *Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
 *Minor Action, Psionic*  
-You attempt to push all creatures and loose objects within a Size 3 Square in Range 5. All characters must succeed on a **MIGHT** save or suffer an effect as below.
+You attempt to push all creatures and loose objects within a Size 4 Square in Range 5. All characters must succeed on a **MIGHT** save or suffer an effect as below.
 
 | **Success Level** | **Effect**                                                                                                                                      |
 | :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -187,7 +187,7 @@ You reach into your pocket and throw sand towards the eyes of a target within Ra
 ##### Puppetmaster
 *Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
 *Minor Action, Psionics*  
-You reach into the mind of a character within Range 10, forcing them to move. The target must succeed on a **PRESENCE** save or suffer an effect as below.
+You reach into the mind of a character within Range 6, forcing them to move. The target must succeed on a **PRESENCE** save or suffer an effect as below.
 
 | **Success Level** | **Effect**                                                            |
 | :---------------- | --------------------------------------------------------------------- |

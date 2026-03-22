@@ -14,8 +14,8 @@ Exemplars switch between offensive and defensive playstyles and come with a wide
 | **Core Statistics** |                      |
 | :------------------ | -------------------- |
 | **HP**              | = 24 \|\| 48 \|\| 72 |
-| **EVASION**         | = 7 + your Level     |
-| **HIT**             | = 1 + your Level     |
+| **EVASION**         | = 6 + your Level     |
+| **HIT**             | = Your Level         |
 | **SPEED**           | = 5                  |
 | **Save Target**     | = 10 + your Level    |
 #### Moves

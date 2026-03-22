@@ -1,10 +1,37 @@
 ---
 draft: "true"
 ---
-### Version 1.05 // WIP
+### Version 1.06 // Narrative Talents Refreshed
 *Date: DD/MM/YYYY*  
+**Narrative Talents**
+- A bunch of narrative talents have been purged, please check to see if yours still exist
+- Narrative Talents are no longer broken up into Tiers. Combat Talents remain as they are
+- **First Aid** is now a generic talent and is now once per session
+- **Shrug it Off** is now once per session, and reduces any Strain or Stress taken from a consequence down to 1 Stress
+- **Researcher** applies to more general "research" rolls
+- **Small Friend** now explicitly states your lil' guy is only for moral support
+- **Eye for Lies** is no longer prereq'd to Shade
+- **Unholy Detection** now specifies a distance
+- New Generic Talents: **Adaptive**, **Side Hustle**
+- New Mage Talents: **Chanel the Coven, I Have the Perfect Spell!, Inner Magicks**
+- New Prophet Talent: **Divination, Inspiration**
 
 **Other**
+- *Brace* generic reaction removed
+- Vanguard Move: **Block** is now just what Brace was
+- Vanguard Move: **Parry** now targets Save Target instead of **EVASION**
+- New Vanguard Move: **Air Slash**
+- New Prophet Combat Talent: **Hand of God**.
+- New generic Combat Talent: **Exploit Opening**
+- **Disciple**'s *Counterattack* now three times per round.
+- **Fury** now get the same **Move** progression as Knights (buff)
+- **Exemplar** stats nerfed slightly. **EVASION** and **HIT** are reduced by 1
+- Adept Trick: **Force Push** AoE size increased to Size 4 Square
+- Adept Trick: **Debilitate** Range reduced from 10 to 6
+- Adept Trick: **Puppetmaster** Range reduced from 10 to 6
+- **Scars** now inflict banes on two Skills of your choice (that aren't already 0, and aren't already affected by a Scar). Therefore, Saves are no longer impacted.
+### Version 1.05 // Powers & Prone
+*Date: 05/03/2026*  
 - **Conditions** now last until the end of the target's turn unless otherwise specified.
 - New Status: **PRONE**. 
 - **Shove** generic Minor Action now optionally inflicts **PRONE**.

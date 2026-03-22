@@ -5,10 +5,18 @@
 On a hit, this blade also deals **2 || 4 || 6** [[Keywords#Persistent Damage|Persistent Damage]] and the target becomes [[Conditions & Statuses#Marked|MARKED]].
 ##### Cape of Feathers
 The wearer of this cape may at any time change its form to that of a pair of wings, granting the wearer the ability to fly.
+
+In combat, all movement taken counts as flight.
 ##### Extra-Dimensional Pockets
 You may attach these pockets to your clothing or bag. You gain **+2 Bag Capacity**.
 ##### Life Decanter
 The user of this Artefact may at any time choose to gain a **Strain** in exchange for **1 Supply**.
+##### Mask of Soulseeing
+You gain +1 Boon to checks made to read people, but +1 Bane on checks made to influence others. Additionally, you gain access to the following actions, which you can take once per combat.
+
+**Soul Stare**  
+*Minor Action, Reach 1*  
+You target a creature within Reach. They must make a **PRESENCE** save or become [[Conditions & Statuses#Stunned|STUNNED]] and [[Conditions & Statuses#Immobilised|IMMOBILISED]].
 ##### Necklace of Shifting Sands
 The wearer of this necklace may at any time choose to gain **2 Stress** to teleport a short distance.
 

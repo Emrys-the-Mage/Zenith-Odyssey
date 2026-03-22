@@ -6,7 +6,7 @@
 |       **HIT**       |   +0   |   +4    |    +8    | **FINESSE**  |   -2   |   +2    |    +6    |
 |     **EVASION**     |   6    |   10    |    14    |   **WIT**    |   -2   |   +2    |    +6    |
 |      **SPEED**      |   3    |    3    |    3     | **PRESENCE** |   -2   |   +2    |    +6    |
-|   **Save Target**   |   6    |   11    |    16    |              |        |         |          |
+|   **Save Target**   |   10   |   16    |    21    |              |        |         |          |
 |      **Size**       |   1    |    1    |    1     |              |        |         |          |
 
 ##### Coordination

@@ -17,6 +17,9 @@ Select a **Miracle** you know. Its Fate Target is permanently reduced by 1, to a
 ##### Foresight
 *Prerequisite: [[Character Creation/Prophets/Classes/Seer/index|Seer]]*  
 After rolling your Fate Die for your Divine Intervention, you may expend a **Glimpse** to reroll it. You must use the new result.
+##### Hand of God
+*Prerequisite: [[Wicked]]*  
+You gain **1 Grace** when you make a *Basic Attack*.
 ##### Inspired Action
 When you use your *Basic Attack*, you may forego the attack to allow an ally within Range 8 to make a single *Basic Attack* instead as a Reaction.
 ##### Luck of the Gods
@@ -53,6 +56,8 @@ You may have two Active Themes at a time, rather than one.
 Once per combat, you may slow down time for an enemy the moment before they take action. Right before an enemy within Range 8 would begin their turn, you may use your Reaction to delay their turn, allowing an ally to take a turn in their place. After your ally's turn, an adversary may take their turn as usual, though it need not be the original enemy. This Talent cannot grant a character more than one turn per round.
 ##### Penance
 As a Minor Action, you may reduce your **HP** by 1 in order to reduce the number you are required to roll on your **Fate Die** for your **Divine Intervention** by 1 (to a minimum of 2).
+##### Shielding Intervention
+When you are protected from damage by your **Divine Intervention**, you gain **8 || 16 || 24** [[Keywords#Shield|Shield]].
 ### Tier III
 ##### An Encore to Remember
 *Prerequisite: [[Songbird]]*  

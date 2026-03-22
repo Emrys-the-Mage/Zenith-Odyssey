@@ -11,14 +11,6 @@ draft: "true"
 5. Finish writing out Combat/Narrative Rules
 6. Encounter Building System
 7. Guide to making Hex maps
-### Order of Damage Receiving Modification
-1. Aegis, ignore following
-2. Adept's Dodge, Prophet's Divine Intervention
-3. Vulnerable / Resistance
-4. Armour
-5. Brace
-6. Mage's Hex Barrier
-7. Shield
 ### Narrative Talents Rework
 Types of Narrative Talents:
 - Auto success (lie detector)
@@ -26,31 +18,49 @@ Types of Narrative Talents:
 - Increased Reward, or Reduced Risk
 - Reduced Consequences
 - Can do something as if a Tier higher. Like Power Jump, let's you do something as if you were the next tier 
+### Tags
+**Vanguard**
+- Currently no tags on Moves
 
-##### Ritualist (Mage Talent)
-You have a book of useful spells for every situation.
+**Adepts**
+- Alchemy
+- Traps
+- Psionics
+- Gadgets
+- Movement
 
-When an ally plans to make a Skill Check, you may announce you have the perfect spell to help them out.
+**Mages**
+- Fire
+- Ice
+- Stone
+- Storm
+- Rift
+- Light
 
-If you can at least 10 minutes performing the required ritual, you may cast the spell to grant either +1 Boon to the check, or increase the Reward of the check.
-### Narrative vs Combat
-At the moment, completely disjoint. 
-
-An option to merge them would to do something akin to Daggerheart. Resources spent (Stress) are spent in and out of combat. Could spend stress to refill Mana, HP, etc.
-
-But then all narrative abilities need to work in combat (if it makes sense) and vice versa. This blurs the lines, and would give an argument to join the talent options from both types of play. But then everyone is choosing combat talents.
-
-### Narrative vs Combat: Option 2
-If you have a capability thanks to a combat power, cool! You can use that in narrative, just roll an appropriate skill check!
-
-Then, rework all Narrative Talents so that they won't really be useful in combat anyway.
+**Prophets**
+- Totem
 # To Do
+- Rework Artisan???
+- Elevation Rules (+1 Boon on attacks made against someone of lower elevation. +1 Movement to move up an elevation, unless flying.)
+- Flying/levitating rules
+- Nerf Ranges across the board so they matter more. To compensate, Ranged attack in melee is now only +1 Bane.
+- Write that 1's auto-miss and 20's auto-succeed on both attacks and saves.
+- Add Lure enemy as amplifier or just an enemy
+- Illusion Tricks/Spells
+- More Psychic Tricks
+- More Alchemist Tricks
+- More Gadget Tricks
+- More Trap Tricks
+- Tier II Artisan Tricks
+- Eruption, Tier II Stone Spell. Damage + Lingering Slowing Terrain
+- Write rules about ongoing effects, and if they go away when the caster is defeated
 - More talents that utilise the tag system
+- Rework Wilder wheels/features
+- Tier II Talent to give Angelkin Wings, maybe a halo talent, lots of eyes talent?
+	- More talents to build off Ancestries
 - Separate skirmisher into melee and ranged
-- Nemesis that has fuck tonnes of Aegis and like 50hp (they blow up in an AoE when you get through the Aegis)
-- More Alchemy Tricks
+- Nemesis that has fuck tonnes of stacking Aegis and like 50hp (they blow up in an AoE when you get through the Aegis)
 - More AoE Spells that are squares/circles
-- Adept Talent or Consumable that gives passive Focus Regen
 - Tier II/III chronomancer talent: once per combat, take an additional Minor Action on your turn
 - Talent called rhythm, perfection, something like that. Each time you hit with an attack, it goes up, When you miss, it drops to 0 again.
 - Tinkerer talent tree with companion to modify it, poop mines
@@ -59,22 +69,18 @@ Then, rework all Narrative Talents so that they won't really be useful in combat
 - Seer Talent that makes you blind, but buffed/granted sight another way. Maybe as a Narrative Talent
 - Life Transfer ability for Invoker or Prophet. One Narrative one and one Combat one?
 - Abilities that clear hazards
-- Address using combat things in narrative, and narrative things in combat?
 - Adepts can use focus on companions
 - Adept Talent that makes your Companion join battles.
 - Mount for Vanguards (sets SPEED to a value, other benefit)
 - Miracle that transfers damage from PC to another. Cannot be turned off until one PC is DEFEATED.
-- Maybe change it to spend a Strain to heal to full. Consider how it affects Vanguards. Test in a campaign. If this affects Vanguards too much but you find it good, spend Stress to regain Mana/Divine Intervention/Focus?
 - Rules for walls/constructs/etc. Immune to psychic and other effects. 0 EVASION. Fails all saves except **MIGHT**.
 - Alternate ways to expend marked.
 - Trade boons for expanded crit range, bonus damage, and other effects.
 - Make an art inspiration board
-- Even out the weapons (make sure each Type has the same number of weapons, atm the Vanguard has the most at 7)
 - Attack that does something like "deals X damage n times"
 - Move/Trick called "Fake-Out", deal 1 damage, then deal X (lots) damage.
-- Come up with a systematic way to determine damage for weapons and abilities
 - Change skeletal summons to happening automatically at the start of turns 1, 3, and 5.
-- Damage rounds down on halved
+- Damage rounds down on halved3
 - Give Queen of Bones a special Dash Action
 - Set an EVASION for Totems of Hatred, and Saves
 - Find a way to delete the "Folder Contents" part of folder pages, or at least make it look nicer.
@@ -95,6 +101,7 @@ Then, rework all Narrative Talents so that they won't really be useful in combat
 - Sentinel
 - Horde (gets weaker/smaller as it gets damaged)
 - Skirmisher
+- One that drops mines/hazards
 - Spellcaster
 	- Give 3 default spells, amplifiers to add more
 - Witch

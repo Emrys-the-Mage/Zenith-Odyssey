@@ -1,4 +1,9 @@
 ## Tier I
+---
+##### Air Slash
+*1 Adrenaline, Minor Action*  
+Make a *Basic Attack* against a character within Range 5. This counts as having taken the *Basic Attack* action for this turn.
+
 -----
 ##### Batter Up
 *2 Adrenaline, Minor Action*  
@@ -7,7 +12,7 @@ Make an attack with your weapon against a character within Reach. On a hit, the 
 -----
 ##### Block
 *2 Adrenaline, Reaction*  
-You take this Reaction when you would take damage. You immediately gain the effects of [[Your Turn#BRACE|BRACE]], without being inflicted with [[Conditions & Statuses#STUNNED|STUNNED]].
+You take this Reaction when you would take damage. You may halve the amount of incoming damage (rounded down), and any other damage you would take before the start of your next turn. You are also [[Conditions & Statuses#Stunned|STUNNED]].
 
 -----
 ##### Combo
@@ -36,7 +41,7 @@ Make an attack with your weapon against a character within Reach. On a hit, the 
 -----
 ##### Parry
 *2 Adrenaline, Reaction*  
-When you are targeted with an attack, you may immediately make an attack roll against the character who had targeted you with **+1 Bane**. On a hit, their attack automatically misses.
+When you are targeted with an attack, you may immediately make an attack roll against the character who had targeted you, using their **Save Target** in place of their **EVASION**. On a hit, their attack automatically misses. You may choose to use this **Move** after knowing the result of the attack roll, but before hearing its effects (such as damage).
 
 -----
 ##### Protector
@@ -88,6 +93,11 @@ You flourish your weapon in a spiral around you. All characters adjacent to you 
 ##### Chokehold
 *4 Adrenaline, Minor Action*  
 Make a melee attack against a character that is your Size or smaller within Reach 1. On a hit, you grab them by the throat and lift them into the air. The target becomes grappled by you, is [[Conditions & Statuses#Stunned|STUNNED]], and takes **1d10 || 2d10 || 3d10** **damage** at the start of each of their turns for the duration of the grapple. Each time they take this damage, the damage increases by **1d10**.
+
+---
+##### Energy Slash
+*4 Adrenaline, Minor Action*  
+You slice the space in front of you so harshly that a rift of energy emanates before you. Create a Size 5 Line starting from a space adjacent to you. All characters on or adjacent to this line (other than you) must make a **FINESSE** save or take **1d8 || 2d8 || 3d8 damage**.
 
 ---
 ##### Fissure

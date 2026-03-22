@@ -9,7 +9,7 @@ Once the recipe is acquired, you may begin crafting the consumable by taking the
 
 Once the crafting clock is complete, you have finished crafting the consumable!
 ### Purchasing
-Default prices for consumables are equal to the Essence cost plus half the Craft value.
+Default prices for consumables are equal to the Essence cost plus half the Craft value (rounded down).
 ### Items
 ##### Ambrosia
 *Cost: 4 Essence, Craft: 5*  

@@ -317,6 +317,36 @@ The binds are superheated, inflicting **4 || 8 || 12 damage** for each failed sa
 The target also becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] while bound.
 
 ---
+##### Eruption
+*X Mana, Major Action*  
+Blank.
+
+**Augments**  
+*Blank. X Mana*  
+Blank.
+
+*Blank. X Mana*  
+Blank.
+
+*Blank. X Mana*  
+Blank.
+
+---
+##### Fireball
+*7 Mana, Major Action, Fire*  
+You conjure a ball of fire, hurling it toward a point within Range 10. Centre a Size 4 Circle on this point. All characters within this Circle must make a **FINESSE** save or take **2d4 || 4d4 || 6d4** [[Keywords#Persistent Damage|Persistent Damage]], taking **3 || 6 || 9 damage** on a success.
+
+**Augments**  
+*Expansive. 3 Mana*  
+The Circle grows to Size 5.
+
+*Marking Flames. 2 Mana*  
+All targets become [[Conditions & Statuses#Marked|MARKED]] on a failed save.
+
+*Soulflame. 2 Mana*  
+The targets must instead make a **PRESENCE** save at **+1 Bane**.
+
+---
 ## Tier III
 ---
 ##### Doom

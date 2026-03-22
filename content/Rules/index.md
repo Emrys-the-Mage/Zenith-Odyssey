@@ -3,9 +3,6 @@ title: Rules
 aliases:
   - Rules
 ---
-### Navigation
-- [[Rules/Narrative Play/index|Narrative Play]]
-- [[Rules/Tactical Combat/index|Tactical Combat]]
 ### The Basics
 ##### What you need
 To play ***Zenith Odyssey***, you will need the following:
@@ -53,7 +50,10 @@ Should you take a **Scar** when you already have three, you are instead *complet
 - Your character has lost their ability to adventure, such as a Mage losing their ability to cast Spells.
 - Your character has lost all hope, and immediately retires.
 ##### Modes of Play
-- Narrative Play
-- Tactical Combat
-- Exploration
-- Downtime
+In *Zenith Odyssey*, there are a few different rulesets we use for different situations. By default, we use the rules from [[Rules/Narrative Play/index|Narrative Play]] which includes making Skill Checks to achieve outcomes.
+
+Should a fight break out that includes all or most players, and we want to pay particular attention to the details of that fight, we use [[Rules/Tactical Combat/index|Tactical Combat]].
+
+If the party is travelling or exploring a new large area, we use [[Rules/Expeditions/index|Expeditions]].
+
+You will likely move between these modes of play as your game progresses, calling upon the most useful ruleset for each moment. You need not necessarily even use all the rulesets presented!

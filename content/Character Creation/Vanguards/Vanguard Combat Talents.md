@@ -63,6 +63,9 @@ While within your **Defensive Stance**, you gain [[Conditions & Statuses#Resista
 ##### Versatile Training
 You may choose an additional Weapon, from the [[Vanguard Weapons]] or the [[Adept Weapons]] to take into battle.
 ### Tier II
+##### Adaptable Technique
+*Prerequisite: [[Character Creation/Vanguards/Classes/Exemplar/index|Exemplar]]*  
+When you use a **Move**, you may spend **1 Adrenaline** to enter a Stance of your choice (other than [[Vanguard Combat Talents#Exemplary Stance|Exemplary Stance]]) immediately after the **Move**.
 ##### Energising Actions
 At the beginning of each of your turns, gain **1 Adrenaline**.
 ##### Exemplary Stance
@@ -85,6 +88,9 @@ You gain [[Conditions & Statuses#Strength|STRENGTH]] equal to the round number.
 Increase the maximum amount of **Adrenaline** you can have by 1.
 ##### Read the Battle
 You have a knack for learning the attack patterns of your foes. At the end of each round, increase your **EVASION** by 1. Your **EVASION** returns to its usual value when the combat ends.
+##### Relentless Protector
+*Prerequisite: [[Moves#Protector|Protector]] Move*  
+The Reaction you take to use [[Moves#Protector|Protector]] is now limited to three times per Round, rather than once.
 ##### Runeblade
 Choose a [[Mage Weapons|Mage Weapon]]. You imbue its properties into one of your Vanguard Weapons. Add the Mage Weapon's tags, damage, and effects to your Vanguard Weapon. 
 ### Tier III

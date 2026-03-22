@@ -5,6 +5,13 @@ draft: "true"
 - itch.io
 - one tier at a time
 
+### To Do Before Initial Tier I Release
+- Rename to SOMETHING ANYTHING WHAT THE ACTUAL FUCK
+- Clean up enemies
+- Make Alchemist Playable
+	- Rework Artisan?
+- Redo Wilder
+- Redo Narrative Talents
 
 ### Kickstarter
 1. Pretty PDF
