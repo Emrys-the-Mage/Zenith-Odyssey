@@ -18,7 +18,7 @@ Select a **Miracle** you know. Its Fate Target is permanently reduced by 1, to a
 *Prerequisite: [[Character Creation/Prophets/Classes/Seer/index|Seer]]*  
 After rolling your Fate Die for your Divine Intervention, you may expend a **Glimpse** to reroll it. You must use the new result.
 ##### Hand of God
-*Prerequisite: [[Wicked]]*  
+*Prerequisite: [[Character Creation/Prophets/Classes/Priest/index|Priest]]*  
 You gain **1 Grace** when you make a *Basic Attack*.
 ##### Inspired Action
 When you use your *Basic Attack*, you may forego the attack to allow an ally within Range 8 to make a single *Basic Attack* instead as a Reaction.

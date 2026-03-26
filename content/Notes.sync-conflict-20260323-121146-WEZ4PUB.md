@@ -41,12 +41,9 @@ Types of Narrative Talents:
 - Totem
 # To Do
 - Rework Artisan???
-- Mage elemental talents to let mages specialise a little
-- Elevation Rules (+1 Boon on attacks made against someone of lower elevation. +1 Movement to move up an elevation, unless flying.)
-- Flying/levitating rules
-- Nerf Ranges across the board so they matter more. To compensate, Ranged attack in melee is now only +1 Bane.
-- Write that 1's auto-miss and 20's auto-succeed on both attacks and saves.
-- Add Lure enemy as amplifier or just an enemy
+- Elemental Duality only gives Tier I spells
+- Tier II/III Talent: Inverted Luck. Your Crit Threshold starts at 1, and you increase your threshold whenever you would normally decrease it. Low rolls are crits now.
+- Chokehold should STUNNED the user or something similar?
 - Illusion Tricks/Spells
 - More Psychic Tricks
 - More Alchemist Tricks

@@ -12,9 +12,6 @@ Unless stated otherwise by other Talents, your Companion will not participate in
 When you make progress towards a crafting clock, you may fill in an additional segment.
 ##### Eye for Lies
 You know when another in your presence knowingly tells a lie.
-##### Ghost Step
-*Prerequisite: [[Character Creation/Adepts/Classes/Shade/index|Shade]]*  
-You may spend **2 Stress** to step through a wall in front of you, as if it didn't exist.
 ##### Leader
 *Prerequisite: [[Character Creation/Adepts/Classes/Luminary/index|Luminary]]*  
 When you lead a group check, the resultant success level is increased by one (from a failure to a partial success, from a partial success to a success, from a success to a critical success).

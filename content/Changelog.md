@@ -1,8 +1,10 @@
 ---
 draft: "true"
 ---
-### Version 1.06 // Narrative Talents Refreshed
+### Version 1.07 // WIP
 *Date: DD/MM/YYYY*  
+### Version 1.06 // Narrative Talents Refreshed
+*Date: 22/03/2026*  
 **Narrative Talents**
 - A bunch of narrative talents have been purged, please check to see if yours still exist
 - Narrative Talents are no longer broken up into Tiers. Combat Talents remain as they are

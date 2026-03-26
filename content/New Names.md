@@ -5,6 +5,8 @@ BLITZ?
 BURST
 Cinder
 
+Eternal?
+
 Cleave Reality
 
 Power Blitz
@@ -21,3 +23,4 @@ Break Beyond
 
 IMPACT
 
+Lumina?
