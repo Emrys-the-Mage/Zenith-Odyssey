@@ -72,11 +72,11 @@ The wall grants **soft cover**.
 Choose a character within Range 8. The target must make a **MIGHT** save or become [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]]. At the end of each of their turns, they may make another **MIGHT** save to end the effect.
 
 **Augments**  
-*Brittle. 2+ Mana*  
-On a failed save, the target becomes [[Conditions & Statuses#VULNERABLE|VULNERABLE]] with value equal to half the **Mana** spent (rounded down) until the **Spell's** effect ends.  
+*Brittle. 2 Mana*  
+On a failed save, the target becomes [[Conditions & Statuses#VULNERABLE|VULNERABLE]] **1 || 2 || 3** until the **Spell's** effect ends.  
 
-*Frostbite. 2+ Mana*  
-On a failed save, the target takes 1d4 [[Keywords#Persistent Damage|Persistent Damage]] for every **2 Mana** spent.  
+*Frostbite. 2 Mana*  
+On a failed save, the target takes **1d4 || 2d4 || 3d4** [[Keywords#Persistent Damage|Persistent Damage]] for every **2 Mana** spent.  
 
 *Lingering. 1 Mana*  
 If the target passes their save, they are [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their next turn. If the target fails their save and becomes [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]], once they end the effect they are [[Conditions & Statuses#SLOWED|SLOWED]] until the end of their following turn.  
@@ -301,8 +301,8 @@ On a successful save, the target will take **1d4 || 2d4 || 3d4** **damage**.
 ## Tier II
 ---
 ##### Bind
-*8 Mana, Major Action*  
-You attempt to encase a target within Range 5 with magical binds. The target must make a **MIGHT** save or become bound. While bound, the target is [[Conditions & Statuses#Stunned|STUNNED]], [[Conditions & Statuses#Immobilised|IMMOBILISED]], and gains **+1 Bane** on all attacks.
+*8 Mana, Major Action, Rift*  
+You attempt to encase a target within Range 5 with magical binds. The target must make a **MIGHT** save or become bound. While bound, the target is [[Conditions & Statuses#Stunned|STUNNED]], [[Conditions & Statuses#Immobilised|IMMOBILISED]], and gains **+1 Bane** on all attacks and **FINESSE** saves. Additionally, you become [[Conditions & Statuses#Slowed|SLOWED]] while the target is bound.
 
 On subsequent turns as a Minor Action, you may attempt to enforce the binds. When you do so, the target must make a **MIGHT** save, breaking free from the binds on a success. If you fail to take this action, the target automatically breaks free at the end of your turn.
 
@@ -318,18 +318,20 @@ The target also becomes [[Conditions & Statuses#Off-Guard|OFF-GUARD]] while boun
 
 ---
 ##### Eruption
-*X Mana, Major Action*  
-Blank.
+*7 Mana, Major Action, Stone*  
+Create an eruption of earth in a Size 4 Square within Range 8. All characters within must make a **FINESSE** save, or take **2d6 || 4d6 || 6d6 damage** and fall [[Conditions & Statuses#Prone|PRONE]]. Regardless of the outcome of the save, they are now [[Conditions & Statuses#Off-Guard|OFF-GUARD]]. 
+
+The area then becomes **Slowing Terrain** and a **Hazard**. Any character affected by the **Hazard** must make a **FINESSE** save or fall [[Conditions & Statuses#Prone|PRONE]], becoming immune to this affect until the end of that turn on a success.
 
 **Augments**  
-*Blank. X Mana*  
-Blank.
+*Colossal. 2 Mana*  
+The Square grows to Size 5.
 
-*Blank. X Mana*  
-Blank.
+*Magma-Infused. 2 Mana*  
+On a failed save, targets also take an additional **1d4 || 2d4 || 3d4** [[Keywords#Persistent Damage|Persistent Damage]].
 
-*Blank. X Mana*  
-Blank.
+*Smoked. 3 Mana*  
+The area is now filled with smoke, providing **soft cover**.
 
 ---
 ##### Fireball
@@ -345,6 +347,57 @@ All targets become [[Conditions & Statuses#Marked|MARKED]] on a failed save.
 
 *Soulflame. 2 Mana*  
 The targets must instead make a **PRESENCE** save at **+1 Bane**.
+
+---
+##### Rebirth
+*8 Mana, Reaction, Fire*  
+You may cast this **Spell** when your **Hex Barrier** is reduced to 0. Immediately regain **8 Hex Barrier** and deal **1d6 || 2d6 || 3d6 damage** to all characters within Range 1. Then, apply any leftover damage you would have taken after your **Hex Barrier** was depleted.
+
+**Augments**  
+*Blinding. 3 Mana*  
+All characters within Range 1 must make a **WIT** save or become [[Conditions & Statuses#Blinded|BLINDED]].
+
+*New Life. 3 Mana*  
+You also teleport to a space within Range 6.
+
+*Rejuvenating. 1+ Mana*  
+Regain an additional **1 Hex Barrier** for each **Mana** spent.
+
+---
+##### Snow Storm
+*4 Mana, Major Action, Ice*  
+You summon a snow storm across the battlefield. While active, all characters have **soft cover**.
+
+You may dismiss the snow storm at any time.
+
+**Augments**  
+*Biting Frost. 4 Mana*  
+Characters you choose must make a **MIGHT** save at the start of each of their turns, becoming [[Conditions & Statuses#Weak|WEAK]] **1 || 2 || 3** on a failed save.
+
+*Darkened Silhouettes. 3 Mana*  
+When you cast this **Spell**, choose any number of characters. The chosen characters do not benefit from **soft cover** from this **Spell**.
+
+*Heavy Snowfall. 2 Mana*  
+All characters become [[Conditions & Statuses#Slowed|SLOWED]] while the snow storm is active.
+
+---
+##### Spires
+*8 Mana, Minor Action, Ice*  
+You summon spikes made from ice from the ground beneath your foes. Place a Size 3 Square within Range 5. All characters within this area must make a **FINESSE** save or be impaled by the spires, taking **1d8 || 2d8 || 3d8 damage** and becoming [[Conditions & Statuses#Immobilised|IMMOBILISED]] until they succeed on a **MIGHT** save at the end of their turn.
+
+If a character succeeds the initial **FINESSE** save, or succeeds a **MIGHT** save to escape a spire, they immediately move to the nearest space adjacent to the spires.
+
+The spires are left behind, becoming **walls** with **5 || 10 || 15 HP**.
+
+**Augments**  
+*Coverage. 3 Mana*  
+The Square grows to Size 4.
+
+*Reshaped. 3 Mana*  
+Instead of a Square, the spires grow in a Size 6 Arc.
+
+*Trapping. 2 Mana*  
+Characters impaled by the spires gain **+1 Bane** on **FINESSE** saves until they escape.
 
 ---
 ## Tier III

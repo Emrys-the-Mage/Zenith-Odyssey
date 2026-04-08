@@ -224,8 +224,38 @@ You throw down a smoke bomb and attempt to disappear.
 -----
 ## Tier II
 -----
+##### Decoy
+*Minor Action, Sacrifice 2*  
+You become [[Conditions & Statuses#Invisible|INVISIBLE]] and teleport to a space within Range 6, leaving behind a perfect duplicate of yourself. This decoy cannot move or take any actions, but enemies believe it to be real. When it would take damage, the decoy disappears.
+
+You cease to be [[Conditions & Statuses#Invisible|INVISIBLE]] at the start of your next turn.
+
+Gain an additional effect based on the success level of the **Trick**.
+
+| **Success Level** | **Effect**                                                                                                     |
+| :---------------- | -------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | All hostile characters within Range 3 of your decoy must make a **WIT** save or become *Taunted* by the decoy. |
+| Success           | All hostile characters within Range 2 of your decoy must make a **WIT** save or become *Taunted* by the decoy. |
+| Partial Success   | No additional effect.                                                                                          |
+| Failure           | You cease to be [[Conditions & Statuses#Invisible\|INVISIBLE]] at the end of this turn.                        |
+
+---
+##### Exploit Vulnerability
+*Minor Action, Sacrifice 1*  
+Make an attack with your Weapon against a character with [[Conditions & Statuses#Vulnerable|VULNERABLE]] with **+1 Boon**. Additionally, your **Crit Threshold** is reduced by 1 for this attack.
+
+On a hit, the target suffers additional effects.
+
+| **Success Level** | **Effect**                                                                                                    |
+| :---------------- | ------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | As success, but the target also becomes [[Conditions & Statuses#VULNERABLE\|VULNERABLE]] **3 \|\| 6 \|\| 9**. |
+| Success           | You inflict an additional **2d6 \|\| 4d6 \|\| 6d6** [[Keywords#Persistent Damage\|Persistent Damage]].        |
+| Partial Success   | You inflict an additional **1d6 \|\| 2d6 \|\| 3d6** [[Keywords#Persistent Damage\|Persistent Damage]].        |
+| Failure           | No additional effects.                                                                                        |
+
+---
 ##### Flashbang
-*Minor Action, Sacrifice 1, Gadget*  
+*Minor Action, Sacrifice 2, Gadget*  
 You throw a device that explodes in blinding light to a space within Range 6. Centre a Size 2 Circle on this space. All characters within this Circle must succeed on a **WIT** save or suffer an effect.
 
 | **Success Level** | **Effect**                                                                                                 |
@@ -236,10 +266,25 @@ You throw a device that explodes in blinding light to a space within Range 6. Ce
 | Failure           | Targets gain **+1 Bane** on their next attack.                                                             |
 
 ---
+##### Switcheroo
+*Reaction, Sacrifice 2*  
+You may take this Reaction at any time. You immediately swap places with an ally within Range 8. 
+
+If you swap with a character as they were being targeted by an attack or forced to make a save, you must choose to do so before any dice are rolled. You then become the new target and the attack gains **+1 Boon** or you gain **+1 Bane** on your save.
+
+| **Success Level** | **Effect**                                                                                                                                                              |
+| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The **Trick** works as usual, but if you become the target of an attack or save, the attack no longer gains **+1 Boon** or you no longer gain **+1 Bane** on your save. |
+| Success           | The **Trick** works as usual.                                                                                                                                           |
+| Partial Success   | The **Trick** works as usual.                                                                                                                                           |
+| Failure           | The **Trick** fails to have any effect.                                                                                                                                 |
+
+
+---
 ##### Whispers of the Winds
 *Prerequisite: Melee Weapon*  
 *Major Action, Movement*  
-Your movements blur with incredibly speed. You may make an attack with your Weapon against a number of targets within Range 8 as determined by the success level of the Trick. You then **teleport** to a space of your choice adjacent to your last target.
+Your movements blur with incredibly speed. You may make an attack with your Weapon against a number of targets within Range 8 as determined by the success level of the Trick. You then **teleport** to a space of your choice adjacent to your last target. 
 
 | **Success Level** | **Effect** |
 | :---------------- | ---------- |
@@ -250,4 +295,20 @@ Your movements blur with incredibly speed. You may make an attack with your Weap
 
 -----
 ## Tier III
------
+---
+##### Flicker
+*Minor Action, Sacrifice 2, Movement*  
+You move so quickly that you create numerous after-images of yourself. Choose a number of spaces depending on success level within Range 5. You disappear, and each chosen space now contains an after-image. All after-images share your statistics, and disappear any time they would take damage.
+
+You may take actions from any of the after-images spaces. When you would move, you may instead have one of your after-images move.
+
+At the end of each of your turns (other than this one), the effect ends unless you sacrifice an additional **2 Focus Dice**. Should this happen, all after-images disappear and you now occupy one of their spaces (your choice).
+
+This effect ends early if there is only one after-image remaining, which is now the space you occupy.
+
+| **Success Level** | **Effect**      |
+| :---------------- | --------------- |
+| Critical Success  | 5 after-images. |
+| Success           | 4 after-images. |
+| Partial Success   | 3 after-images. |
+| Failure           | 2 after-iamges. |

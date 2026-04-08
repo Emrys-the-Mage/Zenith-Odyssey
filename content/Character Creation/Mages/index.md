@@ -16,7 +16,7 @@ There are 4 Classes of **Mage**:
 - **[[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]**, summoners who call otherworldly creatures to fight in their stead.
 - **[[Character Creation/Mages/Classes/Savant/index|Savant]]**, students of the arcane. They learn a vast number of spells, ensuring they are prepared for all situations.
 ### Mana
-During combat, **Mages** use a resource called **Mana**. A **Mage** starts with 20 || 30 || 40 **Mana**, regaining all lost **Mana** at the end of combat.
+During combat, **Mages** use a resource called **Mana**. A **Mage** starts with **20 || 30 || 40** **Mana**, regaining all lost **Mana** at the end of combat.
 ##### Hex Barrier
 At the beginning of combat, a **Mage** has **8 || 16 || 24** points in their **Hex Barrier**. When they would take damage, they may spend points from this **Barrier** to reduce the damage taken by 2 for each point spent, or by 1 for each point spent if the damage originates from a **Melee Attack**.
 

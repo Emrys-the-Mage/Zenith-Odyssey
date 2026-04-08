@@ -80,7 +80,7 @@ Whenever you spend **Mana** on a **Spell**, you gain [[Keywords#Shield|Shield]] 
 When you use your Scarlet Secrets Forbidden Deal, you gain **3 Blood Points** for each **HP** sacrificed, instead of 2.
 ##### Elemental Duality
 *Prerequisite: [[Primordial]]*  
-Select an additional **Element** from your Elemental Infusion feature, gaining its **Spells**, Feature, and Spell Tag.
+Select an additional **Element** from your Elemental Infusion feature, gaining its Tier I **Spells**, Feature, and Spell Tag.
 ##### Force Field
 *Prerequisite: You don't have any [[Keywords#Armour|Armour]]*  
 You gain a special type of [[Keywords#Armour|Armour]] (**1 || 3 || 5**) that only affects sources of damage that are from ranged attacks from a space outside of Range 2.
@@ -102,4 +102,4 @@ As a Minor Action, you may clear all [[Keywords#Persistent Damage|Persistent Dam
 Once on each of your turns, you may direct one of your summons as a Free Action as if you had spent a Minor Action to do so.
 ##### Master of Three
 *Prerequisite: [[Mage Combat Talents#Elemental Duality|Elemental Duality]]*  
-Select an additional **Element** from your Elemental Infusion feature, gaining its **Spells**, Feature, and Spell Tag.
+Select an additional **Element** from your Elemental Infusion feature, gaining its Tier I **Spells**, Feature, and Spell Tag.

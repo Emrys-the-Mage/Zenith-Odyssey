@@ -13,7 +13,7 @@ Your very essence is infused with an element of the world. Select an **Element**
 *Tier II: [[Spells#Fireball|Fireball]]*  
 *Tier III:*  
 **Feature: SPREADING EMBERS**  
-When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a Weapon with the Fire tag, you may also **1 || 2 || 3** [[Keywords#Persistent Damage|Persistent Damage]] on a different target within Range 6.
+When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a Weapon with the Fire tag, you may also inflict **1 || 2 || 3** [[Keywords#Persistent Damage|Persistent Damage]] on a different target within Range 6.
 
 ---
 **GLACIAL MAGIC**  
@@ -21,7 +21,7 @@ When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell
 
 **Granted Spells.**  
 *Tier I: [[Spells#FLASH FREEZE|Flash Freeze]], [[Spells#ICE SPEARS|Ice Spears]]*  
-*Tier II:*  
+*Tier II: [[Spells#Spires|Spires]]*  
 *Tier III:*  
 **Feature: CRYSTAL DEFENCE**  
 When you cast a **Spell** with the Ice tag, you gain **3 || 6 || 9** [[Keywords#Shield|Shield]].

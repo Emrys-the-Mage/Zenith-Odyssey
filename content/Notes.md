@@ -11,6 +11,13 @@ draft: "true"
 5. Finish writing out Combat/Narrative Rules
 6. Encounter Building System
 7. Guide to making Hex maps
+##### Advanced Expeditions
+Give the following advice for running advanced expeditions:
+- Use one of our premade weather tables
+- Use a hex map you find, or draw your own
+- Place down landmarks all over, but not too common
+- If you can't setup a tool that slowly reveals the map bit by bit, give the players access to a map to explain why they can see everything. This map could be a literal map, or a guide.
+- Give premade tables for everything
 ### Narrative Talents Rework
 Types of Narrative Talents:
 - Auto success (lie detector)
@@ -19,14 +26,18 @@ Types of Narrative Talents:
 - Reduced Consequences
 - Can do something as if a Tier higher. Like Power Jump, let's you do something as if you were the next tier 
 ### Tags
+Aim for 4 powers per tag per tier?
 **Vanguard**
 - Currently no tags on Moves
+- Offense?
+- Defence?
+- Reposition?
 
 **Adepts**
 - Alchemy
-- Traps
+- Trap
 - Psionics
-- Gadgets
+- Gadget
 - Movement
 
 **Mages**
@@ -39,8 +50,13 @@ Types of Narrative Talents:
 
 **Prophets**
 - Totem
+- Judgement (debuff)
+- Enhancement (buff)
+- Vitality (healing)
 # To Do
 - Rework Artisan???
+- Maybe new Vampire Vanguard self heal is a minor action called "Feast", which requires you to be grappling the opponent or for them to be prone. Presence Save against your own ST if you wanna stop feasting, but you heal every turn you're feasting.
+- Land mines spell (augment for invisible?)
 - Mage elemental talents to let mages specialise a little
 - Elevation Rules (+1 Boon on attacks made against someone of lower elevation. +1 Movement to move up an elevation, unless flying.)
 - Flying/levitating rules
@@ -154,7 +170,6 @@ Types of Narrative Talents:
 - Fear (Fight, Flight, Freeze?)
 - Steel wind Strike (Tier II)
 - Apply magic to weapon (fire for example)
-- (Tier II) Air Slash that damages everyone in a line and everyone adjacent to the line (basically 3-space wide line, rather than a cone).
 - (Tier III) summon absurdly large sword, smack everything on the map. Watch the Old Peace trailer, Naramon ult.
 ##### Tricks
 - The Ol' Switcheroo: Swap places with an ally within Range 10. Make it a Reaction that can interrupt anything?
@@ -181,7 +196,6 @@ You have created a device that grants you limited manipulation of time. Once per
 ##### Miracles
 - Harmful or helpful spores for druid
 - Roots to restrain/slow/make difficult terrain
-- Guardian angel summons
 - Animals summons (Druid)
 # Talent Ideas
 - Exploding Dice?

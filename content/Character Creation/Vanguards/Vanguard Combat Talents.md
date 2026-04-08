@@ -66,6 +66,9 @@ You may choose an additional Weapon, from the [[Vanguard Weapons]] or the [[Adep
 ##### Adaptable Technique
 *Prerequisite: [[Character Creation/Vanguards/Classes/Exemplar/index|Exemplar]]*  
 When you use a **Move**, you may spend **1 Adrenaline** to enter a Stance of your choice (other than [[Vanguard Combat Talents#Exemplary Stance|Exemplary Stance]]) immediately after the **Move**.
+##### Aegis Taker
+*Prerequisite: [[Character Creation/Vanguards/Classes/Disciple/index|Disciple]]*  
+When you shatter another character's [[Keywords#Aegis|Aegis]], you gain [[Keywords#Aegis|Aegis]].
 ##### Energising Actions
 At the beginning of each of your turns, gain **1 Adrenaline**.
 ##### Exemplary Stance
