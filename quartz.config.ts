@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Zenith Odyssey",
+    pageTitle: "REALMFALL",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,8 +16,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Cinzel Decorative",
-        body: "EB Garamond",
+        title: "Uncial Antiqua",
+        header: "Cinzel",
+        body: "Lora",
         code: "IBM Plex Mono",
       },
       colors: {

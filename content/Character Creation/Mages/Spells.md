@@ -14,26 +14,6 @@ For every **Mana** spent, increase the size of the Arc by 2.
 *Unavoidable. 2 Mana*  
 On a successful save, a target takes **2 || 4 || 6** damage anyway.
 
------
-##### Call Minions
-*Prerequisite: [[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]*  
-*4 Mana, Major Action, Summons*  
-You summon two [[Minion|Minions]] within Range 5. You may only have up to **2 || 4 || 6** **Minions** active at a time.
-
-You may immediately and as a Minor Action on your subsequent turns direct two of your **Minions** to take a turn, dictating their actions. If not directed, your **Minions** will not act, simply waiting around for you to tell them what to do.
-
-The Minions disappear at the end of combat, or when they are [[Conditions & Statuses#Defeated|DEFEATED]].
-
-**Augments**  
-*Exploding. 2 Mana*  
-Each **Minion** you summon gains the [[Minion#Exploding|Exploding]] amplifier.
-
-*Floating. 2 Mana*  
-Each **Minion** you summon gains the [[Generic Amplifiers#Floating|Floating]] amplifier.
-
-*Horde. 4+ Mana*  
-You summon an additional two [[Minion|Minions]] for every **3 Mana** spent.
-
 ---
 ##### Conjure Shadows
 *3 Mana, Minor Action, Rift*  
@@ -235,7 +215,7 @@ You create an Arc instead of a Line, of the same size.
 Increase the size of the Line by 2 for each **Mana** spent.  
 
 *Reinforced. 2 Mana*  
-The HP of each segment of the wall is increased to 15HP.  
+The HP of each segment of the wall is increased to **15 || 30 || 45** HP.  
 
 -----
 ##### Teleport
@@ -365,7 +345,7 @@ Regain an additional **1 Hex Barrier** for each **Mana** spent.
 
 ---
 ##### Snow Storm
-*4 Mana, Major Action, Ice*  
+*5 Mana, Major Action, Ice*  
 You summon a snow storm across the battlefield. While active, all characters have **soft cover**.
 
 You may dismiss the snow storm at any time.
@@ -382,8 +362,8 @@ All characters become [[Conditions & Statuses#Slowed|SLOWED]] while the snow sto
 
 ---
 ##### Spires
-*8 Mana, Minor Action, Ice*  
-You summon spikes made from ice from the ground beneath your foes. Place a Size 3 Square within Range 5. All characters within this area must make a **FINESSE** save or be impaled by the spires, taking **1d8 || 2d8 || 3d8 damage** and becoming [[Conditions & Statuses#Immobilised|IMMOBILISED]] until they succeed on a **MIGHT** save at the end of their turn.
+*7 Mana, Minor Action, Ice*  
+You summon spikes made from ice from the ground beneath your foes. Place a Size 3 Square within Range 8. All characters within this area must make a **FINESSE** save or be impaled by the spires, taking **1d10 || 2d10 || 3d10 damage** and becoming [[Conditions & Statuses#Immobilised|IMMOBILISED]] until they succeed on a **MIGHT** save at the end of their turn.
 
 If a character succeeds the initial **FINESSE** save, or succeeds a **MIGHT** save to escape a spire, they immediately move to the nearest space adjacent to the spires.
 
@@ -403,7 +383,7 @@ Characters impaled by the spires gain **+1 Bane** on **FINESSE** saves until the
 ## Tier III
 ---
 ##### Doom
-*20 Mana, Major Action*  
+*20 Mana, Major Action, Rift*  
 You summon a Size 5 Circle within Range 10, at the centre of which is a Singularity. All walls, **Slowing Terrain**, **Hazards**, and other ongoing effects in this area are dissipated.
 
 Characters are [[Conditions & Statuses#Slowed|SLOWED]] while within this area. If a character starts their turn in the area or enters it on their turn, they must make a **MIGHT** save. If the character is on the Singularity, they take **6d12 damage** on a failure. If they are one space away from the Singularity, they take **5d12** **damage**, two spaces away: 4d12, and so on. On a success, they take half as much damage.
@@ -422,12 +402,12 @@ The damage dealt by this **Spell** ignores [[Keywords#Armour|Armour]].
 ---
 ##### Eldritch Maw
 *Prerequisite: [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
-*0 Mana, Major Action*  
+*0 Mana, Major Action, Rift*  
 - Gain a **Scar** to summon the mouth of an eldritch entity. If the target has less than X HP, it is swallowed whole and is removed from this Realm. Otherwise, take FUCK TONNES of damage.
 
 ---
 ##### Hell
-*15 Mana, Major Action*  
+*15 Mana, Major Action, Fire*  
 You summon hellish landscaped upon the battlefield. Place three Size 3 Circles within Range 10. These Circles become **Hazards** for the rest of the scene, dealing **5** [[Keywords#Persistent Damage|Persistent Damage]].
 
 **Augments**

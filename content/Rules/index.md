@@ -5,7 +5,7 @@ aliases:
 ---
 ### The Basics
 ##### What you need
-To play ***Zenith Odyssey***, you will need the following:
+To play ***Realmfall***, you will need the following:
 - 3-5 players, though 4 is the recommended amount.
 - A Storymaster (also known as a Game Master)
 - Character Sheets (Digital or Physical). 
@@ -50,7 +50,7 @@ Should you take a **Scar** when you already have three, you are instead *complet
 - Your character has lost their ability to adventure, such as a Mage losing their ability to cast Spells.
 - Your character has lost all hope, and immediately retires.
 ##### Modes of Play
-In *Zenith Odyssey*, there are a few different rulesets we use for different situations. By default, we use the rules from [[Rules/Narrative Play/index|Narrative Play]] which includes making Skill Checks to achieve outcomes.
+In *Realmfall*, there are a few different rulesets we use for different situations. By default, we use the rules from [[Rules/Narrative Play/index|Narrative Play]] which includes making Skill Checks to achieve outcomes.
 
 Should a fight break out that includes all or most players, and we want to pay particular attention to the details of that fight, we use [[Rules/Tactical Combat/index|Tactical Combat]].
 

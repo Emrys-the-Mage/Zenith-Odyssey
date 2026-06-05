@@ -7,13 +7,12 @@ aliases:
 ### Navigation
 - [[Prophet Combat Talents]]
 - [[Prophet Narrative Talents]]
-- [[Miracles]]
+- [[Character Creation/Prophets/Miracles]]
 - [[Prophet Weapons]]
 ### Classes
 There are 4 Classes of **Prophet**:
 - **[[Character Creation/Prophets/Classes/Priest/index|Priest]]**, children of divine beings who call upon their power to bolster and heal their allies.
 - **[[Character Creation/Prophets/Classes/Seer/index|Seer]]**, oracles who use the art of divination to prepare their party for what awaits them.
-- **[[Character Creation/Prophets/Classes/Virtuoso/index|Virtuoso]]**, artists who call upon their own divine expression to bring to life their imagination.
 - **[[Character Creation/Prophets/Classes/Wilder/index|Wilder]]**, representatives of nature itself who turn the environment against the enemy.
 ### Fate Die
 During their adventures, a **Prophet**’s connection to their divine force is represented by their **Fate** **Die**. A Tier I **Prophet**’s **Fate Die** is a d8, becoming a d10 at Tier II, and a d12 at Tier III.  
@@ -26,6 +25,6 @@ When you want to call upon your divine force, you call upon a **Miracle**.
 
 To call upon a **Miracle**, roll your **Fate Die**. Compare the result to the **Miracle**’s **Fate Target** to determine the effect of the **Miracle**. If the **Fate Die** rolled lower than the **Fate Target**, the Standard Effect takes place. If the **Fate Die** rolls a number greater than or equal to the **Fate Target** however, the more powerful **Divine Effect** takes place.  
 
-You can only call upon **[[Miracles]]** granted by your Class or Talents.  
+You can only call upon **[[Character Creation/Prophets/Miracles]]** granted by your Class or Talents.  
 
 **Miracles** are separated into 3 Tiers, corresponding to the Tier of your character. You can only call upon a **Miracle** if you are of the corresponding Tier or higher.

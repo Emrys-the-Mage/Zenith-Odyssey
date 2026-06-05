@@ -6,11 +6,10 @@ aliases:
 **Vanguards** are frontliners who can take a lot of hits without worry, while dishing out large amounts of damage. If you want to protect your party and do the most single target damage, play a **Vanguard**.
 ### Navigation
 - [[Vanguard Combat Talents]]
-- [[Moves]]
+- [[Character Creation/Vanguards/Moves]]
 - [[Vanguard Weapons]]
 ### Classes
 There are 4 Classes of **Vanguard**:
-- **[[Character Creation/Vanguards/Classes/Disciple/index|Disciple]]**, brawlers whose serenity grants them a clarity unseen to others. 
 - **[[Character Creation/Vanguards/Classes/Exemplar/index|Exemplar]]**, warriors who master technique and discipline to become unmatched in their consistency.
 - **[[Character Creation/Vanguards/Classes/Fury/index|Fury]]**, gladiators who shrug off damage thanks to their large health pool, while frequently hitting devastating critical hits.
 - **[[Character Creation/Vanguards/Classes/Knight/index|Knight]]**, heroes who through their strength, courage, and armour, will ensure their friends’ safety.
@@ -28,6 +27,6 @@ Once per round, when an enemy is within reach of your Weapon and attempts to vol
 ### Moves
 When it’s time to show off in battle, it’s time to use a **Move**. To use a **Move**, you must expend the listed amount of **Adrenaline**. If you don’t have enough **Adrenaline**, you will need to build up more before you can use the **Move**.  
 
-You learn **[[Moves]]** according to your Class. You can only use **Moves** that you have learned.  
+You learn **[[Character Creation/Vanguards/Moves]]** according to your Class. You can only use **Moves** that you have learned.  
 
 **Moves** are separated into three Tiers, corresponding to the Tier of your character. You can only learn a **Move** if you are of the corresponding Tier or higher.

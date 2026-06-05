@@ -24,7 +24,7 @@ You learn 3 **Moves** of your choice. At every odd Level after the first, you le
 ##### Knight's Armour
 You gain 3 || 6 || 9 [[Keywords#Armour|Armour]].
 ##### Defender
-You gain the *[[Moves#PROTECTOR|Protector]]* **Move** for free, without it counting towards the number of **Moves** you know. You can use this **Move** without spending **Adrenaline** when the ally triggering the Reaction is adjacent to you. 
+You gain the *[[Character Creation/Vanguards/Moves#PROTECTOR|Protector]]* **Move** for free, without it counting towards the number of **Moves** you know. You can use this **Move** without spending **Adrenaline** when the ally triggering the Reaction is adjacent to you. 
 #### Specialties
 When building a **Knight**, you may select an order of your Knighthood. Choose one of the specialties below.
 - [[Cavalier]]

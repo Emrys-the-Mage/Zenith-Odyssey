@@ -2,7 +2,7 @@
 ###### Example Titles
 #### Features
 ##### Wise Teachings
-You gain the **Miracles** *[[Miracles#CLEANSE|Cleanse]]* and *[[Miracles#Envigour|Envigour]]* for free, without them counting towards the number of **Miracles** you know.
+You gain the **Miracles** *[[Character Creation/Prophets/Miracles#CLEANSE|Cleanse]]* and *[[Character Creation/Prophets/Miracles#Envigour|Envigour]]* for free, without them counting towards the number of **Miracles** you know.
 ##### Dispense Wisdom
 When an ally within Range 5 is about to make a save, you may use your Reaction to grant them **+1 Boon** on the save.
 ##### Restraint

@@ -32,7 +32,7 @@ Select a **Move** you know. You may permanently reduce its Adrenaline cost by 1,
 ##### Formidable I
 You count as one size larger for grapples. Additionally, you gain **+1 Boon** on attack rolls against a target you are grappling.
 ##### Further Training
-You learn two additional **Moves** of your choice.
+You learn two additional Tier I **Moves** of your choice.
 ##### Fury-Fuelled
 When you score a **Critical Hit**, you gain **2 Adrenaline**.
 ##### Overextended
@@ -43,7 +43,7 @@ While in your **Offensive Stance**, you gain [[Conditions & Statuses#Strength|ST
 You may use **Moves** that require an attack with your Weapon from your Dancing Weapon's space.
 ##### Primal Warrior
 *Prerequisite: [[Character Creation/Vanguards/Classes/Fury/index|Fury]]*  
-Choose a Tier I [[Miracles|Miracle]] with the Totem tag. You are able to use this Miracle on yourself, gaining the **Standard Effect**.
+Choose a Tier I [[Character Creation/Prophets/Miracles|Miracle]] with the Totem tag. You are able to use this Miracle on yourself, gaining the **Standard Effect**.
 ##### Sanguine Thirst
 *Prerequisite: [[Generic Combat Talents#Curse of Vampirism|Curse of Vampirism]]*  
 When you hit with your *Basic Attack*, you regain **2 || 4 || 6 HP**. The target must have blood for this effect to trigger.
@@ -66,9 +66,6 @@ You may choose an additional Weapon, from the [[Vanguard Weapons]] or the [[Adep
 ##### Adaptable Technique
 *Prerequisite: [[Character Creation/Vanguards/Classes/Exemplar/index|Exemplar]]*  
 When you use a **Move**, you may spend **1 Adrenaline** to enter a Stance of your choice (other than [[Vanguard Combat Talents#Exemplary Stance|Exemplary Stance]]) immediately after the **Move**.
-##### Aegis Taker
-*Prerequisite: [[Character Creation/Vanguards/Classes/Disciple/index|Disciple]]*  
-When you shatter another character's [[Keywords#Aegis|Aegis]], you gain [[Keywords#Aegis|Aegis]].
 ##### Energising Actions
 At the beginning of each of your turns, gain **1 Adrenaline**.
 ##### Exemplary Stance
@@ -92,8 +89,8 @@ Increase the maximum amount of **Adrenaline** you can have by 1.
 ##### Read the Battle
 You have a knack for learning the attack patterns of your foes. At the end of each round, increase your **EVASION** by 1. Your **EVASION** returns to its usual value when the combat ends.
 ##### Relentless Protector
-*Prerequisite: [[Moves#Protector|Protector]] Move*  
-The Reaction you take to use [[Moves#Protector|Protector]] is now limited to three times per Round, rather than once.
+*Prerequisite: [[Character Creation/Vanguards/Moves#Protector|Protector]] Move*  
+The Reaction you take to use [[Character Creation/Vanguards/Moves#Protector|Protector]] is now limited to three times per Round, rather than once.
 ##### Runeblade
 Choose a [[Mage Weapons|Mage Weapon]]. You imbue its properties into one of your Vanguard Weapons. Add the Mage Weapon's tags, damage, and effects to your Vanguard Weapon. 
 ### Tier III

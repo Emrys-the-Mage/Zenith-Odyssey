@@ -3,7 +3,7 @@
 *Cultist of Sah, The Unspoken*
 #### Features
 ##### Wicked Teachings
-You gain the **Miracles** *[[Miracles#Divine Grasp|Divine Grasp]]* and *[[Miracles#Whispers of Truth|Whispers of Truth]]* for free, without them counting towards the number of **Miracles** you know.
+You gain the **Miracles** *[[Character Creation/Prophets/Miracles#Divine Grasp|Divine Grasp]]* and *[[Character Creation/Prophets/Miracles#Whispers of Truth|Whispers of Truth]]* for free, without them counting towards the number of **Miracles** you know.
 ##### Bloodthirsty
 You may spend **4 Grace**, rather than 5, to use your *Smite the Heretical*.
 ##### Incite Violence

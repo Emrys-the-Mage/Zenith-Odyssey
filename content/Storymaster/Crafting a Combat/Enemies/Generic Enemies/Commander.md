@@ -30,6 +30,9 @@ On a hit, the target takes **1d6 || 2d6 || 3d6 damage** and becomes [[Conditions
 ##### Summon
 *Major Action*  
 The **Commander** summons two [[Minion|Minions]] within Range 5.
+##### Minion Bomb
+*Minor Action*  
+Idea: Throw a minion as a projectile, kills the minion.
 
 ---
 ### Loot

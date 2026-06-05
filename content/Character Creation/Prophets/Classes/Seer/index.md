@@ -22,7 +22,7 @@ Seers provide subtle, yet powerful, blessings to their allies. By controlling th
 You learn 3 **Miracles** of your choice. Each time you increase in Tier, you learn an additional 4 **Miracles**.  
 #### Features
 ##### Revelations
-You gain the **Miracles** *[[Miracles#Foresee|Foresee]]* and *[[Miracles#Reading|Reading]]* for free, without them counting towards the number of **Miracles** you know.
+You gain the **Miracles** *[[Character Creation/Prophets/Miracles#Foresee|Foresee]]* and *[[Character Creation/Prophets/Miracles#Reading|Reading]]* for free, without them counting towards the number of **Miracles** you know.
 ##### Glimpses of Fate
 When combat begins, roll **2 || 3 || 4** **d20's** and record the results. These become your **Glimpses**. When you, an ally, or an enemy within Range 10 would roll a d20 you may instead expend a **Glimpse** to force them to use the result rolled from the **Glimpse** as if they had rolled it for their d20.
 #### Specialty

@@ -9,8 +9,8 @@ Your very essence is infused with an element of the world. Select an **Element**
 *Spell Tag: Fire*
 
 **Granted Spells.**  
-*Tier I: [[Spells#FIREWALL|Firewall]], [[Spells#SPONTANEOUS COMBUSTION|Spontaneous Combustion]]*  
-*Tier II: [[Spells#Fireball|Fireball]]*  
+*Tier I: [[Character Creation/Mages/Spells#FIREWALL|Firewall]], [[Character Creation/Mages/Spells#SPONTANEOUS COMBUSTION|Spontaneous Combustion]]*  
+*Tier II: [[Character Creation/Mages/Spells#Fireball|Fireball]]*  
 *Tier III:*  
 **Feature: SPREADING EMBERS**  
 When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell** or a Weapon with the Fire tag, you may also inflict **1 || 2 || 3** [[Keywords#Persistent Damage|Persistent Damage]] on a different target within Range 6.
@@ -20,8 +20,8 @@ When you inflict [[Keywords#Persistent Damage|Persistent Damage]] with a **Spell
 *Spell Tag: Ice*
 
 **Granted Spells.**  
-*Tier I: [[Spells#FLASH FREEZE|Flash Freeze]], [[Spells#ICE SPEARS|Ice Spears]]*  
-*Tier II: [[Spells#Spires|Spires]]*  
+*Tier I: [[Character Creation/Mages/Spells#FLASH FREEZE|Flash Freeze]], [[Character Creation/Mages/Spells#ICE SPEARS|Ice Spears]]*  
+*Tier II: [[Character Creation/Mages/Spells#Spires|Spires]]*  
 *Tier III:*  
 **Feature: CRYSTAL DEFENCE**  
 When you cast a **Spell** with the Ice tag, you gain **3 || 6 || 9** [[Keywords#Shield|Shield]].
@@ -31,7 +31,7 @@ When you cast a **Spell** with the Ice tag, you gain **3 || 6 || 9** [[Keywords#
 *Spell Tag: Stone*
 
 **Granted Spells.**  
-*Tier I: [[Spells#HURL BOULDER|Hurl Boulder]], [[Spells#STONEWALL|Stonewall]]*  
+*Tier I: [[Character Creation/Mages/Spells#HURL BOULDER|Hurl Boulder]], [[Character Creation/Mages/Spells#STONEWALL|Stonewall]]*  
 *Tier II:*  
 *Tier III:*  
 **Feature: UNMOVABLE**  
@@ -42,7 +42,7 @@ You are immune to all forms of involuntary movement and gain **1 || 2 || 3** [[K
 *Spell Tag: Storm*
 
 **Granted Spells.**  
-*Tier I: [[Spells#ARCING CURRENT|Arcing Current]], [[Spells#INVOKE LIGHTNING|Invoke Lightning]]*  
+*Tier I: [[Character Creation/Mages/Spells#ARCING CURRENT|Arcing Current]], [[Character Creation/Mages/Spells#INVOKE LIGHTNING|Invoke Lightning]]*  
 *Tier II:*  
 *Tier III:*  
 **Feature: WINDMASTER**  

@@ -1,25 +1,23 @@
 ##### Cloak
 *Prerequisite: [[Character Creation/Adepts/Classes/Shade/index|Shade]]*  
-When leading a Sneak group check, you may spend **2 Stress** to grant all participating allies **+1 Boon** on their check.
+You may spend **2 Stress** to grant yourself and one ally **+1 Boon** on all checks made to **Sneak** for the rest of the scene.
 ##### Companion
 You tame, build, or otherwise gain a companion for your journeys. You may decide its form, size, and appearance, but it may not be be larger than a bear. They will do their best to follow your commands.  
 
-Choose two skills from Endure, Flex, Sleight, Sneak, Swift, Sense, Command, or Perform. Your companion has a value of 2 for the chosen skills. Your companion can gain up to **3 Stress**, exceeding this amount causes them to retreat and rest for the rest of the scene. If they would take a **Strain**, it is treated as if they had exceed their **Stress** limit.  
+Your companion has a 0 in **Wit** and **Presence**, and one of (your choice):
+- A 3 in **Might** and a 1 in **Finesse**
+- A 1 in **Might** and a 3 in **Finesse**
+- A 2 in **Might** and a 2 in **Finesse**
+
+Make your selection when choosing this Talent.
+
+Your companion can gain up to **3 Stress**, exceeding this amount causes them to retreat and rest for the rest of the scene. If they would take a **Strain**, it is treated as if they had exceed their **Stress** limit.  
 
 Unless stated otherwise by other Talents, your Companion will not participate in combat, instead fleeing to safety.
 ##### Efficient Crafter
 *Prerequisite: [[Character Creation/Adepts/Classes/Artisan/index|Artisan]]*  
-When you make progress towards a crafting clock, you may fill in an additional segment.
+When you make progress towards crafting something as a Rest or Downtime Action, you may fill in an additional segment.
 ##### Eye for Lies
 You know when another in your presence knowingly tells a lie.
-##### Leader
-*Prerequisite: [[Character Creation/Adepts/Classes/Luminary/index|Luminary]]*  
-When you lead a group check, the resultant success level is increased by one (from a failure to a partial success, from a partial success to a success, from a success to a critical success).
-##### Telepathy
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-You can speak directly into the minds of creatures you can see. They may choose to reply to you in a similar fashion should you do so.
-##### Thought-Reader
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-You may spend **2 Stress** to gain the ability to read the surface thoughts of others for the rest of the scene. In this context, surface thoughts means only what a person is currently thinking about.
 ##### Vial Pouch
 You may carry up to 5 Consumables at a time, rather than 3.

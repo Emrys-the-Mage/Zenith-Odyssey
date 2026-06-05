@@ -12,7 +12,7 @@ Characters who are **OFF-GUARD** gain **+1 Bane** on all saves.
 ##### Resistant
 When a character becomes **RESISTANT**, a value for the **RESISTANT** (for example **RESISTANT 2**) condition is specified. All damage taken by a **RESISTANT** character is decreased by this value (to a minimum of 0), except for [[Keywords#Persistent Damage|Persistent Damage]]. If a character has multiple instances of **RESISTANT**, only the one with the highest value applies for a given damage calculation.
 ##### Slowed
-**SLOWED** characters can only voluntarily move by using their standard move on their turn. They cannot Dash or use any other features that allow them to move.
+A **SLOWED** character has their **SPEED** temporarily halved (rounded up).
 ##### Strength
 When a character becomes **STRENGTH**, a value for the **STRENGTH** condition is specified. All damage dealt by a **STRENGTH** character is increased by this value. If a character has multiple instances of **STRENGTH**, only the one with the highest value applies for a given damage calculation.
 ##### Stunned

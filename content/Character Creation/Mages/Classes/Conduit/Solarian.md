@@ -2,9 +2,9 @@
 ###### Example Titles
 ##### Spell Tag: Light
 ##### Granted Spells
-*Tier I: [[Spells#Lantern|Lantern]], [[Spells#Photonic Ray|Photonic Ray]]*  
+*Tier I: [[Character Creation/Mages/Spells#Lantern|Lantern]], [[Character Creation/Mages/Spells#Photonic Ray|Photonic Ray]]*  
 *Tier II:*  
-*Tier III: [[Spells#Solar Gateway|Solar Gateway]]*  
+*Tier III: [[Character Creation/Mages/Spells#Solar Gateway|Solar Gateway]]*  
 #### Features
 ##### Radiance
 You gain a **d6**, called your **Radiance Die**. At the start of a combat, your Radiance Die has the 1 side facing up.

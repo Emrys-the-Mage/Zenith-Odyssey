@@ -22,9 +22,7 @@ Planning ahead and making the most of the Tricks is what an Artisan does best. L
 You learn 3 **Tricks** of your choice. Every odd level, you learn a new **Trick**. Additionally, each time you increase in Tier you may learn an additional **Trick**.
 #### Features
 ##### Prepared Creations
-You gain **2 || 3 || 4** **Preparation Points**. Outside of combat, you may spend these points to prepare some of your **Tricks**. When you do so, allocate your **Preparation Points** to your chosen **Prepared Tricks**. You may prepare a given **Trick** multiple times, allocating **Preparation Points** to each instance separately.
-
-During combat, you may expend a **Prepared Trick** to use the **Trick** without spending any **Focus Dice**. When you do so, you treat it as if you had spent twice as many **Focus Dice** as the amount **Preparations Points** allocated.
+Outside of combat, choose 2 **Tricks** (you may choose the same **Trick** twice) that don't cost a Major Action to use, or 1 **Trick** that does. These **Trick(s)** are **Prepared**, and you may use each of them once in your next combat without spending **Focus Dice**, treating them as if you had rolled a Success.
 #### Specialty
 You are an expert in your field. Choose a specialisation below.
 - [[Alchemist]]

@@ -5,7 +5,7 @@
 ##### Smithing
 You gain the following **Tricks**, without them counting towards the number of **Tricks** you know.
 
-*Tier I: [[Tricks#Bear Trap|Bear Trap]]*  
+*Tier I: [[Character Creation/Adepts/Tricks#Bear Trap|Bear Trap]]*  
 *Tier II: Blank*  
 *Tier III: Blank*  
 ##### Sharpened Weapons

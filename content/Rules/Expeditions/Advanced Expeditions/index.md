@@ -11,7 +11,7 @@ If you plan for your game to have any of the following, Advanced Expeditions is 
 ## Hexcrawl
 Advanced Expeditions is based upon a mechanic dubbed the "Hexcrawl". 
 
-To build a hexcrawl, we must first have a map overlayed with a hexagonal grid. Each hexagon on this grid is called a **Hex**. For ***Zenith Odyssey***, the distance from the centre of one Hex to another is about 5 kilometres (3 miles), or about the distance to your horizon.
+To build a hexcrawl, we must first have a map overlayed with a hexagonal grid. Each hexagon on this grid is called a **Hex**. For ***Realmfall***, the distance from the centre of one Hex to another is about 5 kilometres (3 miles), or about the distance to your horizon.
 
 While within a Hex, the players can see into adjacent Hexes. When they do so, they see the Type of Hex it is (forest, mountain, etc.) and if there are any obvious Landmarks within it. Some Hex Types allow the PCs to see up to two or three Hexes away (for example, by standing atop a mountain).
 ### Adventuring Day
@@ -66,7 +66,7 @@ Examples of **Hidden** Landmarks include:
 ### Pushing On
 Towards the end of an Adventuring Day, the party may decide they wish to push on and travel for more than the usual 8 hours. If the players choose to do so, they gain an additional 2 hours to travel but suffer the following:
 - Each player gives up **1 Rest Action** for that day.
-- Each PC gains **3 Stress**.
+- Each PC gains **1 Stress**.
 ### Ending the Day
 #### Supplies
 **Supplies** are used to track the food, water, and other necessities the party has for their travels. **1 Supply is enough to sustain the entire party for 1 day.** At the end of each Adventuring Day, deduct 1 Supply. 

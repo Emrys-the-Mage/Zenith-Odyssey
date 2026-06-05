@@ -7,13 +7,12 @@ aliases:
 ### Navigation
 - [[Adept Combat Talents]]
 - [[Adept Narrative Talents]]
-- [[Tricks]]
+- [[Character Creation/Adepts/Tricks]]
 - [[Adept Weapons]]
 ### Classes
 There are 4 Classes of **Adept**:
 - **[[Character Creation/Adepts/Classes/Artisan/index|Artisan]]**, experts of a chosen craft whose creations provide great utility to their party.
 - **[[Character Creation/Adepts/Classes/Luminary/index|Luminary]]**, leaders who command and control the flow of a battle.
-- **[[Character Creation/Adepts/Classes/Psychic/index|Psychic]]**, masters of the mind who influence others and the world without lifting a finger.
 - **[[Character Creation/Adepts/Classes/Shade/index|Shade]]**, rogues who employ stealth and street smarts to achieve their goals.
 ### Focus Dice
 While in combat, **Adepts** use a resource called **Focus Dice**. This is a pool of **d6**'s they may use to fuel their **Tricks** (see "Tricks" section below). An **Adept** starts a combat with **10 || 12 || 14 Focus Dice**. An Adept can never have more **Focus Dice** than this amount. There are a few ways an **Adept** can regain **Focus Dice**:
@@ -38,6 +37,6 @@ When it’s time to put your knowledge to use, it’s time to use a **Trick**. T
 
 Some **Tricks** require more of your attention, and thus require you to **Sacrifice Focus Dice** in order to use them. For example, when a **Trick** is labelled with *Sacrifice 2*, you must expend **2 Focus Dice** *without rolling them when determining the success level of the Trick*. Any other **Focus Dice** expended will be rolled.  
 
-You learn **[[Tricks]]** according to your Class. You can only use a **Trick** that you have learned.
+You learn **[[Character Creation/Adepts/Tricks]]** according to your Class. You can only use a **Trick** that you have learned.
 
 **Tricks** are separated into three Tiers, corresponding to the Tier of your character. You can only learn a **Trick** if you are of the corresponding Tier or higher.

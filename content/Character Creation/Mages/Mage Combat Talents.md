@@ -38,7 +38,7 @@ Whenever you hit a target with your *Basic Attack*, the target becomes [[Conditi
 ##### Favourite Spell
 Choose a **Spell** you know. Reduce its **Mana** cost by 1, to a minimum of 2.
 ##### Further Study
-You learn two additional **Spells** of your choice.
+You learn two additional Tier I **Spells** of your choice.
 ##### Last Resort
 *Prerequisite: [[Character Creation/Mages/Classes/Conduit/index|Conduit]] or [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
 You may choose to gain a **Scar** to cast a **Spell** as if you had spent **10 || 15 || 20** **Mana** on it.
@@ -56,15 +56,6 @@ As a Minor Action, you may imbue a target within Range 6 with magnetic magicks. 
 When your **Hex Barrier** is reduced to 0, roll a **d6**. On a **4+**, you gain [[Keywords#Aegis|Aegis]].
 ##### Precise Spellcasting
 All **Spells** you know that require you to make an attack gain the [[Keywords#Deadly|Deadly]] tag.
-##### Shepherd the Horde
-*Prerequisite: [[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]*  
-You may spend a Minor Action to direct each of your Summons to move up to their **SPEED**.
-##### Summoner of Spirits
-*Prerequisite: [[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]*  
-Your **Spells** with the Summons tag gain the following Augment.
-
-*Spirit Form. 4 Mana*  
-The characters you summon in this **Spell** are [[Conditions & Statuses#Invisible|INVISIBLE]].
 ### Tier II
 ##### Burning Blood
 *Prerequisite: [[Primordial]] (Incendiary Magic) or [[Devil Magicks]]*  
@@ -97,9 +88,6 @@ When using your Hex Barrier to defend against a Melee Attack, you may instead re
 ##### Consume Affliction
 *Prerequisite: [[Character Creation/Mages/Classes/Invoker/index|Invoker]]*  
 As a Minor Action, you may clear all [[Keywords#Persistent Damage|Persistent Damage]] on yourself or an ally within Range 5, provided that they are currently afflicted with at least 1 [[Keywords#Persistent Damage|Persistent Damage]]. You then regain **2d4 Mana**.
-##### Independence
-*Prerequisite: [[Character Creation/Mages/Classes/Riftcaller/index|Riftcaller]]*  
-Once on each of your turns, you may direct one of your summons as a Free Action as if you had spent a Minor Action to do so.
 ##### Master of Three
 *Prerequisite: [[Mage Combat Talents#Elemental Duality|Elemental Duality]]*  
 Select an additional **Element** from your Elemental Infusion feature, gaining its Tier I **Spells**, Feature, and Spell Tag.

@@ -14,13 +14,10 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | Sharpened          | The weapon gains a +1 bonus to its damage.                                                                                                                                                                            |
 ##### Calculated
 Once per combat, you may foresee the outcome of a **Trick** before committing to it. On your turn before using a **Trick**, you may declare how many **Focus Points** you will spend and roll the corresponding amount of dice. After checking your result, you may choose whether or not you will indeed use the **Trick**. If you do, expend the **Focus Points** and use the result you had rolled for the **Trick**. If you choose not to use the **Trick**, you cannot use that **Trick** this turn.
-##### Callouts
-As a Minor Action, you may force a character within Range 10 to make a **WIT** save. On a failure, they are [[Conditions & Statuses#Marked|MARKED]] and [[Conditions & Statuses#OFF-GUARD|OFF-GUARD]].
+##### Insightful Callouts
+When using *Callout*, you may instead inflict [[Conditions & Statuses#Marked|MARKED]] or [[Conditions & Statuses#Off-Guard|OFF-GUARD]] onto a target within Range 10.
 ##### Careful Aim
-At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBLISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
-##### Combat Telepathy
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-You can sense the intent of those trying to harm you. Once per round when you are targeted by an attack, you may impose **+1 Bane** on the attack roll.
+At the beginning of your turn, you can hold steady to line up your shots. Until the start of your next turn you are [[Conditions & Statuses#IMMOBILISED|IMMOBILISED]] and gain **+1 Boon** on all attack rolls.
 ##### Diverse Collection
 *Prerequisite: [[Tinkerer]]*  
 You may select an additional gadget from your Gadgetry feature.
@@ -35,7 +32,7 @@ When you score a **Critical Hit**, you regain **4 Focus Dice**.
 ##### Focused Attack
 When making an attack roll with one or more **Boons**, you may trade one of the **Boons** to lower your **Crit Threshold** by 1 for that attack.
 ##### More Up My Sleeve
-You learn two additional **Tricks** of your choice.
+You learn two additional Tier I **Tricks** of your choice.
 ##### Quick Thinking
 Whenever you would make a save, you may make a **WIT** save instead.
 ##### Reflexive Invisibility
@@ -54,12 +51,9 @@ Whenever you would make a save, you may make a **PRESENCE** save instead.
 ##### Slippery
 When an attack misses you, you may move up to 2 spaces as a Reaction. This movement does not trigger any Reactions.
 ##### Specialist
-Select one of the following tags: Alchemy, Gadget, Movement, Trap.  
+Select one of the following tags: Alchemy, Gadget, Misdirection, Movement, Precision, or Trap.  
 
 When using a **Trick** with the chosen tag, you can roll an additional d6 when determining the success level of the **Trick**.
-##### Telekinetic Shove
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-You may *Shove* a target within Range 5 as a Minor Action. When you do so, you may choose to move them directly towards you or directly away from you.
 ##### Watch Out!
 When an ally within Range 5 takes damage, you may use your Reaction to spend any number of **Focus Dice** to help them avoid the damage, as if you were spending them to avoid damage for yourself using your **Focus Dodge** feature.
 ### Tier II
@@ -80,9 +74,6 @@ If you have multiple Weapons, you may apply one Modification to each Weapon or a
 | Poisoned         | On a hit, the target takes an additional 1 \|\| 2 \|\| 3 [[Keywords#Persistent Damage\|Persistent Damage]]. |
 ##### Calming Actions
 When you make *Aid, Set-Up, Shove, or Taunt*, you regain **1 Focus Die**.
-##### Psychic Regeneration
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-When you would gain **2 Focus Dice** at the start of each of your turns, you may choose to regain **1 HP** instead.
 ##### Shadow Jump II
 *Prerequisite: [[Adept Combat Talents#Shadow Jump|Shadow Jump]]*  
 You may spend **2 Focus Dice** to use your Shadow Jump additional times during a combat.

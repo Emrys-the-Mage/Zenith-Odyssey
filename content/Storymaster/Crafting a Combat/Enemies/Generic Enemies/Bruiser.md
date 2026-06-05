@@ -30,6 +30,8 @@ When the **Bruiser** takes this Minor Action, their turn immediately ends. They 
 
 ---
 ### Amplifiers
+##### Poison Coating
+When the Bruiser deals damage, the target also takes **2 || 4 || 6** [[Keywords#Persistent Damage|Persistent Damage]].
 
 ---
 ### Loot

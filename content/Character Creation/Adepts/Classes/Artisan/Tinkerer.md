@@ -5,7 +5,7 @@
 ##### Tinkering
 You gain the following **Tricks**, without them counting towards the number of **Tricks** you know.
 
-*Tier I: [[Tricks#Paint-Grenade|Paint-Grenade]]*   
+*Tier I: [[Character Creation/Adepts/Tricks#Paint-Grenade|Paint-Grenade]]*   
 *Tier II: Blank*   
 *Tier III: Blank*   
 ##### Gadgetry

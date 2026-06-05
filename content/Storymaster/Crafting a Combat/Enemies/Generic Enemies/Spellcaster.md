@@ -13,7 +13,7 @@ Any damage a **Spellcaster** takes from a melee attack is doubled.
 ##### Spells
 A **Spellcaster** may cast **Spells** they know, using **HP** in place of **Mana**. A **Spellcaster** cannot reduce themselves to 0HP this way, and is unable to use the **Spells'** Augments.
 
-A **Spellcaster** knows the following **Spells**: [[Spells#Teleport|Teleport]] 
+A **Spellcaster** knows the following **Spells**: [[Character Creation/Mages/Spells#Teleport|Teleport]] 
 
 ---
 ### Actions

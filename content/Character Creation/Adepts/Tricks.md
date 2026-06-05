@@ -1,7 +1,7 @@
 ## Tier I
 -----
 ##### Analysis
-*Minor Action*  
+*Minor Action, Precision*  
 You take a moment to inspect the physiology of your opponents. If you use this **Trick** multiple times, you benefit from the highest effect.
 
 | **Success Level** | **Effect**                                                                                                    |
@@ -14,7 +14,7 @@ You take a moment to inspect the physiology of your opponents. If you use this *
 ---
 ##### Backstab
 *Prerequisite: Melee Weapon*  
-*Minor Action*  
+*Minor Action, Precision*  
 You exploit an opening in your target's defences. Make an attack with your Weapon against a character who is [[Conditions & Statuses#Off-Guard|OFF-GUARD]]. On a hit, the target clears [[Conditions & Statuses#Off-Guard|OFF-GUARD]] and suffers an additional effect based on the success level of the **Trick**.
 
 | **Success Level** | **Effect**                                                                                                                                                         |
@@ -86,21 +86,8 @@ You dash forward, striking those in your path.
 | Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                        |
 
 ---
-##### Debilitate
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-*Minor Action, Psionic*  
-You reach into the mind of a target within Range 6, attempting to limit certain parts of their brain. The target must succeed on a **PRESENCE** save or suffer an effect.
-
-| **Success Level** | **Effect**                                                                                                                                                        |
-| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]], [[Conditions & Statuses#Immobilised\|IMMOBILISED]] and [[Conditions & Statuses#Stunned\|STUNNED]]. |
-| Success           | The target becomes [[Conditions & Statuses#Blinded\|BLINDED]] and [[Conditions & Statuses#Immobilised\|IMMOBILISED]].                                             |
-| Partial Success   | The target becomes [[Conditions & Statuses#Immobilised\|IMMOBILISED]].                                                                                            |
-| Failure           | The target becomes [[Conditions & Statuses#Slowed\|SLOWED]].                                                                                                      |
-
----
 ##### Feint
-*Minor Action*  
+*Minor Action, Misdirection*  
 You goad your opponent into shifting their defence away from where it is needed. A target within Reach 1 must make a **WIT** save, suffering an effect on a failure until the end of their next turn, determined by the success level of the **Trick**.
 
 | **Success Level** | **Effect**                                                                                               |
@@ -109,19 +96,6 @@ You goad your opponent into shifting their defence away from where it is needed.
 | Success           | The target becomes [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] and their **EVASION** is reduced by 2. |
 | Partial Success   | The target becomes [[Conditions & Statuses#Off-Guard\|OFF-GUARD]] and their **EVASION** is reduced by 1. |
 | Failure           | The target's **EVASION** is reduced by 1.                                                                |
-
----
-##### Force Push
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-*Minor Action, Psionic*  
-You attempt to push all creatures and loose objects within a Size 4 Square in Range 5. All characters must succeed on a **MIGHT** save or suffer an effect as below.
-
-| **Success Level** | **Effect**                                                                                                                                      |
-| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | On a failed save, the target is pushed 5 spaces directly away from you. On a successful save, the target is knocked back 1 space away from you. |
-| Success           | On a failed save, the target is pushed 3 spaces directly away from you.                                                                         |
-| Partial Success   | On a failed save, the target is pushed 2 spaces directly away from you.                                                                         |
-| Failure           | On a failed save, the target is pushed 1 space directly away from you.                                                                          |
 
 -----
 ##### Infected Shot
@@ -137,7 +111,7 @@ You coat your weapon or ammunition in a poison. Make an attack with your Weapon 
 
 -----
 ##### Net
-*Minor Action*  
+*Minor Action, Trap*  
 You throw or launch a net at a target in Range 5. Make an attack against the target. On a hit, they suffer an effect according to the success level of the Trick.
 
 | **Success Level** | **Effect**                                                                                                                                                                                              |
@@ -173,7 +147,7 @@ You move a number of spaces, detailed in the effect column in the table below. T
 
 -----
 ##### Pocket Sand
-*Minor Action*  
+*Minor Action, Misdirection*  
 You reach into your pocket and throw sand towards the eyes of a target within Range 3.
 
 | **Success Level** | **Effect**                                                                          |
@@ -184,22 +158,9 @@ You reach into your pocket and throw sand towards the eyes of a target within Ra
 | Failure           | The target is unaffected.                                                           |
 
 -----
-##### Puppetmaster
-*Prerequisite: [[Character Creation/Adepts/Classes/Psychic/index|Psychic]]*  
-*Minor Action, Psionics*  
-You reach into the mind of a character within Range 6, forcing them to move. The target must succeed on a **PRESENCE** save or suffer an effect as below.
-
-| **Success Level** | **Effect**                                                            |
-| :---------------- | --------------------------------------------------------------------- |
-| Critical Success  | As success, but you may target two characters, rather than one.       |
-| Success           | The target moves up to their **SPEED** in a direction of your choice. |
-| Partial Success   | The target moves up to their **SPEED** in a direction of your choice. |
-| Failure           | The target moves 1 space in a direction of your choice.               |
-
------
 ##### Ricochet
 *Prerequisite: Ranged Weapon*  
-*Major Action*  
+*Major Action, Precision*  
 You attempt to bounce a piece of ammunition you fire between enemies. Make an attack with your Weapon against your first target. Regardless if you hit or miss, the ammunition bounces. Each time the ammunition bounces, you may target a new character as if you were attacking from the previous target’s position.
 
 | **Success Level** | **Effect**                                                                                   |
@@ -211,7 +172,7 @@ You attempt to bounce a piece of ammunition you fire between enemies. Make an at
 
 -----
 ##### Smoke Bomb
-*Minor Action, Alchemy*  
+*Minor Action, Misdirection*  
 You throw down a smoke bomb and attempt to disappear.
 
 | **Success Level** | **Effect**                                                                                                                                              |
@@ -225,7 +186,7 @@ You throw down a smoke bomb and attempt to disappear.
 ## Tier II
 -----
 ##### Decoy
-*Minor Action, Sacrifice 2*  
+*Minor Action, Sacrifice 2, Misdirection*  
 You become [[Conditions & Statuses#Invisible|INVISIBLE]] and teleport to a space within Range 6, leaving behind a perfect duplicate of yourself. This decoy cannot move or take any actions, but enemies believe it to be real. When it would take damage, the decoy disappears.
 
 You cease to be [[Conditions & Statuses#Invisible|INVISIBLE]] at the start of your next turn.
@@ -241,7 +202,7 @@ Gain an additional effect based on the success level of the **Trick**.
 
 ---
 ##### Exploit Vulnerability
-*Minor Action, Sacrifice 1*  
+*Minor Action, Sacrifice 1, Precision*  
 Make an attack with your Weapon against a character with [[Conditions & Statuses#Vulnerable|VULNERABLE]] with **+1 Boon**. Additionally, your **Crit Threshold** is reduced by 1 for this attack.
 
 On a hit, the target suffers additional effects.
@@ -267,18 +228,17 @@ You throw a device that explodes in blinding light to a space within Range 6. Ce
 
 ---
 ##### Switcheroo
-*Reaction, Sacrifice 2*  
+*Reaction, Sacrifice 1, Misdirection*  
 You may take this Reaction at any time. You immediately swap places with an ally within Range 8. 
 
-If you swap with a character as they were being targeted by an attack or forced to make a save, you must choose to do so before any dice are rolled. You then become the new target and the attack gains **+1 Boon** or you gain **+1 Bane** on your save.
+If you swap with a character as one of you were being targeted by an attack or forced to make a save, you must choose to do so before any dice are rolled. The other then become the new target and the attack gains **+1 Boon** or they gain **+1 Bane** on their save.
 
-| **Success Level** | **Effect**                                                                                                                                                              |
-| :---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Critical Success  | The **Trick** works as usual, but if you become the target of an attack or save, the attack no longer gains **+1 Boon** or you no longer gain **+1 Bane** on your save. |
-| Success           | The **Trick** works as usual.                                                                                                                                           |
-| Partial Success   | The **Trick** works as usual.                                                                                                                                           |
-| Failure           | The **Trick** fails to have any effect.                                                                                                                                 |
-
+| **Success Level** | **Effect**                              |
+| :---------------- | --------------------------------------- |
+| Critical Success  | The **Trick** works as usual.           |
+| Success           | The **Trick** works as usual.           |
+| Partial Success   | The **Trick** works as usual.           |
+| Failure           | The **Trick** fails to have any effect. |
 
 ---
 ##### Whispers of the Winds
@@ -296,7 +256,7 @@ Your movements blur with incredibly speed. You may make an attack with your Weap
 -----
 ## Tier III
 ---
-##### Flicker
+##### After-Images
 *Minor Action, Sacrifice 2, Movement*  
 You move so quickly that you create numerous after-images of yourself. Choose a number of spaces depending on success level within Range 5. You disappear, and each chosen space now contains an after-image. All after-images share your statistics, and disappear any time they would take damage.
 

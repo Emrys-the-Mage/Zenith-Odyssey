@@ -1,6 +1,7 @@
 - [[Your Turn]], to find what you can do on your turn, including actions you can take.
 - [[Keywords]], to find the mechanics behind common tags and words.
 - [[Conditions & Statuses]], to discover how much trouble you're in when you've been given one.
+- [[Character Creation/index#Levelling Up|Levelling Up]]
 ### Tips
 - Vanguards are best equipped to tank damage from enemies, help them keep the enemies' focus on them!
 - Adepts & Mages are most effective when they aren't spending resources to stay alive. Positioning and teamwork is essential.

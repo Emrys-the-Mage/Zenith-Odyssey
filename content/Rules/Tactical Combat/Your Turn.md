@@ -13,6 +13,8 @@ Here is a list of Minor Actions all characters have access to.
 You reach out to a fallen ally, bringing them back into the fray. Select a [[Conditions & Statuses#DEFEATED|DEFEATED]] ally within Reach 1, they clear [[Conditions & Statuses#DEFEATED|DEFEATED]] and return to **1 HP**.
 ##### Basic Attack
 You use your *Basic Attack* granted by your weapon.
+##### Callout
+You inflict [[Conditions & Statuses#Marked|MARKED]] on a target within Range 5.
 ##### Dash
 You move up to your **SPEED**.
 ##### Dodge
