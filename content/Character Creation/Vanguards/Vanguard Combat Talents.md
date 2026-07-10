@@ -44,9 +44,6 @@ You may use **Moves** that require an attack with your Weapon from your Dancing 
 ##### Primal Warrior
 *Prerequisite: [[Character Creation/Vanguards/Classes/Fury/index|Fury]]*  
 Choose a Tier I [[Character Creation/Prophets/Miracles|Miracle]] with the Totem tag. You are able to use this Miracle on yourself, gaining the **Standard Effect**.
-##### Sanguine Thirst
-*Prerequisite: [[Generic Combat Talents#Curse of Vampirism|Curse of Vampirism]]*  
-When you hit with your *Basic Attack*, you regain **2 || 4 || 6 HP**. The target must have blood for this effect to trigger.
 ##### Sentinel Weapon
 *Prerequisite: [[Vanguard Combat Talents#Dancing Weapon|Dancing Weapon]]*  
 Once per round, when an enemy is within reach of your *Basic Attack* from your Dancing Weapon's space and attempts to move out of reach, you may spend a Reaction to immediately make a *Basic Attack* against them.

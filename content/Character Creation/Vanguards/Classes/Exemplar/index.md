@@ -37,3 +37,8 @@ While in your **Offensive Stance**, you make all attacks with **+1 Boon**.
 You enter your **Defensive Stance** after using a *Set-Up*, *Step*, or *Taunt*.
 
 While in your **Defensive Stance**, all attacks made against you gain **+1 Bane**.
+#### Specialties
+When building an **Exemplar**, you select a focus for your technique. Choose one Specialty from the list below.
+- [[Duelist]]
+- [[Spellblade]]
+- [[Weaponmaster]]

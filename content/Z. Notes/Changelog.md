@@ -9,6 +9,8 @@ draft: "true"
 	- You assign your stats (Might/Finesse/Wit/Presence) directly
 	- **Narrative Talents** have been reworked, please reselect these
 	- **Save calculations** have been updated to reflect the removal of skills
+	- **Strain** has been removed. The default **Stress Cap** has been increased to 12.
+	- Clocks are replaced with **Tracks**, which are very similar but better allow for odd-numbered trackers.
 - **Disciple, Psychic, Riftcaller, and Virtuoso** temporarily shelved to a future supplement so that I can worry about their balance and powers later
 - **Ancestries** have been shelved for now in favour of simplification.
 - **Tags** have been overhauled
@@ -22,9 +24,17 @@ draft: "true"
 - **Artisan Rework**
 	- Prepared Trick(s) reworked to be auto-successes, but fewer of them. 
 	- Alchemist Specialty reworked to account for new Prepared Tricks
+- Artefacts are now called **Relics**, and have new rules to them.
 - New Generic Minor Action: *Callout*
 	- Adept's Combat Talent: **Callouts** changed to **Insightful Callouts**. Bumps range of *Callout*, and allows you to inflict OFF-GUARD instead. 
 - **SLOWED** condition now halves your **SPEED**.
+- New Vanguard Moves:
+	- Rush
+- New Adept Tricks:
+	- Acid Vial
+	- Brawn Cocktail
+	- Elixir of Celerity
+- Vanguard Weapons: Sword & Board and Longspear have seen damage buffs to make them more appealing
 - **Further Training, More Tricks Up My Sleeve, Further Study, and Miraculous** all specify Tier I powers now.
 - Prophet Combat Talent: **Inspired Action** now also grants a boon on your next attack or save.
 - Adept Trick: **Switcheroo** now only sacrifice 1, no longer has a crit effect, and is reworded.

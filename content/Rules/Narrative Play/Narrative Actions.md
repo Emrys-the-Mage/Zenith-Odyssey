@@ -48,7 +48,7 @@ On a **Failure**, the Storymaster must refuse to answer. Otherwise they must pro
 - The answer is vague.
 - The Storymaster must secretly roll **1d6**, giving a false answer on a 1 or a 2.
 - The answer, or how you obtained the answer, haunts you. Take **2 Stress**. How does it frighten you of the world? How does it frighten you of yourself?
-- You only make progress towards an answer. Progress a **4-Clock** by 1 segment to uncover the answer. You may ask this question again at another time.
+- You only make progress towards an answer. Progress a **4-Clock** by 1 segment to uncover the answer. You may ask this question again at another time, and need not pick additional drawbacks. 
 ### Flex
 When you try to move something heavy or break something, roll **Might**. If you can use the environment to your advantage or your emotions are high, gain **+1 Boon**.
 

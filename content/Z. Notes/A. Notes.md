@@ -16,9 +16,10 @@ Make a Session 0 minigame for creating the world the players will save, with mea
 - Who lives here (ancestries?)
 - Etc
 # Priorities
+- Touch Up Downtime/Rest Actions
+	- Add references to the Google Docs sheet
 - Redo Google Docs Character Sheet
 	- Make one for each type?
-- Abbreviate Save Target to ST.
 - Expand current options, delve into Tags system
 	- Combat Talents
 		- Interact with tags
@@ -56,20 +57,24 @@ Types of Narrative Talents:
 - Can do something as if a Tier higher. Like Power Jump, let's you do something as if you were the next tier 
 
 # To Do
+- Consider "exponential" tier scaling. Numbers double each tier. E.g. 2/4/8
+- Vanguard adrenaline "targeted by hostile action" replaced with "targeted by hostile effect"
+- Maybe instead of increased HP, Vanguards have multiple health bars? Each time one is depleted, gain adrenaline. Also, leftover damage doesn't spill over. Cool idea, but higher levels will have you just losing a health bar every hit anyway.
+	- Unless you still scaled the HP, but didn't scale the health bars
+	- Talent that let's you sacrifice a health bar for Adrenaline
+- Can spend Stress on attack rolls/saves for a boon?
+- What Doesn't Kill You: for every condition you have (other than strength and resistent), gain 1/2/3 Strength
+- Touch Up Downtime/Rest Actions
+- Narrative Talent to inspire 2 at a time
 - Redo death mechanic/DEFEATED
-- Change Artefacts to Relics. Who cares if ICON calls it that
-- Make cheat sheets for narrative, combat, & expeditions.
-- Swap "Clocks" for "Tracks", which are rectangles broken up into segments, slowly filled in left to right. Basically a progress bar. More easily allows for odd-numbered clocks
 - Narrative Talents that grant new Actions
-- Prone forces characters with flight to touch the ground/fall
+- Prone forces characters with flight to touch the ground/fall 
 - Each Nemesis gets a list of Allies, which are generic enemies that accompany them. When a Nemesis dies, the allied die or flee. Now, not all Nemeses require a bunch of turns, tho some still will.
 - Make Flight a keyword. Make teleport a keyword
 - Redo what happens in Death, and what happens at 0 HP to be more exciting.
 - Changed SLOWED to half movement basically. Your SPEED is halved (rounded up)? Does it stack with slowing terrain? No, it doesn't.
-- Rename Artefacts to something? Not Relics cos ICON does that. Vestiges?
 - Things that interact with walls
 	- Vanguard Talent that destroys wall you move through when you dash
-- ASK PLAYERS TO DESCRIBE THINGS MORE OFTEN
 - Make "Resting" an action mechanic, broken away from Expeditions. Then add "at the end of each day, the party **Rest**."
 	- Also add Downtime
 - **Tags** are boxes that Powers fit into. **Keywords** have mechanics that are added on to Powers or weapons.
@@ -185,6 +190,7 @@ Types of Narrative Talents:
 - Steel wind Strike (Tier II)
 - Apply magic to weapon (fire for example)
 - (Tier III) summon absurdly large sword, smack everything on the map. Watch the Old Peace trailer, Naramon ult.
+- Tier III jump and leave a crater where you were
 ##### Tricks
 - The Ol' Switcheroo: Swap places with an ally within Range 10. Make it a Reaction that can interrupt anything?
 - More Traps

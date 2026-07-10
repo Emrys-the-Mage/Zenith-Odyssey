@@ -8,3 +8,7 @@ Example:
 *Minor Action, Keywords*  
 Description.
                      | Resource Cost|
+
+
+#### Art
+Art having hard, diagonal lines with decorative borders. For example, art in the corner of the page being in the shape of a triangle.

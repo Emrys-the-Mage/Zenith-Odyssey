@@ -4,7 +4,7 @@ aliases:
   - Narrative Play
 ---
 ## Narrative Actions
-When a player wants to do something with a real chance of risk or failure, they must use a Narrative [[Actions|Action]]. Choose the relevant action, and follow its description.
+When a player wants to do something with a real chance of risk or failure, they must use a Narrative [[Narrative Actions|Action]]. Choose the relevant action, and follow its description.
 
 Some Actions require you to roll a check for one of your Attributes: **Might**, **Finesse**, **Wit**, or **Presence**. To do so, roll a number of d6's equal to your Attribute's value and take the highest result, then compare it against the table below. The number of dice you would roll may be affected by **Boons** and **Banes**.
 
@@ -17,16 +17,16 @@ Some Actions require you to roll a check for one of your Attributes: **Might**, 
 
 For example, if I wanted to roll **Presence**, and I have a 2 in **Presence**, I would roll 2d6. I rolled a 3 and a 5, so I take the higher (the 5). That's a **Partial Success**!
 ##### Rolling with 0 Dice
-If a player would roll **0 dice** for a Skill check, they roll 2d6 and **use the lowest result**. A player can never roll "negative" dice, and so should a situation call for that (for example, through multiple **Banes**) simply roll 0 dice instead.
+If a player would roll **0 dice** for a Check, they roll 2d6 and **use the lowest result**. A player can never roll "negative" dice, and so should a situation call for that (for example, through multiple **Banes**) simply roll 0 dice instead. You cannot get a Critical Success with 0 dice.
 ### Easy & Difficult Checks
 If the Storymaster deems a check to be especially easy or difficult, they may impose **+1 Boon** or **+1 Bane** respectively. If what a player is trying to do is simply not possible, the Storymaster should communicate that and no check is required.
 ### Consequences
-Many of the Narrative [[Actions]] induce consequences. These consequences are intended to be used as a baseline, but if you come up with other consequences that suit the fiction better, use those! The Storymaster gets final say on any such alterations.
+Many of the Narrative [[Narrative Actions]] induce consequences. These consequences are intended to be used as a baseline, but if you come up with other consequences that suit the fiction better, use those! The Storymaster gets final say on any such alterations.
 ### NPCs
 During the Narrative portion of the game, the NPCs don't make any rolls. Instead, they act **through the consequences of players' actions**. This excludes NPCs under the players' control, such as companions.
 
 The sole exception is when the Storymaster has an incredibly formidable NPC, who may inflict harm or cause complications without the need for a player's action. These NPCs should be well telegraphed and not too frequent.
-## Clocks
+## Tracks
 
 ## Equipment
 ### Artefacts

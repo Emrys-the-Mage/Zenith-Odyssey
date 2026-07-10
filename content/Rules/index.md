@@ -33,14 +33,10 @@ To play ***Realmfall***, you will need the following:
 ##### Stress
 **Stress** is a resource that represents the minor harms, both mental and physical, associated with being an adventurer. **Stress** is gained as a consequence to rolls, or inflicted upon ones self in exchange for bonuses and abilities. 
 
-The amount of **Stress** you can take is determined by your **Stress Cap**, which is 5 for most characters. When you would take **Stress** that would cause you to exceed your **Stress Cap**, you clear your Stress Cap and gain **1 Strain** (detailed below), then add any remaining **Stress** you had taken.
+The amount of **Stress** you can take is determined by your **Stress Cap**, which is 12 for most characters. When you would take **Stress** that would cause you to exceed your **Stress Cap**, you clear your Stress Cap and gain a **Scar** (detailed below), then add any remaining **Stress** you had taken.
 
 At the end of a Quest, you clear all **Stress**.
-
-When making a Skill Check, you may spend **2 Stress** to gain **+1 Boon** to the check.
-##### Strain & Scars
-**Strain** represents the major harms associated with adventuring. You can have up to **3 Strain** at a time. Should you take **Strain** that would cause you to exceed this amount, you clear your **Strain**, gain a **Scar**, then add any remaining **Strain** you had taken.
-
+##### Scars
 A **Scar** is a semi-permanent affliction your character has acquired during their adventures, and can be physical, mental, or spiritual. When you take a **Scar**, give it a name (such as "broken arm", "shattered confidence", or "cursed"), then choose two **Skills** you feel would be affected by this **Scar**. All Skill Checks made with these skills gain **+1 Bane**. You may not select a Skill that has already been selected by another **Scar**.
 
 Clearing a **Scar** is a slow process. Each **Scar** has a *Healing Clock*, with a number of segments depending on how many **Scars** you already have. Your first **Scar** has a Healing Clock with 4 segments, your second has 6, and your third has 10. When a **Scar's** Healing Clock is completed, you may remove the **Scar** and its effects. 
@@ -50,7 +46,7 @@ Should you take a **Scar** when you already have three, you are instead *complet
 - Your character has lost their ability to adventure, such as a Mage losing their ability to cast Spells.
 - Your character has lost all hope, and immediately retires.
 ##### Modes of Play
-In *Realmfall*, there are a few different rulesets we use for different situations. By default, we use the rules from [[Rules/Narrative Play/index|Narrative Play]] which includes making Skill Checks to achieve outcomes.
+In *Realmfall*, there are a few different rulesets we use for different situations. By default, we use the rules from [[Rules/Narrative Play/index|Narrative Play]] which includes using Narrative Actions to achieve outcomes.
 
 Should a fight break out that includes all or most players, and we want to pay particular attention to the details of that fight, we use [[Rules/Tactical Combat/index|Tactical Combat]].
 

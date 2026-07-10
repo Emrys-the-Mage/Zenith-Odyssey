@@ -19,14 +19,14 @@ A Fury's strategy in battle is the definition of high-risk, high-reward. They ha
 | **SPEED**           | = 5                  |
 | **Save Target**     | = 9 + your Level     |
 #### Moves
-You learn 3 **Moves** of your choice. At every odd Level after the first, you learn an another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
+You learn 3 **Moves** of your choice. At every odd Level after the first, you learn another **Move**. Additionally, each time you increase in Tier you learn another **Move**.
 #### Features
 ##### Rampage
 Once during each of your turns when you deal damage to a character, you may deal an additional **1d4 || 2d4 || 3d4** damage. Each time you deal this additional damage, the damage die grows one size (from **d4** to **d6**, then **d8**, then **d10**, and finally to **d12**). If you finish one of your turns without dealing this additional damage, the die resets to a **d4**.
 ##### Viciousness
 Your **Crit Threshold** is reduced by 1. 
 #### Specialties
-When building a **Fury**, you select a style for your destruction. Choose on specialty from the list below.
+When building a **Fury**, you select a style for your destruction. Choose one specialty from the list below.
 - [[Behemoth]]
 - [[Carnage]]
 - [[Chaos Blades]]

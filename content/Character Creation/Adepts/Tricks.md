@@ -1,4 +1,16 @@
 ## Tier I
+---
+##### Acid Vial
+*Minor Action, Alchemy*  
+You throw a vial of acid onto an enemy within Range 5. They must make a **FINESSE** save or suffer an effect below based on the Success Level of the Trick. On a success, they take **1d4 || 2d4 || 3d4 damage**.
+
+| **Success Level** | **Effect**                                                                                                                                                       |
+| :---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | The target takes **2d8 \|\| 4d8 \|\| 6d8 damage** and is [[Conditions & Statuses#Vulnerable\|VULNERABLE]] **2 \|\| 4 \|\| 6** until the start of your next turn. |
+| Success           | The target takes **2d4 \|\| 4d4 \|\| 6d4 damage** and is [[Conditions & Statuses#Vulnerable\|VULNERABLE]] **2 \|\| 4 \|\| 6** until the start of your next turn. |
+| Partial Success   | The target takes **1d4 \|\| 2d4 \|\| 3d4 damage** and is [[Conditions & Statuses#Vulnerable\|VULNERABLE]] **2 \|\| 4 \|\| 6** until the start of your next turn. |
+| Failure           | The target takes **1d4 \|\| 2d4 \|\| 3d4 damage** and is [[Conditions & Statuses#Vulnerable\|VULNERABLE]] **1 \|\| 2 \|\| 3** until the start of your next turn. |
+
 -----
 ##### Analysis
 *Minor Action, Precision*  
@@ -60,6 +72,18 @@ You place down a Size 2 bear trap within Range 3. When a character walks over th
 | Partial Success   | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#IMMOBLISED\|IMMOBILISED]] until they or an adjacent character uses a Minor Action to release them.                                                                                                              |
 | Failure           | On a failed save, the target takes **1d6 \|\| 2d6 \|\| 3d6 damage** and is [[Conditions & Statuses#SLOWED\|SLOWED]].                                                                                                                                                                                               |
 
+---
+##### Brawn Cocktail
+*Minor Action, Alchemy*  
+You administer this cocktail to yourself or a willing character within Range 5. They become [[Conditions & Statuses#Resistant|RESISTANT]] **1 || 2 || 3** for the duration (as determined by success level). When it wears off, the target becomes [[Conditions & Statuses#Vulnerable|VULNERABLE]] **1 || 2 || 3**.
+
+| **Success Level** | **Effect**                                                                                                              |
+| :---------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Critical Success  | As Success, but you instead become [[Conditions & Statuses#Resistant\|RESISTANT]] **2 \|\| 4 \|\| 6** for the duration. |
+| Success           | 3 turns.                                                                                                                |
+| Partial Success   | 2 turns.                                                                                                                |
+| Failure           | 1 turn.                                                                                                                 |
+
 -----
 ##### Caltrops
 *Minor Action, Trap*  
@@ -84,6 +108,18 @@ You dash forward, striking those in your path.
 | Success           | You move in a straight line up to your **SPEED**, moving through characters. You may make an attack with your weapon against any character you move through. Each attack you make after the first is made with **+1 Bane**. |
 | Partial Success   | You move in a straight line up to your **SPEED**, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                  |
 | Failure           | You move up to 3 spaces in a straight line, stopping in front of the first enemy in this line. You may make an attack with your weapon against them.                                                                        |
+
+---
+##### Elixir of Celerity
+*Minor Action, Alchemy*  
+You administer this elixir to yourself or a willing character within Range 5. For the duration (determined by success level), they can *Dash* as a Free Action once on each of their turns. When the elixir wears off, the target becomes [[Conditions & Statuses#Slowed|SLOWED]].
+
+| **Success Level** | **Effect**                                                   |
+| :---------------- | ------------------------------------------------------------ |
+| Critical Success  | As Success, but you also gain **+1 SPEED** for the duration. |
+| Success           | Until the end of combat.                                     |
+| Partial Success   | 3 turns.                                                     |
+| Failure           | 2 turns.                                                     |
 
 ---
 ##### Feint

@@ -11,7 +11,7 @@ Your companion has a 0 in **Wit** and **Presence**, and one of (your choice):
 
 Make your selection when choosing this Talent.
 
-Your companion can gain up to **3 Stress**, exceeding this amount causes them to retreat and rest for the rest of the scene. If they would take a **Strain**, it is treated as if they had exceed their **Stress** limit.  
+Your companion can gain up to **3 Stress**, exceeding this amount causes them to retreat and rest for the rest of the scene.  
 
 Unless stated otherwise by other Talents, your Companion will not participate in combat, instead fleeing to safety.
 ##### Efficient Crafter

@@ -4,7 +4,7 @@ When creating a Vanguard, select one weapon from the list below. You are encoura
 **Damage:** 1d12+1 || 2d12+2 || 3d12+3  
 ##### Longspear
 *Melee Attack, Reach 2*  
-**Damage:** 1d6+1 || 2d6+2 || 3d6+3  
+**Damage:** 1d8+1 || 2d8+2 || 3d8+3  
 ##### Scythe
 *Melee Attack, Reach 1*  
 *[[Keywords#Graze|Graze]]*  
@@ -15,8 +15,8 @@ When creating a Vanguard, select one weapon from the list below. You are encoura
 **Damage:** 1d10+1 || 2d10+2 || 3d10+3  
 ##### Sword & Board
 *Melee Attack, Reach 1*  
-**Damage:** 1d6+1 || 2d6+2 || 3d6+3  
-At the start of each of your turns, you gain 1 || 2 || 3 [[Keywords#Shield|Shield]].
+**Damage:** 1d8+1 || 2d8+2 || 3d8+3  
+At the start of each of your turns, you gain 2 || 4 || 6 [[Keywords#Shield|Shield]].
 ##### Tungsten Maul
 *Melee Attack, Reach 1*  
 *[[Keywords#Inaccurate|Inaccurate]], [[Keywords#Deadly|Deadly]]*  

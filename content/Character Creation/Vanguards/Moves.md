@@ -15,6 +15,11 @@ Make an attack with your weapon against a character within Reach. On a hit, the 
 You take this Reaction when you would take damage. You may halve the amount of incoming damage (rounded down), and any other damage you would take before the start of your next turn. You are also [[Conditions & Statuses#Stunned|STUNNED]].
 
 -----
+##### Charge
+*3 Adrenaline, Minor Action, Rush*  
+*Dash* and then immediately *Shove* a target. On a hit, they take **1d6 || 2d6 || 3d6 damage**.
+
+-----
 ##### Combo
 *2 Adrenaline, Free Action, Momentum*  
 When you hit someone with your *Basic Attack*, you may use this **Move** to immediately deal an additional **2d4 || 4d4 || 6d4 damage** to the target.

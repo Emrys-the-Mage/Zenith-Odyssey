@@ -12,25 +12,31 @@ Long term:
 | :-----------: | :---------------------------------------------- | :------------------------------------ | :---------------------------------- |
 |   **Grit**    | *Block<br>Guard<br>Protector*                   |                                       |                                     |
 | **Momentum**  | *Combo<br>Whirlwind*                            | *Follow-Up*                           | *Cosmic Uppercut*                   |
-|   **Rush**    | *Super Jump*                                    | *Shadow Strike*                       | *Orbital Dropkick*                  |
+|   **Rush**    | *Charge*<br>*Super Jump*                        | *Shadow Strike*                       | *Orbital Dropkick*                  |
 |  **Tactics**  | *Leg Swipe<br>Vanguard's Taunt*                 |                                       |                                     |
 | **Technique** | *Air Slash<br>Parry<br>Riposte<br>Steel Slash*  | *Energy Slash<br>Perfect Parry*       |                                     |
 |   **Wrath**   | *Batter Up<br>Get Over Here<br>Suplex<br>Throw* | *Chokehold<br>Fissure<br>Ground Slam* | *One Serious Punch*<br>*Tear Apart* |
+Rush:
+- Overclocking. Increase SPEED, increase ???, reduce HP by 1 
 ### Adept
-|     **Tag**      | **Tier I**                                      | **Tier II**             | **Tier III**   |
-| :--------------: | :---------------------------------------------- | :---------------------- | :------------- |
-|   **Alchemy**    | *Infected Shot*                                 |                         |                |
-|    **Gadget**    | *Basic Bomb<br>Paint-Grenade*                   | *Flashbang*             |                |
-| **Misdirection** | *Feint<br>Pocket Sand<br>Smoke Bomb*            | *Decoy<br>Switcheroo*   |                |
-|   **Movement**   | *Dash & Slash<br>Parkour*                       | *Whisper of the Winds*  | *After-Images* |
-|  **Precision**   | *Analysis<br>Backstab<br>Ricochet*              | *Exploit Vulnerability* |                |
-|     **Trap**     | *Ball Bearings<br>Bear Trap<br>Caltrops<br>Net* |                         |                |
+|     **Tag**      | **Tier I**                                                                 | **Tier II**             | **Tier III**   |
+| :--------------: | :------------------------------------------------------------------------- | :---------------------- | :------------- |
+|   **Alchemy**    | *Acid Vial*<br>*Brawn Cocktail*<br>*Elixir of Celerity*<br>*Infected Shot* |                         |                |
+|    **Gadget**    | *Basic Bomb<br>Paint-Grenade*                                              | *Flashbang*             |                |
+| **Misdirection** | *Feint<br>Pocket Sand<br>Smoke Bomb*                                       | *Decoy<br>Switcheroo*   |                |
+|   **Movement**   | *Dash & Slash<br>Parkour*                                                  | *Whisper of the Winds*  | *After-Images* |
+|  **Precision**   | *Analysis<br>Backstab<br>Ricochet*                                         | *Exploit Vulnerability* |                |
+|     **Trap**     | *Ball Bearings<br>Bear Trap<br>Caltrops<br>Net*                            |                         |                |
 ##### Ideas
 - Alchemy
 	- Web grenade
-	- Potions/elixirs
-	- Fire grenade
-	- AcidW
+	- Acid. Damage + Vulnerable
+		- Tier II or III one that is Acid Rain, increases vulnerable every turn you are there
+	- Ironskin Elixir for Shield/Resistant
+	- Owlsight Potion, +1 Boon on some actions? Ignore invisible + some other effect?
+- Gadget
+	- Turret
+	- Jet Pack. Bunch of movement, all of which is flight, plus another effect
 ### Mage
 |  **Tag**  | **Tier I**                                         | **Tier II**            | **Tier III**                       |
 | :-------: | :------------------------------------------------- | :--------------------- | :--------------------------------- |
